@@ -1,0 +1,31 @@
+# Preface {.unnumbered}
+
+This quarto book documents the minutes for meetings within Implementing an Urban Soil Survey Framework in Minnesota - USDA-NRCS Award #NR236322XXXXC008. This is a living, growing document intended to provide rich, accessible, and transparent documentation of project updates. It will be continuously updated through the life of the project and will be assigned a persistent doi at the end of the project to provide long-term archiving and availability.
+
+## Project Description
+
+\[From Project Proposal\] The purpose of this agreement, between the U.S. Department of Agriculture, Natural Resources Conservation Service (NRCS) and University of Minnesota (Recipient), is to harness existing collective resources, including non-NRCS research, data, specific expertise, and analytical capacity of soils in urban environments to complete a soil survey update. With much of the US population living in Urbanized Areas (UAs), there is a need for improved understanding of soil suitability's, and limitations in these environments. Soil characterization information is needed in these areas as the resources are intensively managed, while current legacy soil survey products are largely out-of-date and provide limited use. Additionally, this agreement will promote the understanding the dynamic nature of soil properties in urban environments and expanding the use of new tools in support of urban agriculture.
+
+## Structure
+
+This document contains meeting minutes created by [Claude.AI](https://claude.ai/) using the transcripts from Zoom meetings. It is broken into two parts:
+
+-   Project Wide Meetings
+-   Small Group Meetings
+
+The meeting minutes from Project Wide Meetings are also posted in the [Project Metadata](https://tcma-urban-soil-mapping.github.io/project-metadata/) e-book, but will be included here for completeness.
+
+## Key Personnel
+
+-   Nic Jelinski; Associate Professor, University of Minnesota (PI)
+-   Joe Brennan; State Soil Scientist, NRCS
+-   Nora Pearson; M.S. Student, University of Minnesota
+-   Dan Wing; Senior Regional Soil Scientist, NRCS
+-   Randy Riddle; Senior Soil Scientist for Urban Soil Survey, NRCS
+-   Francine Lheritier; Natural Resource Soil Scientist, NRCS
+-   Shaunna Repking; Soil Scientist, NRCS
+-   Patty Burns; Soil Specialist, NRCS Contractor
+
+## Project Website
+
+<https://tcma-urban-soil-mapping.github.io/meeting-minutes/>
