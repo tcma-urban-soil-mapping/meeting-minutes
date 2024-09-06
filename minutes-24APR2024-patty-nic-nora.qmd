@@ -1,0 +1,172 @@
+# Patty, Nic, Nora Check-in 24APR2024
+
+## Date
+
+Wednesday, April 24, 2024
+
+## Attendees
+
+-   Nic Jelinski
+-   Nora Pearson
+-   Patty Burns
+
+## Project Updates
+
+### Permit Status
+
+-   Secured permits for:
+    -   Fish and Wildlife Service (5-6 units along Minnesota River)
+    -   South St. Paul (12-14 park sites)
+-   Pending permits:
+    -   Three Rivers Parks (Hennepin County)
+    -   Roseville
+
+## Sampling Methodology
+
+### Site Selection Strategy
+
+-   Aim for 3 sampling points per soil map unit in larger areas
+-   Use judgment to sample representative landscape positions
+-   Consider accessibility and underground utilities
+-   For residential sites, consider sampling along topographic gradients (e.g. summit, backslope, footslope)
+
+### Field Protocol
+
+-   Use safety vests and set up cones at public sampling sites
+-   Bring multiple types of shovels and tools:
+    -   2 sharpshooters
+    -   2 short-handled shovels
+    -   2 mattocks (pick-axes)
+    -   1 long-handled shovel
+
+### Data Collection
+
+-   Decision to use Nic's existing Survey123 app for pedon descriptions. App includes:
+    -   Geolocation
+    -   Photo upload (site photos, profile photos, field sheet)
+    -   Pedon description form
+
+### Pedon Description Form Updates
+
+-   Patty shared updated draft of Form 232 (pedon description form)
+-   Added bedrock field
+-   Expanded diagnostic horizons section
+-   Removed physiographic location (may add back in simplified form)
+-   Added artifacts page as optional third sheet
+
+## Data Management & Analysis
+
+### Survey123 App
+
+-   Allows easy sharing of data with team members
+-   Provides map interface to view sampling locations
+-   Integrates photos with site data
+
+### NASIS Database
+
+-   Need to develop workflow for transferring data from Survey123 to NASIS
+-   Joe exploring options for automating this process
+
+### Soil Classification Considerations
+
+-   Discussed how to handle urban soils in relation to "natural" soil series
+-   May use tax adjunct concept (e.g. "Lester tax adjunct") for soils with urban modifications
+-   Need to determine classification approach for heavily modified urban soils
+
+## Project Planning
+
+### Kickoff Meeting
+
+-   Date selected (not specified in transcript)
+-   Nora to draft agenda by end of week
+-   Potential presenters:
+    -   Randy Riddle (urban DSM and soil survey)
+    -   Troy Daniels
+
+### Action Items:
+
+-   [ ] Nora: Create draft map of specific sampling points in South St. Paul parks to send to city engineer
+-   [ ] Nora: Follow up on permits for Three Rivers parks and Roseville
+-   [ ] Nora: Schedule sampling days for South St. Paul sites
+-   [ ] Nora: Draft kickoff meeting agenda by end of week
+-   [ ] Nora: Continue developing field "cheat sheet" for common terms, horizon designations, etc.
+-   [ ] Patty: Research options for landform/landscape terminology specific to Twin Cities area
+-   [ ] Patty: Investigate physiographic division/province/section terminology for urban areas
+-   [ ] Patty: Refine Form 232 based on discussion
+-   [ ] Patty: Develop guidance for describing urban soil parent materials
+-   [ ] Joe: Explore options for Survey123 to NASIS data transfer
+-   [ ] Team: Test updated Form 232 in the field and provide feedback
+
+## Detailed Discussion Notes
+
+### Survey123 App Features and Benefits
+
+Nic demonstrated the Survey123 app he's been using for pedon descriptions; key benefits discussed: 1. Automatic geolocation 2. Photo integration (site, profile, field sheet) 3. Data backup/redundancy 4. Easy sharing with team members 5. Map interface to view all sampling locations
+
+The team agreed to use Nic's existing app rather than create a new one, as Nic has refined it over time.
+
+### Form 232 (Pedon Description Form) Updates
+
+Patty walked through her updates to Form 232:
+
+1.  Added bedrock field back in
+2.  Expanded diagnostic horizons section
+3.  Removed physiographic location (may add back in simplified form)
+4.  Added artifacts page as optional third sheet
+
+The team discussed various aspects of the form, including:
+
+-   Land cover classification options
+-   Soil crust and cracks observations
+-   Surface water depth (flooded vs. ponded)
+-   Vegetation description fields
+
+### Urban Soil Classification Challenges
+
+The team had an in-depth discussion about how to handle urban soils in relation to "natural" soil series. Key points:
+
+1.  Many urban soils have fill or other anthropogenic materials overlying natural soils
+2.  Need to determine how to classify these modified soils
+3.  May use tax adjunct concept (e.g. "Lester tax adjunct") for soils with urban modifications
+4.  Heavily modified soils may need new classification approaches
+
+Patty explained: "So we have an artesol of a Lester? Lester is in your front yard, is now an artesol? Is it a tax adjunct? Do we still get to call it, like Lester tax adjunct and give Lester a new classification?"
+
+The team acknowledged this is new territory that will require careful consideration.
+
+### Digital Soil Mapping Approach
+
+Patty outlined a potential approach for digital soil mapping in urban areas:
+
+1.  Sample and classify soils at point locations
+2.  Use modeling to predict soil properties across the landscape
+3.  Group similar soils into map units for vector-based products
+
+This approach would allow for more detailed mapping while still producing traditional soil survey products.
+
+### Sampling Strategy for Residential Sites
+
+The team discussed how to approach sampling in residential areas, particularly when dealing with topographic variation within a single property. Patty suggested:
+
+"Usually when we go out and do DSMs, we'll have 1 point like you'll go. Your point was your backyard. Then we usually went upslope and down slope, and so to get a little bit more of that slope profile. What's going on?"
+
+This approach could provide more context for how soils change across the landscape, even within a single residential lot.
+
+### Kickoff Meeting Planning
+
+The team discussed preparations for the project kickoff meeting:
+
+1.  Date has been selected (not specified in transcript)
+2.  Nora to draft agenda by end of week
+3.  Potential presenters:
+    -   Randy Riddle (urban DSM and soil survey)
+    -   Troy Daniels
+
+## Next Steps
+
+1.  Begin sampling in South St. Paul parks
+2.  Follow up on outstanding permit requests (Three Rivers, Roseville)
+3.  Schedule more residential sampling appointments
+4.  Finalize and distribute kickoff meeting agenda
+5.  Continue refining Form 232 and field protocols
+6.  Develop guidance materials (cheat sheets) for field staff

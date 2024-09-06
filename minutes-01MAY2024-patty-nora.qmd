@@ -1,0 +1,124 @@
+# Patty, Nora Check-in 01MAY2024
+
+## Date
+
+Wednesday, May 1, 2024
+
+## Attendees
+- Nora Pearson
+- Patty Burns
+
+## Project Updates
+
+### Sampling Progress
+- 5 residential sites sampled so far:
+  - Nic's house
+  - Nora's mom's house
+  - Nora's house
+  - Jen's house (South Minneapolis)
+  - Katrina's house (Marcy Holmes neighborhood)
+
+### Permit Status
+- New permits secured:
+  - Three Rivers Parks (West Metro)
+- Existing permits:
+  - Fish and Wildlife Service (Minnesota Valley National Wildlife Refuge)
+  - South St. Paul
+- Pending permits:
+  - DNR (Scientific and Natural Areas, State Parks)
+  - Ramsey County
+  - City of Saint Paul
+
+### Action Items:
+- [ ] Nora: Discuss with Nic about reaching out to additional West Metro cities (Golden Valley, New Hope, Crystal, St. Louis Park)
+- [ ] Nora: Follow up on pending permit requests
+
+## Field Protocol Updates
+
+### Pedon Description Form
+Patty shared updates to Form 232 (pedon description form):
+
+1. Added circling options for many fields
+2. Expanded redoximorphic features and concentrations sections
+3. Added artifacts page as optional third sheet
+4. Included physiographic division information
+
+Key discussion points:
+- Artifacts page follows Red Book guidelines
+- Circling options will help speed up field work and reduce errors
+- Additional space for colors and textures in upper horizons
+
+### Action Items:
+- [ ] Patty: Send updated Form 232 to Nora
+- [ ] Nora: Test updated form in the field and provide feedback
+- [ ] Patty: Refine landscape/landform options for the Twin Cities area
+- [ ] Nora: Consult with Nic about parent material options relevant to the project area
+
+### Landscape, Landform, and Parent Material Classifications
+
+Patty explained the interconnected nature of landscape, landform, and geomorphic component classifications:
+
+1. Landscape (broad category, e.g., till plain, outwash plain)
+2. Landform (specific feature within landscape, e.g., moraine, terrace)
+3. 2D/3D Geomorphic Components (position on landform)
+
+Key points:
+- Region 10 has a simplified geomorphic guide that narrows down options
+- Parent material classifications should be tailored to expected materials in the Twin Cities area
+
+### Action Items:
+- [ ] Patty: Locate or recreate Region 10 geomorphic guide for the team
+- [ ] Patty: Develop simplified list of landscape/landform options for the project
+- [ ] Nora: Consult with Nick to create list of expected parent materials
+
+## Sampling Methodology
+
+### Site Selection and Scheduling
+- Aiming for 3-4 field days per week
+- Multiple sites per day when possible, especially in parks
+- Residential sites typically limited to one per day
+
+### Gopher State One Call
+- Calling for entire residential properties, but noting backyard focus
+- For parks, Nora pre-flags sampling areas to limit locating work
+
+### Action Items:
+- [ ] Nora: Discuss with National Wildlife Refuge staff about potential "safe zones" for sampling without individual Gopher State One Call tickets
+
+## Data Management & Analysis
+
+### NASIS Database
+- Discussed how field observations translate to NASIS data entry
+- Emphasized importance of following Red Book guidelines to streamline data entry process
+
+### Action Item:
+- [ ] Nora: Ensure all team members are familiarizing themselves with Red Book while completing field forms
+
+## Project Planning
+
+### Kickoff Meeting
+- Nora to draft agenda by end of day
+
+### Action Items:
+- [x] Nora: Draft kickoff meeting agenda and send to Patty and Joe
+- [ ] Patty: Review draft agenda with Joe and provide feedback
+
+## Detailed Discussion Notes
+
+### Form 232 Updates
+
+Patty walked through her updates to Form 232, highlighting the new artifacts page. Nora expressed enthusiasm for the updates.
+
+### Landscape and Landform Classifications
+
+Patty explained the hierarchical nature of landscape and landform classifications. She further elaborated on how these classifications relate to 2D and 3D geomorphic components:
+
+Nora and Patty discussed landscapes, landforms, and parent materials that have been identified during field work thus far.
+
+## Next Steps
+
+1. Begin using updated Form 232 in the field
+2. Continue sampling at secured sites (South St. Paul, Three Rivers Parks)
+3. Follow up on pending permit requests
+4. Develop simplified landscape/landform and parent material classification guides
+5. Draft and distribute kickoff meeting agenda
