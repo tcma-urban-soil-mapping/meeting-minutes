@@ -1,0 +1,121 @@
+# Patty and Nora Check-in 08JUL2024
+
+**Date: Monday, July 8, 2024**
+
+## Agenda
+
+1.  Field work logistics for the upcoming week
+2.  Team composition and participation
+3.  Survey123 access for non-UMN team members
+4.  Project poster development
+5.  Area of Interest (AOI) boundary updates
+6.  NASA's project approval
+
+## 1. Field Work Logistics
+
+### Action Items:
+
+- [ ] Nora to email Patty and Adam with detailed information about field work locations, meeting times, and logistics by end of day.
+- [ ] Nora to confirm if Cato will be participating in field work.
+
+### Discussion:
+
+The team discussed the field work schedule for the upcoming week:
+
+-   Tuesday (July 9): French Park (all day)
+-   Wednesday (July 10): French Park (morning), Eagle Lake (afternoon)
+-   Thursday (July 11): Eagle Lake (all day)
+
+Meeting time is set for 8:30 AM at the parks. Nora will provide specific parking information and lunch details in her follow-up email. They agreed that Patty and Adam would arrange their own transportation to the sites.
+
+## 2. Team Composition and Participation
+
+### Discussion:
+
+The team confirmed participation for the field work:
+
+-   Nora and Gen from UMN (possibly Cato)
+-   Patty (Tuesday only)
+-   Adam (Wednesday only)
+
+Patty mentioned that Adam is new to the team, having started just last week.
+
+## 3. Survey123 Access for Non-UMN Team Members
+
+### Action Items:
+
+- [ ] Nora to contact UMN IT support about adding non-UMN emails to Survey123.
+
+### Discussion:
+
+Patty has successfully installed Field Maps and Survey123 on her phone but cannot access the UMN-specific surveys. Nora is having difficulties adding non-UMN emails to their Survey123 account. They discussed potential workarounds, such as pairing NRCS team members with UMN members to complete surveys if access cannot be granted.
+
+## 4. Project Poster Development
+
+### Action Items:
+
+- [ ] Nora to create and send a draft project poster to Patty and Joe by end of day.
+- [ ] Patty and Joe to review and provide feedback on the poster draft by end of week.
+
+### Discussion:
+
+Nora is creating a poster for the project, which will be presented at an LTER (Long Term Ecological Research) Midterm Review event on July 17th. The poster will provide an overview of the project without including specific soil data. Patty suggested that this poster could also be useful for Joe to use at future events and for general project information sharing.
+
+## 5. Area of Interest (AOI) Boundary Updates
+
+### Action Items:
+
+- [ ] Patty to finalize AOI boundary updates within the next week.
+- [ ] Patty to share the updated AOI file through the U of M Box folder.
+
+### Discussion:
+
+Patty has been working on smoothing the AOI boundary and making adjustments based on land cover data. She described some of the challenges in determining what areas to include or exclude. They are working on removing large areas of organic swamps from the AOI, but only if they connect to the edge to avoid creating "Swiss cheese" effects in the map.
+
+## 6. NASA's Project Approval
+
+### Action Items:
+
+- [ ] Patty to create a NASIS project for approval by the end of the fiscal year.
+
+### Discussion:
+
+Patty explained the importance of having an approved NASA's project:
+
+Patty: "Nothing officially exists unless it's in NASA's, and it has an approved project. So yeah, the impetus on that. And again, those are rules that their NRCS kind of rules and doesn't really pertain to you guys. But it's, you know, things we have to follow."
+
+This approval is necessary for the project to be officially recognized within the NRCS system.
+
+## Additional Notes
+
+1.  Field Work Integration: Adam, a new team member, will be joining the field work on Wednesday. Nora will ensure he receives all necessary information.
+
+2.  Equipment and Materials: Nora confirmed that she would provide all necessary field equipment, including clipboards and data sheets. Team members should bring their own lunch and plenty of water.
+
+3.  Weather Considerations: The team noted that temperatures would be in the low 80s during field work days.
+
+4.  Future Field Work: Patty confirmed her availability for field work on July 23rd and 24th at Bryant Lake Regional Park.
+
+5.  Poster Presentation: Nora will be presenting the project poster at an LTER Midterm Review event on Wednesday, July 17th, from 6-9 PM.
+
+## Conclusion
+
+The meeting concluded with a clear plan for the upcoming field work and several action items related to project documentation and data management. Both Nora and Patty have specific tasks to complete to ensure smooth operations and progress on the urban soil survey project.
+
+## Summary of Action Items
+
+1.  Nora to email Patty and Adam with detailed field work information by end of day
+2.  Nora to confirm Cato's participation in field work
+3.  Nora to update the team on Adam's participation for Wednesday
+4.  Nora to contact UMN IT support about adding non-UMN emails to Survey123
+5.  Nora to create and send a draft project poster to Patty and Joe by end of day
+6.  Patty and Joe to review and provide feedback on the poster draft by end of week
+7.  Patty to finalize AOI boundary updates within the next week
+8.  Patty to share the updated AOI file through the U of M Box folder
+9.  Patty to create a NASA's project for approval by the end of the fiscal year
+10. Nora to prepare necessary field equipment and data sheets for upcoming field work
+11. Nora to include AOI map in the project poster (using updated version if available in time)
+12. Patty to coordinate with Joe on final AOI boundary approval
+13. Nora to follow up on Survey123 access issues if not resolved before field work
+
+The team is well-prepared for the upcoming field work and has clear tasks assigned to ensure progress on various aspects of the urban soil survey project. The meeting demonstrated good communication and coordination between the UMN and NRCS team members.

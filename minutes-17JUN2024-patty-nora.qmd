@@ -1,0 +1,199 @@
+# Patty and Nora Check-in 17JUN2024
+
+## Date: Monday, June 17, 2024
+
+### Agenda
+
+1.  Upcoming field work schedule
+2.  Required apps and tools for field work
+3.  Updates on project tasks and planning
+4.  Discussion of urban soil classification
+5.  Miscellaneous project updates
+
+### 1. Upcoming Field Work Schedule
+
+Nora and Patty discussed and confirmed dates for upcoming field work:
+
+-   July 9-10: Field work in Plymouth
+    -   French Park and Eagle Lake Park confirmed
+-   July 23-24: Field work in Eden Prairie
+    -   Bryant Lake Park tentatively planned
+
+Patty expressed flexibility for additional days if needed. They agreed to start field work on Tuesdays to align with the team's schedule of no field work on Mondays.
+
+Nora mentioned her upcoming vacation: 
+- June 24 - July 5: Nora will be in Europe 
+- July 8: Nora returns to work
+
+Patty noted she'll be in the Twin Cities area for dog-sitting during the week of July 22nd, making her available for field work.
+
+**Action Items:** 
+
+- [ ] Nora to confirm with Gen about field work plans for July 23-24 
+- [ ] Nora to send Patty more detailed information about sampling locations once finalized
+
+### 2. Required Apps and Tools for Field Work
+
+Patty inquired about necessary apps and tools for field work. Nora recommended:
+
+1.  Survey123 app
+    -   Nora will send instructions on how to add surveys to the app
+2.  Camera app for site photos and profile pictures
+3.  Compass app for directional photos
+4.  Soil Web app (optional, but useful); Patty already has this installed
+5.  Soil Explorer app (optional)
+
+Patty mentioned she'll try to get the NRCS Survey123 Pedon Description Form as well.
+
+**Action Items:**
+
+- [ ] Patty to download Survey123, Soil Explorer apps 
+- [ ] Nora to send Patty instructions for adding surveys to Survey123 app 
+- [ ] Patty to attempt getting access to NRCS PedonSurvey123 app
+
+### 3. Updates on Project Tasks and Planning
+
+#### 3.1 Landform Identification for Twin Cities
+
+Nora mentioned she needs to follow up on identifying landforms for the Twin Cities project:
+
+-   Will review notes from the initial Field Review
+-   Plans to look at the email Patty sent to her and Nic about it
+-   Aims to start thinking about it this week, despite Nic being in Alaska
+
+**Action Items:** 
+
+- [ ] Nora to review Field Review notes and email about Twin Cities landforms 
+- [ ] Nora and Patty to draft initial landform identifications for Nic to review later
+
+#### 3.2 Geomorphic Surfaces GIS Layer
+
+Patty proposed creating a GIS layer showing different geomorphic land surfaces:
+
+-   Would help visualize till plains, outwash plains, etc.
+-   Could assist in compartmentalizing data by geomorphic surface rather than just by city
+-   Useful for identifying gaps in sampling and soil type coverage
+
+**Action Items:** 
+
+- [ ] Patty to start working on creating a geomorphic surfaces GIS layer
+
+#### 3.3 Data Synthesis and Grouping
+
+They discussed methods for synthesizing and grouping collected data:
+
+-   Joe suggested creating spreadsheets to track soil classes within different landscapes
+-   Ava mentioned creating landscape diagrams to group sampling locations
+-   The team aims to categorize soils by landscape types (e.g., terrace soils, morainic soils)
+
+**Action Items:** 
+
+- [ ] Team to begin categorizing soil data by landscape types as it's collected
+
+#### 3.4 Project Poster
+
+Nora mentioned she's working on a project poster:
+
+-   Aiming to finish it this week, but no firm deadline
+-   Joe may want to bring it somewhere if completed
+
+**Action Items:** 
+
+- [ ] Nora to continue working on the project poster 
+- [ ] Patty to inform Joe about the poster's progress when they speak
+
+### 4. Discussion of Urban Soil Classification
+
+Patty and Nora discussed the challenges of classifying urban soils, particularly in relation to anthropogenic landscapes:
+
+#### 4.1 Anthropogenic Landscapes (Anthroscapes)
+
+-   Debate over how to classify areas like ball fields in urban settings
+-   Some team members consider most of the Twin Cities an anthroscape due to extensive modification
+-   Others prefer a more nuanced, zoomed-in approach
+
+#### 4.2 Proposed Classification Approach
+
+Patty suggested a layered approach to classification:
+
+1.  Anthroscape as the broad landscape category
+2.  Natural underlying landscape (e.g., terrace)
+3.  Specific anthropogenic landform (e.g., urban park, fill, cut)
+
+This approach aims to capture both the urban nature and the underlying natural landscape.
+
+#### 4.3 Next Steps for Classification
+
+-   Patty plans to reach out to Erik for more clarity on classification methods and to obtain his list of anthropogenic landforms
+-   They aim to create a comprehensive list of landscapes and landforms to use in the project
+
+**Action Items:** 
+
+- [ ] Patty to contact Erik for clarification on urban soil classification and to request his list of anthropogenic landforms 
+- [ ] Patty and Nora to draft a list of landscapes and landforms for the project, incorporating Erik's input
+
+### 5. Miscellaneous Project Updates
+
+#### 5.1 Residential Sampling
+
+Patty received permission from her nephew in Golden Valley to sample on his property. They discussed the logistics of residential sampling:
+
+-   Easier to manage with smaller teams (2 people)
+-   Less disruptive to homeowners
+-   Quicker to complete compared to park sampling
+
+**Action Items:** 
+
+- [ ] Patty to get her nephew's address and forward it to Gen for Gopher State One Call ticket 
+
+#### 5.2 NRCS Involvement
+
+Joe plans to have NRCS teams available for sampling starting August 1st. Nora and Patty discussed how to integrate NRCS teams:
+
+-   Nora or Gen will handle Gopher State One Call tickets and clearances
+-   NRCS teams can then go out to pre-cleared sites
+
+**Action Items:** 
+
+- [ ] Nora to ensure Saint Paul parks permit is completed for August sampling 
+- [ ] Nora to prepare for potential sampling at National Wildlife Refuge in August
+
+#### 5.3 Field Review Follow-up
+
+Nora mentioned a few follow-up items from the Field Review:
+
+-   Team members requested Angela Radke's data and maps
+-   Dan requested that Erik's urban soils handout be shared digitally and suggested he visit in person
+
+**Action Items:** 
+
+- [ ] Nora to distribute Angela Radke's data and maps to team members 
+- [ ] Nora to share Erik's urban soils handout digitally with meeting attendees 
+- [ ] Patty to discuss with Joe about potentially having Erik join for another session
+
+### 6. Other Discussion Points
+
+#### 6.1 Bassett Creek Information
+
+Patty shared an interesting article about Bassett Creek in Minneapolis:
+
+-   The creek starts at Medicine Lake and ends at the Mississippi River
+-   Much of it has been tunneled underground through the city
+-   There are efforts to potentially "daylight" the creek for recreational purposes
+
+#### 6.2 Team Dynamics
+
+Both Patty and Nora expressed appreciation for the project team:
+
+-   Noted the high level of engagement and initiative from team members
+-   Appreciated the balance of field work skills and intellectual curiosity
+
+### Closing Remarks
+
+The meeting concluded with both parties expressing excitement for the upcoming field work and the progress of the project. They agreed to reconnect on July 8th after Nora's return from vacation.
+
+**Final Action Items:** 
+
+- [ ] Patty to prepare all necessary apps and equipment for July 9-10 field work 
+- [ ] Nora to brief the team about Patty's involvement in upcoming field work 
+- [ ] Both to review action items and prepare for next meeting on July 8th

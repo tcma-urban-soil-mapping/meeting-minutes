@@ -1,0 +1,163 @@
+# Patty and Nora Check-in 19AUG2024
+
+**Date: Thursday, August 19, 2024**
+
+### Agenda
+1. Recap of Thursday's wrap-up meeting
+2. Project updates and planning
+3. Field work progress and scheduling
+4. Data management and analysis plans
+5. Future meeting scheduling
+
+### 1. Recap of Thursday's Wrap-up Meeting
+
+Patty provided an overview of the wrap-up meeting that occurred on Thursday:
+
+- Joe recorded the meeting, and transcripts will be available.
+- The team's collaborative work was praised, particularly their ability to work together without conflicts.
+- Discussion on the NASIS project and DSP project occurred.
+- Troy did not attend.
+
+**Action Items:**
+
+- [ ] Nora to review meeting transcripts when available
+
+### 2. Project Updates and Planning
+
+#### 2.1 NASIS Project
+
+Patty discussed her progress and plans for the NASIS project:
+
+- She needs to create a NASIS project and a DSP project in NASIS.
+- Currently working on populating NASIS with project map units.
+- Selected map units with centroids in the Area of Interest (AOI), resulting in nearly 200,000 map units.
+
+**Action Items:**
+
+- [ ] Patty to meet with NRCS GIS specialist Danielle to generate reports and query the data
+- [ ] Patty to work on grouping soils from Web Soil Survey
+- [ ] Patty to continue work on geomorphic surfaces map
+
+#### 2.2 Data Analysis Plans
+
+Discussion on analyzing the 300 points of data already collected:
+
+- Plans to extract information on Ksat, particle size, organic carbon, pH, and bulk density.
+- Randy suggested recreating profiles from incremental sampling data.
+- Consideration of using "correlation boxes" for visualizing data.
+
+**Action Items:**
+
+- [ ] Nora to send Patty a shapefile of sample locations and an Excel sheet with land use information
+- [ ] Patty to review data and discuss with Randy how to handle raised bed samples
+
+#### 2.3 Future Planning
+
+- Bi-monthly meetings with Randy to be scheduled for project updates and guidance.
+- Randy to give a presentation on Human-Transported Materials (HTM) epipedons.
+- Discussion on starting to group sites by parent material and origin of HTM.
+
+**Action Items:**
+
+- [ ] Patty to schedule bi-monthly meetings with Randy
+- [ ] Team to await Randy's presentation on HTM epipedons (date TBD)
+- [ ] Begin grouping sites by parent material and HTM origin (timeline TBD)
+
+### 3. Field Work Progress and Scheduling
+
+#### 3.1 Current Field Work
+
+Nora provided an update on ongoing field work:
+
+- Continuing work in the National Wildlife Refuge, expected to finish this week or early next week.
+- Focus primarily on floodplain areas, with some upland sampling where accessible.
+- Limited Human-Transported Materials (HTM) found in the wildlife refuge areas.
+
+#### 3.2 Upcoming Field Work
+
+Discussion on upcoming field work in city parks:
+
+- Plans to work in St. Paul Parks, Maplewood, and Roseville.
+- St. Paul permit in progress, with additional permission needed from the Pollution Control Agency for Pig's Eye Regional Park (former landfill).
+- Nora hopes to start work in St. Paul parks next week or the week after Labor Day.
+
+**Action Items:**
+
+- [ ] Nora to finalize St. Paul parks permit, including Pollution Control Agency permission
+- [ ] Nora to prepare permit applications for Roseville and Maplewood before end of August
+
+#### 3.3 Field Work During School Year
+
+- Nora plans to help with field work on Fridays when possible.
+- Uncertainty about continued involvement of other U of M crew members during the school year.
+
+**Action Items:**
+
+- [ ] Nora to discuss with Nic about potential continued involvement of U of M crew during school year
+- [ ] Patty to discuss with Joe about NRCS involvement in fall field work
+
+### 4. Data Management and Analysis Plans
+
+#### 4.1 Grouping and Categorizing Data
+
+Discussion on how to start grouping and categorizing collected data:
+
+- Suggestion to use Excel for initial organization.
+- Consideration of creating a flow chart or other visualization methods.
+- Plans to group data by parent material, landscape position, and HTM presence.
+
+**Action Items:**
+
+- [ ] Nora to consult with Nic about preferred methods for grouping description sheets
+- [ ] Patty to begin creating spreadsheets for grouping soils by characteristics
+
+#### 4.2 Classification of Soils
+
+- Discussion on when to classify soils - in the field or later.
+- Nic prefers not classifying in the field, focusing on good descriptions instead.
+
+**Action Items:**
+
+- [ ] Team to focus on thorough field descriptions rather than immediate classification
+- [ ] Discuss classification timing with Randy at next meeting
+
+#### 4.3 Importance of HTM Structure
+
+- Patty emphasized the importance of accurately describing HTM structure.
+- Discussion on the benefits of digging small pits for better structure observation.
+
+**Action Items:**
+
+- [ ] Field teams to prioritize digging small pits when possible for better structure observation
+- [ ] Nora to include request for small pits in future permit applications
+
+### 5. Future Meeting Scheduling
+
+- Agreed to keep the next Monday meeting (August 26th) as scheduled.
+- Discussed potentially moving meetings to Tuesdays at 9 AM starting in September.
+- Agreed to skip the week of Labor Day (September 2nd).
+
+**Action Items:**
+
+- [ ] Nora to send updated meeting invites for future Tuesday meetings
+- [ ] Both to mark calendars for next meeting on September 10th
+
+### Additional Action Items
+
+1. Patty:
+   - [ ] Continue work on NASIS project and report progress at next meeting
+   - [ ] Discuss with Joe about Clayton's involvement in future meetings
+   - [ ] Prepare update on geomorphic surfaces map progress for next meeting
+
+2. Nora:
+   - [ ] Send Patty shapefile of sampling locations and land use Excel sheet
+   - [ ] Finalize St. Paul parks permit and begin work if possible
+   - [ ] Prepare permit applications for Roseville and Maplewood
+   - [ ] Discuss with Nick about U of M crew involvement during school year
+   - [ ] Consult Nick about preferred methods for grouping description sheets
+
+### Closing Remarks
+
+Both Patty and Nora expressed satisfaction with the progress of the project and the collaborative nature of the team. They agreed to keep each other updated on any developments and to continue their regular meetings to ensure smooth project progression.
+
+The meeting concluded with a mutual agreement to reconnect next Monday, August 26th, for their final Monday meeting before potentially switching to Tuesdays in September.

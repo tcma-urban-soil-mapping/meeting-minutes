@@ -1,0 +1,192 @@
+# UMN Field Team Meeting 28MAY2024
+
+## Date
+
+Tuesday, May 28, 2024
+
+## Attendees
+
+-   Nora Pearson
+-   Nic Jelinski
+-   Ava McCune
+-   Katrina Nelson
+-   Gen Saldibar
+-   Cato Kern
+
+## Agenda Items
+
+1.  Outreach events and residential sampling
+2.  Field work logistics
+3.  Communication protocols
+4.  Survey123 usage
+5.  Timeline and priority locations
+6.  Lab work and task assignments
+7.  Building access and keys
+8.  Field sampling methods
+9.  Reporting protocols
+
+## Detailed Discussion
+
+### 1. Outreach Events and Residential Sampling
+
+Ava suggested using outreach events as opportunities to recruit more residential sampling sites.
+
+**Action Items:** 
+
+- [ ] Nora to ask Nic about creating a poster or flyer for the soil survey update project 
+- [ ] Team to create a QR code linking to a Google Form for interested homeowners
+
+### 2. Field Work Logistics
+
+#### Schedule
+
+-   Field work planned for Wednesday, Thursday, and Friday this week
+-   Meeting time: 8:30 AM at the parks (8:10 AM departure from campus)
+
+#### Transportation
+
+-   Team members can choose to meet on campus or drive directly to sites
+-   Nora will create a group chat for coordinating transportation
+
+#### Equipment
+
+-   High-vis vests and cones to be used at public sites
+-   Hard hats and safety glasses available for construction sites
+
+**Action Items:**
+
+- [ ] Nora to order more high-vis vests and cones (aim for 8 total) 
+- [ ] Nora to create kits with necessary equipment for each field team
+
+### 3. Communication Protocols
+
+-   Team agreed to use GroupMe for communication
+-   Nora will schedule field work at least one week in advance
+-   Calendar invites will be created for team members to add themselves
+
+**Action Items:**
+
+- [ ] Nora to set up GroupMe chat and email the link to team members
+- [ ] Nora to add field work events to the shared Google Calendar
+
+### 4. Survey123 Usage
+
+-   Three surveys to be used: pre-sampling, site survey, and potential construction site survey
+-   Nic to share the existing soil survey form with the team
+
+**Action Items:** 
+
+- [ ] Nora to train team on Survey123 usage tomorrow 
+- [ ] Team members to download Survey123 app and relevant surveys
+
+### 5. Timeline and Priority Locations
+
+1.  South St. Paul Parks (current focus)
+2.  Three Rivers Park District (mid-June)
+3.  National Wildlife Refuge (early July)
+4.  Ongoing opportunistic residential and construction sampling
+
+**Action Items:**
+
+- [ ] Nora to schedule Three Rivers Park District sampling for mid-June 
+- [ ] Nora to coordinate with Fish and Wildlife Service contact for July sampling
+
+### 6. Lab Work and Task Assignments
+
+-   Nora created a Task List document for non-field work tasks
+-   Lab work to be conducted on Mondays or when field work is not scheduled
+
+**Action Items:**
+
+- [ ] Nora to train Ava and Gen on sample sieving and pXRF/laser analysis
+- [ ] Team members to check Task List document for available tasks
+
+### 7. Building Access and Keys
+
+-   Team members need after-hours access to Borlaug Hall
+-   Individual keys available for Nic's lab
+
+**Action Items:**
+- [ ] Nora to email Kari about after-hours access for Gen and Cato 
+- [ ] Gen, Cato, and Ava to get individual keys from the main office if desired
+
+### 8. Field Sampling Methods
+
+-   Primarily using augers for sampling
+-   Considering shallow pits (30 cm) in parks if permitted
+-   Construction sites offer opportunities for deeper profile observations
+
+**Action Items:**
+- [ ] Nora to discuss pit sampling with park authorities if appropriate
+- [ ] Team to focus on vertical exposures of at least 3 feet deep at construction sites
+
+### 9. Reporting Protocols
+
+#### Gopher State One Call Tickets
+
+-   Gen to assist Nora with submitting tickets
+-   Process involves using Web Soil Survey, creating maps, and writing descriptions
+
+**Action Items:**
+
+- [ ] Nora and Gen to schedule a Zoom call next Monday to review the ticket submission process
+- [ ] Nora to create a calendar invite for the Zoom call
+
+#### Residential Site Reports
+
+-   Gen volunteered to lead the creation of reports for residential sites
+-   Reports to include site photos, brief description, and project information
+
+**Action Items:**
+
+- [ ] Nic to provide boilerplate text and template for residential reports
+- [ ] Gen to create reports as part of Monday office day routine
+
+## Additional Notes
+
+### Construction Site Sampling
+
+-   Team members encouraged to look for potential construction sites during drives
+-   Use Survey123 to document potential sites
+-   No need to interact with construction crews unless they initiate conversation
+
+### Weather Considerations
+
+-   Team may start earlier (e.g., 7 AM) on extremely hot days
+-   Half-day field work possible during extreme heat
+-   Indoor tasks planned for severe weather days
+
+### Initial Field Review
+
+-   Scheduled for June 12-13
+-   Katrina requested recording of the session due to scheduling conflict
+
+**Action Item:**
+
+- [ ] Nora to coordinate with Patty on recording the initial field review session
+
+## Conclusion
+
+The meeting concluded with a review of immediate action items and confirmation of the next day's field work plans. The team expressed readiness to begin the urban soil survey project and appreciation for the detailed planning.
+
+## Summary of Action Items
+
+1.  Nora to create and distribute GroupMe chat link
+2.  Nora to update Google Calendar with field work schedule
+3.  Nora to order additional high-vis vests and cones
+4.  Nora to create field equipment kits
+5.  Team members to download Survey123 app and relevant surveys
+6.  Nora to train team on Survey123 usage
+7.  Nora to schedule Three Rivers Park District sampling
+8.  Nora to coordinate National Wildlife Refuge sampling
+9.  Nora to email Carrie about after-hours building access
+10. Gen, Cato, and Ava to obtain individual lab keys
+11. Nora and Gen to schedule Zoom call for Gopher State One Call ticket training
+12. Nic to provide template for residential site reports
+13. Gen to lead creation of residential site reports
+14. Nora to coordinate recording of initial field review session
+15. Nora to discuss pit sampling permissions with park authorities
+16. Team members to document potential construction sites during drives
+17. Nora to train Ava and Gen on lab procedures
+
+The team is set to begin field work the following day, with ongoing adjustments to be made as the project progresses.

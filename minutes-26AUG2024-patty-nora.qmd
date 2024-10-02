@@ -1,0 +1,118 @@
+# Patty and Nora Check-in 26AUG2024
+
+**Date: Monday, August 26, 2024**
+
+### Agenda
+1. NASIS Project Update
+2. Field Work Progress and Planning
+3. Permitting Status
+4. Future Meeting Scheduling
+
+### 1. NASIS Project Update
+
+Patty provided an update on her progress with the NASIS project:
+
+- Successfully populated NASIS with project map units.
+- Currently working on creating a working legend within NASIS.
+- 711 unique map units have been added to the project in NASIS.
+- Clarified that the 711 units include duplicates across different counties and slope groups.
+
+Patty explained the process of organizing the map units. She emphasized the need to group these units by parent material, landscape positions, and drainage characteristics to better understand the landscape.
+
+**Action Items:**
+
+- [ ] Patty to consult with Randy about organizing the working legend in NASIS
+- [ ] Patty to create a document outside of NASIS to manipulate and organize soil data
+- [ ] Patty to begin grouping soils by characteristics (parent material, landscape position, drainage)
+
+### 2. Field Work Progress and Planning
+
+Nora provided an update on the current field work:
+
+- This is the last full week of field work for the season.
+- The team is finishing up work in the National Wildlife Refuge.
+- Plans to sample at Nora's house and possibly Nic's house for additional data collection.
+
+Nora mentioned potential future work, including returning to floodplain sites in the NWR. Regarding continued involvement of team members, Nora shared that Gen will be working not more than 10 hours per week and may join for field work occasionally. Nora will also join for fall field work.
+
+**Action Items:**
+
+- [ ] Nora to finalize sampling at her house and coordinate with Nic about sampling at his house
+- [ ] Nora to confirm Gen's availability for fall field work with NRCS
+
+### 3. Permitting Status
+
+Nora provided updates on the permitting process for various locations:
+
+#### St. Paul Parks
+- Waiting for permission from the Pollution Control Agency for Pig's Eye Regional Park.
+- Considering removing Pig's Eye from the sampling list due to delays.
+
+#### Roseville
+- Waiting for a response from the city.
+
+#### Maplewood
+- Working on identifying sampling points for parks and open spaces.
+
+**Action Items:**
+
+- [ ] Nora to email St. Paul parks to remove Pig's Eye from the current permit application
+- [ ] Nora to continue pursuing permission for Pig's Eye separately for potential future sampling
+- [ ] Nora to finalize sampling points for Maplewood parks and open spaces
+- [ ] Nora to follow up with Roseville about permit status
+
+### 4. Future Meeting Scheduling
+
+Discussed changes to future meeting times due to Nora's fall class schedule:
+
+- Agreed to move meetings to Tuesdays at 10:30 AM starting September 10th.
+- No meeting scheduled for the week of Labor Day (September 2nd).
+
+Patty inquired about the continued involvement of Adam and Kasia in meetings and field work. Nora confirmed their ongoing participation in Monday meetings and GroupMe.
+
+**Action Items:**
+
+- [ ] Nora to send updated meeting invites for Tuesday 10:30 AM meetings starting September 10th
+- [ ] Nora to keep Adam and Kasia informed about permitting progress and potential field work
+
+### 5. Data Management and Analysis Plans
+
+Discussed plans for organizing and analyzing the collected data.
+
+**Action Items:**
+
+- [ ] Patty to begin manual review of Official Soil Descriptions (OSDs) for each series
+- [ ] Patty to create a system for organizing soil data by characteristics
+
+### 6. Miscellaneous Updates
+
+#### Shapefile for Legacy Data
+Nora mentioned she still needs to send Patty a shapefile of sampling locations from a previous project.
+
+**Action Item:**
+
+- [ ] Nora to send Patty the shapefile of sampling locations from the legacy data project
+
+#### NRCS Involvement in Fall Field Work
+Discussed the need to coordinate with Joe about NRCS involvement in fall field work once permits are secured.
+
+**Action Items:**
+
+- [ ] Patty to coordinate with Joe about assembling NRCS teams for fall field work
+- [ ] Nora to keep Patty and Joe updated on permitting progress to facilitate field work planning
+
+### 7. Project Deadlines and Next Steps
+
+Patty mentioned some upcoming deadlines and next steps for the project:
+
+**Action Items:**
+
+- [ ] Patty to complete remaining tables for Project One by October 1st
+- [ ] Patty to begin work on the DSP (Digital Soil Mapping) project in NASIS
+- [ ] Patty to start stratifying the legend and creating soil groupings in October
+
+### Closing Remarks
+
+Both Patty and Nora expressed satisfaction with the progress of the project and the collaborative nature of the team. They agreed to keep each other updated on any developments and to continue their regular meetings to ensure smooth project progression.
+
+The meeting concluded with a discussion about the current hot and humid weather affecting field work and plans for the upcoming State Fair. They confirmed their next meeting would be on September 10th, skipping the Labor Day week.

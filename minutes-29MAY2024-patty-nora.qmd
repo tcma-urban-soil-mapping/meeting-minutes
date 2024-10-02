@@ -1,0 +1,178 @@
+# Patty and Nora Check-in 29MAY2024
+
+## Date: Wednesday, May 29, 2024
+
+### Agenda
+
+1.  Initial Field Review Planning
+2.  Sampling Site Selection
+3.  Transportation and Logistics
+4.  Agenda Development
+
+### 1. Initial Field Review Planning
+
+#### 1.1 Transportation
+
+Nora confirmed she will reserve transportation for the field review: - 2 10-passenger vans, or 3 minivans if 10-passenger vans are unavailable - This will provide seating for at least 20 people
+
+**Action Items:** 
+
+- \[ \] Nora to reserve vans for field review (2 10-passenger or 3 minivans)
+
+#### 1.2 Attendees
+
+Patty and Nora discussed the expected number of attendees: - NRCS: Approximately 10 people - University of Minnesota: 5-6 people, including students
+
+Patty mentioned that Joe may invite additional people if space allows.
+
+**Action Items:** 
+
+- \[ \] Patty to confirm final NRCS attendee list with Joe 
+- \[ \] Nora to confirm final University of Minnesota attendee list, including students
+
+### 2. Sampling Site Selection
+
+#### 2.1 Confirmed Sites
+
+-   Joe's house (residential site)
+-   Veterans Park in South St. Paul (intact park site)
+
+#### 2.2 Commercial/Disturbed Site
+
+Discussion on potential sites for the commercial/disturbed location: - Nora suggested the Arden Hills Army Training Site (AHATS) - Patty agreed this could be a good option
+
+**Action Items:** 
+
+- \[ \] Nora to discuss AHATS as a potential site with Nic 
+- \[ \] Nora to provide coordinates for Veterans Park to Patty 
+- \[ \] Patty to obtain Joe's address for the residential site
+
+#### 2.3 Sampling Schema
+
+Joe requested a map of 30-50 potential sampling sites before the field review: - Sites should be spatially distributed across the Area of Interest (AOI) - Include a mix of residential, park, and commercial locations
+
+**Action Items:** 
+
+- \[ \] Nora to create a Google Maps with 30-50 pins for potential sampling locations 
+- \[ \] Nora to send the Google Maps link to Patty for distribution
+
+### 3. Transportation and Logistics
+
+#### 3.1 Meeting Location
+
+Agreed to meet at Borlaug Hall on the University of Minnesota campus: - Meeting time: Between 8:00 and 8:30 AM - Vans will be parked outside Borlaug Hall
+
+#### 3.2 Parking
+
+Discussed parking options for attendees: - \$13/day lot directly in front of Borlaug Hall - \$6/day lot near the fairgrounds (6-minute walk)
+
+**Action Items:** 
+
+- \[ \] Nora to ask Nic about potentially covering parking costs for attendees 
+- \[ \] Nora to provide parking information to Patty for the agenda email
+
+#### 3.3 Hotel Recommendations
+
+For out-of-town attendees, Joe suggested two hotels: 1. Best Western Plus Bandana Square 2. Marriott in Northeast Minneapolis (near the Quarry Shopping Center)
+
+**Action Items:** 
+
+- \[ \] Patty to include hotel recommendations in the agenda email
+
+### 4. Agenda Development
+
+#### 4.1 Day 1 Morning Session
+
+Discussed the agenda for the first day's morning session:
+
+9:00 AM - 10:30 AM: Project Overview - Nic to present (content to be determined)
+
+10:30 AM - 11:00 AM: AOI and Sampling Schema - Nora to present - Include discussion of river bottoms and two seasons of field work
+
+11:00 - 11:20: Angela Radke (Minnesota Geological Survey) to present on local geology
+
+11:20 - 11:40: Pete (NRCS) to discuss prominent soils and parent materials
+
+11:40 - 12:00: Dan to lead discussion on incorporating historical documentation and lab data
+
+**Action Items:** 
+
+- \[ \] Nora to contact Angela Radke about presenting 
+- \[ \] Patty to contact Pete about presenting 
+- \[ \] Patty to confirm with Dan about leading the discussion
+
+#### 4.2 Day 1 Afternoon Session
+
+1:00 PM - 2:00 PM: Erik (Urban Team) to present
+
+2:30 PM - 4:30 PM: Visit to Joe's house (residential site)
+
+#### 4.3 Day 2
+
+8:00 AM - 8:30 AM: Meet at Borlaug Hall, load vans
+
+9:00 AM - 12:00 PM: Visit Veterans Park in South St. Paul
+
+Afternoon: Visit commercial/disturbed site (location TBD)
+
+### 5. Additional Discussion Points
+
+#### 5.1 Plot Radius/Break in Landscape
+
+Patty explained the concept of plot radius and break in landscape for soil sampling: - Measure the shortest distance to a change in landscape features (slope, vegetation, etc.) - Use this distance to inform the model about the area represented by each sample point
+
+Nora raised concerns about determining plot radius in residential areas with limited visibility; agreed to discuss this further during the field review
+
+**Action Items:** 
+
+- \[ \] Add plot radius/break in landscape discussion to the field review agenda
+
+#### 5.2 Working Legend in NASIS
+
+Patty mentioned the need to create a working legend in NASIS. She will consult with Randy about the best approach. The group may create an external document for easier manipulation of data.
+
+**Action Items:** 
+
+- \[ \] Patty to consult with Randy about working legend in NASIS 
+- \[ \] Patty to begin organizing soil map units by parent material and landscape position
+
+#### 5.3 Involvement of Albert Lea Office
+
+Discussed the involvement of Clayton and Kellen from the Albert Lea office. They will be helping with field work throughout the project. Their expertise will be crucial for building map units in NASIS.
+
+**Action Items:** 
+
+- \[ \] Patty to coordinate with Joe about Clayton and Kellen's involvement in the project
+
+#### 5.4 Digital Soil Mapping
+
+Briefly discussed the process of creating a raster product and converting it back to vector format for Web Soil Survey. They acknowledged the need to involve Nic's postdoc (Sarick) in this process and agreed to have a separate meeting about DSM specifics at a later date.
+
+**Action Items:** 
+
+- \[ \] Schedule a future meeting to discuss Digital Soil Mapping specifics with Sarick, Joe, and other relevant team members
+
+### 6. Next Steps
+
+1.  Nora to contact Nic about:
+    -   AHATS as a potential commercial/disturbed site
+    -   Parking cost coverage for attendees
+    -   Content for Nic's presentation
+    -   Inviting Sarick (postdoc) to the field review
+2.  Patty to:
+    -   Finalize the agenda based on Nora's input
+    -   Contact Pete and Dan about their presentations
+    -   Coordinate with Joe about NRCS attendees and Clayton/Kellen's involvement
+3.  Both to prepare for sending out the final agenda and logistics email by the end of the week
+
+**Action Items:** 
+
+- \[ \] Nora to email Patty with updates after speaking with Nic 
+- \[ \] Patty to draft the agenda and logistics email 
+- \[ \] Nora to provide Patty with all necessary University of Minnesota attendee emails
+
+### Closing Remarks
+
+Both Patty and Nora expressed satisfaction with the progress made in planning the initial field review. They agreed to stay in close communication over the next few days to finalize all details and send out the agenda to attendees by the end of the week.
+
+The meeting concluded with a brief personal discussion about home renovation projects and tree removal, highlighting the positive working relationship between Patty and Nora.
