@@ -1,6 +1,11 @@
 # Patty and Nora Check-in 17JUN2024
 
-## Date: Monday, June 17, 2024
+**Date: Monday, June 17, 2024**
+
+## Attendees
+
+- Patty Burns
+- Nora Pearson
 
 ### Agenda
 
@@ -21,16 +26,14 @@ Nora and Patty discussed and confirmed dates for upcoming field work:
 
 Patty expressed flexibility for additional days if needed. They agreed to start field work on Tuesdays to align with the team's schedule of no field work on Mondays.
 
-Nora mentioned her upcoming vacation: 
-- June 24 - July 5: Nora will be in Europe 
-- July 8: Nora returns to work
+Nora mentioned her upcoming vacation: - June 24 - July 5: Nora will be in Europe - July 8: Nora returns to work
 
 Patty noted she'll be in the Twin Cities area for dog-sitting during the week of July 22nd, making her available for field work.
 
-**Action Items:** 
+**Action Items:**
 
-- [ ] Nora to confirm with Gen about field work plans for July 23-24 
-- [ ] Nora to send Patty more detailed information about sampling locations once finalized
+-   [ ] Nora to confirm with Gen about field work plans for July 23-24
+-   [ ] Nora to send Patty more detailed information about sampling locations once finalized
 
 ### 2. Required Apps and Tools for Field Work
 
@@ -47,9 +50,9 @@ Patty mentioned she'll try to get the NRCS Survey123 Pedon Description Form as w
 
 **Action Items:**
 
-- [ ] Patty to download Survey123, Soil Explorer apps 
-- [ ] Nora to send Patty instructions for adding surveys to Survey123 app 
-- [ ] Patty to attempt getting access to NRCS PedonSurvey123 app
+-   [ ] Patty to download Survey123, Soil Explorer apps
+-   [ ] Nora to send Patty instructions for adding surveys to Survey123 app
+-   [ ] Patty to attempt getting access to NRCS PedonSurvey123 app
 
 ### 3. Updates on Project Tasks and Planning
 
@@ -61,10 +64,10 @@ Nora mentioned she needs to follow up on identifying landforms for the Twin Citi
 -   Plans to look at the email Patty sent to her and Nic about it
 -   Aims to start thinking about it this week, despite Nic being in Alaska
 
-**Action Items:** 
+**Action Items:**
 
-- [ ] Nora to review Field Review notes and email about Twin Cities landforms 
-- [ ] Nora and Patty to draft initial landform identifications for Nic to review later
+-   [ ] Nora to review Field Review notes and email about Twin Cities landforms
+-   [ ] Nora and Patty to draft initial landform identifications for Nic to review later
 
 #### 3.2 Geomorphic Surfaces GIS Layer
 
@@ -74,9 +77,9 @@ Patty proposed creating a GIS layer showing different geomorphic land surfaces:
 -   Could assist in compartmentalizing data by geomorphic surface rather than just by city
 -   Useful for identifying gaps in sampling and soil type coverage
 
-**Action Items:** 
+**Action Items:**
 
-- [ ] Patty to start working on creating a geomorphic surfaces GIS layer
+-   [ ] Patty to start working on creating a geomorphic surfaces GIS layer
 
 #### 3.3 Data Synthesis and Grouping
 
@@ -86,9 +89,9 @@ They discussed methods for synthesizing and grouping collected data:
 -   Ava mentioned creating landscape diagrams to group sampling locations
 -   The team aims to categorize soils by landscape types (e.g., terrace soils, morainic soils)
 
-**Action Items:** 
+**Action Items:**
 
-- [ ] Team to begin categorizing soil data by landscape types as it's collected
+-   [ ] Team to begin categorizing soil data by landscape types as it's collected
 
 #### 3.4 Project Poster
 
@@ -97,10 +100,10 @@ Nora mentioned she's working on a project poster:
 -   Aiming to finish it this week, but no firm deadline
 -   Joe may want to bring it somewhere if completed
 
-**Action Items:** 
+**Action Items:**
 
-- [ ] Nora to continue working on the project poster 
-- [ ] Patty to inform Joe about the poster's progress when they speak
+-   [ ] Nora to continue working on the project poster
+-   [ ] Patty to inform Joe about the poster's progress when they speak
 
 ### 4. Discussion of Urban Soil Classification
 
@@ -127,10 +130,10 @@ This approach aims to capture both the urban nature and the underlying natural l
 -   Patty plans to reach out to Erik for more clarity on classification methods and to obtain his list of anthropogenic landforms
 -   They aim to create a comprehensive list of landscapes and landforms to use in the project
 
-**Action Items:** 
+**Action Items:**
 
-- [ ] Patty to contact Erik for clarification on urban soil classification and to request his list of anthropogenic landforms 
-- [ ] Patty and Nora to draft a list of landscapes and landforms for the project, incorporating Erik's input
+-   [ ] Patty to contact Erik for clarification on urban soil classification and to request his list of anthropogenic landforms
+-   [ ] Patty and Nora to draft a list of landscapes and landforms for the project, incorporating Erik's input
 
 ### 5. Miscellaneous Project Updates
 
@@ -142,9 +145,9 @@ Patty received permission from her nephew in Golden Valley to sample on his prop
 -   Less disruptive to homeowners
 -   Quicker to complete compared to park sampling
 
-**Action Items:** 
+**Action Items:**
 
-- [ ] Patty to get her nephew's address and forward it to Gen for Gopher State One Call ticket 
+-   [ ] Patty to get her nephew's address and forward it to Gen for Gopher State One Call ticket
 
 #### 5.2 NRCS Involvement
 
@@ -153,10 +156,10 @@ Joe plans to have NRCS teams available for sampling starting August 1st. Nora an
 -   Nora or Gen will handle Gopher State One Call tickets and clearances
 -   NRCS teams can then go out to pre-cleared sites
 
-**Action Items:** 
+**Action Items:**
 
-- [ ] Nora to ensure Saint Paul parks permit is completed for August sampling 
-- [ ] Nora to prepare for potential sampling at National Wildlife Refuge in August
+-   [ ] Nora to ensure Saint Paul parks permit is completed for August sampling
+-   [ ] Nora to prepare for potential sampling at National Wildlife Refuge in August
 
 #### 5.3 Field Review Follow-up
 
@@ -165,11 +168,11 @@ Nora mentioned a few follow-up items from the Field Review:
 -   Team members requested Angela Radke's data and maps
 -   Dan requested that Erik's urban soils handout be shared digitally and suggested he visit in person
 
-**Action Items:** 
+**Action Items:**
 
-- [ ] Nora to distribute Angela Radke's data and maps to team members 
-- [ ] Nora to share Erik's urban soils handout digitally with meeting attendees 
-- [ ] Patty to discuss with Joe about potentially having Erik join for another session
+-   [ ] Nora to distribute Angela Radke's data and maps to team members
+-   [ ] Nora to share Erik's urban soils handout digitally with meeting attendees
+-   [ ] Patty to discuss with Joe about potentially having Erik join for another session
 
 ### 6. Other Discussion Points
 
@@ -192,8 +195,8 @@ Both Patty and Nora expressed appreciation for the project team:
 
 The meeting concluded with both parties expressing excitement for the upcoming field work and the progress of the project. They agreed to reconnect on July 8th after Nora's return from vacation.
 
-**Final Action Items:** 
+**Final Action Items:**
 
-- [ ] Patty to prepare all necessary apps and equipment for July 9-10 field work 
-- [ ] Nora to brief the team about Patty's involvement in upcoming field work 
-- [ ] Both to review action items and prepare for next meeting on July 8th
+-   [ ] Patty to prepare all necessary apps and equipment for July 9-10 field work
+-   [ ] Nora to brief the team about Patty's involvement in upcoming field work
+-   [ ] Both to review action items and prepare for next meeting on July 8th

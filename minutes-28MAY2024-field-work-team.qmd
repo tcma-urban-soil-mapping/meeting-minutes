@@ -1,8 +1,6 @@
 # UMN Field Team Meeting 28MAY2024
 
-## Date
-
-Tuesday, May 28, 2024
+**Date: Tuesday, May 28, 2024**
 
 ## Attendees
 
@@ -31,10 +29,10 @@ Tuesday, May 28, 2024
 
 Ava suggested using outreach events as opportunities to recruit more residential sampling sites.
 
-**Action Items:** 
+**Action Items:**
 
-- [ ] Nora to ask Nic about creating a poster or flyer for the soil survey update project 
-- [ ] Team to create a QR code linking to a Google Form for interested homeowners
+-   [ ] Nora to ask Nic about creating a poster or flyer for the soil survey update project
+-   [ ] Team to create a QR code linking to a Google Form for interested homeowners
 
 ### 2. Field Work Logistics
 
@@ -55,8 +53,8 @@ Ava suggested using outreach events as opportunities to recruit more residential
 
 **Action Items:**
 
-- [ ] Nora to order more high-vis vests and cones (aim for 8 total) 
-- [ ] Nora to create kits with necessary equipment for each field team
+-   [ ] Nora to order more high-vis vests and cones (aim for 8 total)
+-   [ ] Nora to create kits with necessary equipment for each field team
 
 ### 3. Communication Protocols
 
@@ -66,18 +64,18 @@ Ava suggested using outreach events as opportunities to recruit more residential
 
 **Action Items:**
 
-- [ ] Nora to set up GroupMe chat and email the link to team members
-- [ ] Nora to add field work events to the shared Google Calendar
+-   [ ] Nora to set up GroupMe chat and email the link to team members
+-   [ ] Nora to add field work events to the shared Google Calendar
 
 ### 4. Survey123 Usage
 
 -   Three surveys to be used: pre-sampling, site survey, and potential construction site survey
 -   Nic to share the existing soil survey form with the team
 
-**Action Items:** 
+**Action Items:**
 
-- [ ] Nora to train team on Survey123 usage tomorrow 
-- [ ] Team members to download Survey123 app and relevant surveys
+-   [ ] Nora to train team on Survey123 usage tomorrow
+-   [ ] Team members to download Survey123 app and relevant surveys
 
 ### 5. Timeline and Priority Locations
 
@@ -88,8 +86,8 @@ Ava suggested using outreach events as opportunities to recruit more residential
 
 **Action Items:**
 
-- [ ] Nora to schedule Three Rivers Park District sampling for mid-June 
-- [ ] Nora to coordinate with Fish and Wildlife Service contact for July sampling
+-   [ ] Nora to schedule Three Rivers Park District sampling for mid-June
+-   [ ] Nora to coordinate with Fish and Wildlife Service contact for July sampling
 
 ### 6. Lab Work and Task Assignments
 
@@ -98,17 +96,15 @@ Ava suggested using outreach events as opportunities to recruit more residential
 
 **Action Items:**
 
-- [ ] Nora to train Ava and Gen on sample sieving and pXRF/laser analysis
-- [ ] Team members to check Task List document for available tasks
+-   [ ] Nora to train Ava and Gen on sample sieving and pXRF/laser analysis
+-   [ ] Team members to check Task List document for available tasks
 
 ### 7. Building Access and Keys
 
 -   Team members need after-hours access to Borlaug Hall
 -   Individual keys available for Nic's lab
 
-**Action Items:**
-- [ ] Nora to email Kari about after-hours access for Gen and Cato 
-- [ ] Gen, Cato, and Ava to get individual keys from the main office if desired
+**Action Items:** - \[ \] Nora to email Kari about after-hours access for Gen and Cato - \[ \] Gen, Cato, and Ava to get individual keys from the main office if desired
 
 ### 8. Field Sampling Methods
 
@@ -116,9 +112,7 @@ Ava suggested using outreach events as opportunities to recruit more residential
 -   Considering shallow pits (30 cm) in parks if permitted
 -   Construction sites offer opportunities for deeper profile observations
 
-**Action Items:**
-- [ ] Nora to discuss pit sampling with park authorities if appropriate
-- [ ] Team to focus on vertical exposures of at least 3 feet deep at construction sites
+**Action Items:** - \[ \] Nora to discuss pit sampling with park authorities if appropriate - \[ \] Team to focus on vertical exposures of at least 3 feet deep at construction sites
 
 ### 9. Reporting Protocols
 
@@ -129,8 +123,8 @@ Ava suggested using outreach events as opportunities to recruit more residential
 
 **Action Items:**
 
-- [ ] Nora and Gen to schedule a Zoom call next Monday to review the ticket submission process
-- [ ] Nora to create a calendar invite for the Zoom call
+-   [ ] Nora and Gen to schedule a Zoom call next Monday to review the ticket submission process
+-   [ ] Nora to create a calendar invite for the Zoom call
 
 #### Residential Site Reports
 
@@ -139,8 +133,8 @@ Ava suggested using outreach events as opportunities to recruit more residential
 
 **Action Items:**
 
-- [ ] Nic to provide boilerplate text and template for residential reports
-- [ ] Gen to create reports as part of Monday office day routine
+-   [ ] Nic to provide boilerplate text and template for residential reports
+-   [ ] Gen to create reports as part of Monday office day routine
 
 ## Additional Notes
 
@@ -163,7 +157,7 @@ Ava suggested using outreach events as opportunities to recruit more residential
 
 **Action Item:**
 
-- [ ] Nora to coordinate with Patty on recording the initial field review session
+-   [ ] Nora to coordinate with Patty on recording the initial field review session
 
 ## Conclusion
 

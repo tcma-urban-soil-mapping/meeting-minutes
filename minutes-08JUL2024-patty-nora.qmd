@@ -2,6 +2,11 @@
 
 **Date: Monday, July 8, 2024**
 
+## Attendees
+
+- Patty Burns
+- Nora Pearson
+
 ## Agenda
 
 1.  Field work logistics for the upcoming week
@@ -15,8 +20,8 @@
 
 ### Action Items:
 
-- [ ] Nora to email Patty and Adam with detailed information about field work locations, meeting times, and logistics by end of day.
-- [ ] Nora to confirm if Cato will be participating in field work.
+-   [ ] Nora to email Patty and Adam with detailed information about field work locations, meeting times, and logistics by end of day.
+-   [ ] Nora to confirm if Cato will be participating in field work.
 
 ### Discussion:
 
@@ -44,7 +49,7 @@ Patty mentioned that Adam is new to the team, having started just last week.
 
 ### Action Items:
 
-- [ ] Nora to contact UMN IT support about adding non-UMN emails to Survey123.
+-   [ ] Nora to contact UMN IT support about adding non-UMN emails to Survey123.
 
 ### Discussion:
 
@@ -54,8 +59,8 @@ Patty has successfully installed Field Maps and Survey123 on her phone but canno
 
 ### Action Items:
 
-- [ ] Nora to create and send a draft project poster to Patty and Joe by end of day.
-- [ ] Patty and Joe to review and provide feedback on the poster draft by end of week.
+-   [ ] Nora to create and send a draft project poster to Patty and Joe by end of day.
+-   [ ] Patty and Joe to review and provide feedback on the poster draft by end of week.
 
 ### Discussion:
 
@@ -65,8 +70,8 @@ Nora is creating a poster for the project, which will be presented at an LTER (L
 
 ### Action Items:
 
-- [ ] Patty to finalize AOI boundary updates within the next week.
-- [ ] Patty to share the updated AOI file through the U of M Box folder.
+-   [ ] Patty to finalize AOI boundary updates within the next week.
+-   [ ] Patty to share the updated AOI file through the U of M Box folder.
 
 ### Discussion:
 
@@ -76,7 +81,7 @@ Patty has been working on smoothing the AOI boundary and making adjustments base
 
 ### Action Items:
 
-- [ ] Patty to create a NASIS project for approval by the end of the fiscal year.
+-   [ ] Patty to create a NASIS project for approval by the end of the fiscal year.
 
 ### Discussion:
 

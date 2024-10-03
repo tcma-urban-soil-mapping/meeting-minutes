@@ -1,5 +1,7 @@
 # Urban Dynamic Soil Properties Discussion 12JAN2024
 
+**Date: Friday, January 12, 2024**
+
 ## Attendees
 
 -   Nic Jelinski, University of Minnesota
@@ -11,9 +13,6 @@
 -   Dan Wing, NRCS
 -   Randy Riddle, NRCS
 -   Francine Lheritier, NRCS
-
-## Date
-Friday, January 12, 2024
 
 ## Agenda
 

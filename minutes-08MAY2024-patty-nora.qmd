@@ -1,106 +1,113 @@
-# Patty, Nora Check-in 08MAY2024
+# Patty and Nora Check-in 08MAY2024
 
-## Date
-
-Wednesday, May 8, 2024
+**Date: Wednesday, May 8, 2024**
 
 ## Attendees
-- Nora Pearson
-- Patty Burns
+
+-   Nora Pearson
+-   Patty Burns
 
 ## Agenda
-1. Kickoff meeting preparation
-2. Field work updates
-3. Survey123 and data sharing
-4. Geomorphic guide and landscape terminology
-5. Initial field review planning
-6. Ongoing meeting schedule
+
+1.  Kickoff meeting preparation
+2.  Field work updates
+3.  Survey123 and data sharing
+4.  Geomorphic guide and landscape terminology
+5.  Initial field review planning
+6.  Ongoing meeting schedule
 
 ## 1. Kickoff Meeting Preparation
 
 ### Action Items:
-- Nora to compile and send list of team questions for Randy by end of day tomorrow
-- Nora to send site locations and agenda to Patty by tomorrow evening
-- Patty to forward the new soil mapping field protocol to Randy
-- Patty to confirm with Joe if he has any additional comments on the kickoff meeting agenda
+
+-   Nora to compile and send list of team questions for Randy by end of day tomorrow
+-   Nora to send site locations and agenda to Patty by tomorrow evening
+-   Patty to forward the new soil mapping field protocol to Randy
+-   Patty to confirm with Joe if he has any additional comments on the kickoff meeting agenda
 
 ### Discussion:
+
 Nora and Patty reviewed the status of kickoff meeting preparations. The draft agenda has been sent out, and most participants have confirmed their attendance. They are still waiting on confirmation from Francine or Shauna regarding the DSP presentation.
 
 ## 2. Field Work Updates
 
 ### Action Items:
-- Nora to use the new pedon description sheet for field work on Thursday and Friday
-- Nora to provide feedback on the new pedon description sheet layout and usability
+
+-   Nora to use the new pedon description sheet for field work on Thursday and Friday
+-   Nora to provide feedback on the new pedon description sheet layout and usability
 
 ### Discussion:
+
 Nora updated Patty on the upcoming field work schedule. They also discussed the new pedon description sheet that Patty had created. Nora confirmed that the formatting worked well and that they would be using it for the first time in the field this week.
 
 ## 3. Survey123 and Data Sharing
 
 ### Action Items:
-- Nora to upload pedon description sheets and site photos to the shared Box folder weekly
-- Patty to set up a folder structure for downloading and organizing the shared files
+
+-   Nora to upload pedon description sheets and site photos to the shared Box folder weekly
+-   Patty to set up a folder structure for downloading and organizing the shared files
 
 ### Discussion:
+
 They addressed the issue of sharing field data between the University of Minnesota team and NRCS. Nora demonstrated how she could upload scanned pedon description sheets to a shared Box folder that Patty could access. Patty agreed this would be helpful for keeping the NRCS team informed and potentially sharing the information with Dan and Joe.
 
 ## 4. Geomorphic Guide and Landscape Terminology
 
 ### Action Items:
-- Patty to email the geomorphic guide document to Nora
-- Nora to review the geomorphic guide and discuss with Nick to determine applicable landscape categories for the project area
-- Patty to create a simplified "cheat sheet" of relevant landscape terms for field use
+
+-   Patty to email the geomorphic guide document to Nora
+-   Nora to review the geomorphic guide and discuss with Nick to determine applicable landscape categories for the project area
+-   Patty to create a simplified "cheat sheet" of relevant landscape terms for field use
 
 ### Discussion:
+
 Patty shared her screen to show Nora a geomorphic guide used by NRCS for describing landscapes and landforms. They discussed how to simplify and adapt this for the urban soil survey project. Nora expressed that this guide would be very helpful, as she had been confused by the numerous options in the field handbook.
 
 ## 5. Initial Field Review Planning
 
 ### Action Items:
-- Nora to add the initial field review dates to her calendar and invite team members
-- Nora to discuss with Nick about potential locations for the field review
-- Patty to ask Joe about his preference for in-person vs. virtual attendance for day 2 of the field review
+
+-   Nora to add the initial field review dates to her calendar and invite team members
+-   Nora to discuss with Nick about potential locations for the field review
+-   Patty to ask Joe about his preference for in-person vs. virtual attendance for day 2 of the field review
 
 ### Discussion:
+
 They discussed the logistics for the initial field review, which will take place about two weeks after the kickoff meeting. The first day will be in the field, while the second day may be office-focused. They considered options for the location of the second day, including using a conference room at the University of Minnesota or holding it virtually.
 
 ## 6. Ongoing Meeting Schedule
 
 ### Action Items:
-- Nora and Patty to reassess the meeting schedule at the beginning of June
+
+-   Nora and Patty to reassess the meeting schedule at the beginning of June
 
 ### Discussion:
+
 They briefly discussed the ongoing weekly meeting schedule, acknowledging that it might need to change as field work intensifies. Nora suggested keeping the current 2PM time slot through the end of May and then reevaluating.
 
 ## Additional Notes
 
-1. Nic's Availability:
-   Nora mentioned that Nick would be unavailable for the next two weeks due to a field soils class he's teaching. This limits the time for discussion before the kickoff meeting.
+1.  Nic's Availability: Nora mentioned that Nick would be unavailable for the next two weeks due to a field soils class he's teaching. This limits the time for discussion before the kickoff meeting.
 
-2. Box Folder Access:
-   They confirmed that Patty could access the shared Box folder, resolving a potential data sharing issue.
+2.  Box Folder Access: They confirmed that Patty could access the shared Box folder, resolving a potential data sharing issue.
 
-3. Pedon Description Sheet Updates:
-   Patty mentioned some modifications made to the pedon description sheet based on input from other urban soil experts, including more space for redox features and matrix colors.
+3.  Pedon Description Sheet Updates: Patty mentioned some modifications made to the pedon description sheet based on input from other urban soil experts, including more space for redox features and matrix colors.
 
-4. Field Work Sampling:
-   Nora confirmed that they are collecting grab bag samples at each horizon for all sites, building a physical sample archive.
+4.  Field Work Sampling: Nora confirmed that they are collecting grab bag samples at each horizon for all sites, building a physical sample archive.
 
-5. Survey123 Access:
-   They noted that there are still issues with NRCS staff accessing the UMN Survey123 forms, which needs to be addressed.
+5.  Survey123 Access: They noted that there are still issues with NRCS staff accessing the UMN Survey123 forms, which needs to be addressed.
 
 ## Summary of Action Items
 
-1. Nora to compile and send list of team questions for Randy by end of day tomorrow
-2. Nora to send site locations and agenda to Patty by tomorrow evening
-3. Patty to forward the new soil mapping field protocol to Randy
-4. Patty to confirm with Joe if he has any additional comments on the kickoff meeting agenda
-5. Nora to use the new pedon description sheet for field work on Thursday and Friday
-6. Nora to provide feedback on the new pedon description sheet layout and usability
-7. Nora to upload pedon description sheets and site photos to the shared Box folder weekly
-8. Patty to set up a folder structure for downloading and organizing the shared files
-9. Patty to email the geomorphic guide document to Nora
+1.  Nora to compile and send list of team questions for Randy by end of day tomorrow
+2.  Nora to send site locations and agenda to Patty by tomorrow evening
+3.  Patty to forward the new soil mapping field protocol to Randy
+4.  Patty to confirm with Joe if he has any additional comments on the kickoff meeting agenda
+5.  Nora to use the new pedon description sheet for field work on Thursday and Friday
+6.  Nora to provide feedback on the new pedon description sheet layout and usability
+7.  Nora to upload pedon description sheets and site photos to the shared Box folder weekly
+8.  Patty to set up a folder structure for downloading and organizing the shared files
+9.  Patty to email the geomorphic guide document to Nora
 10. Nora to review the geomorphic guide and discuss with Nic to determine applicable landscape categories for the project area
 11. Patty to create a simplified "cheat sheet" of relevant landscape terms for field use
 12. Nora to add the initial field review dates to her calendar and invite team members

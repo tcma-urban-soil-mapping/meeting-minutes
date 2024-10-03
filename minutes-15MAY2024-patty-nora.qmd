@@ -1,80 +1,88 @@
-# Patty, Nora Check-in 15MAY2024
+# Patty and Nora Check-in 15MAY2024
 
-## Date
-
-Wednesday, May 15, 2024
+**Date: Wednesday, May 15, 2024**
 
 ## Attendees
-- Nora Pearson
-- Patty Burns
+
+-   Nora Pearson
+-   Patty Burns
 
 ## Project Updates
 
 ### Field Work Progress
-- Team has been conducting field sampling at various sites
-- Currently working on campus research plots for a cardboard mulch project
-- Weather conditions have been favorable for fieldwork (70°F, partly cloudy!)
+
+-   Team has been conducting field sampling at various sites
+-   Currently working on campus research plots for a cardboard mulch project
+-   Weather conditions have been favorable for fieldwork (70°F, partly cloudy!)
 
 ### GIS Work
+
 Patty provided an update on her GIS work:
 
-- Working on smoothing out the Area of Interest (AOI) boundary
-- Addressing issues with odd jogs and legs in the boundary
-- Using a combination of methods:
-  - Following roads for squared-off boundaries
-  - Tracing polygon edges for natural boundaries (e.g., large organic units)
-  - Adjusting marsh lines based on imagery
+-   Working on smoothing out the Area of Interest (AOI) boundary
+-   Addressing issues with odd jogs and legs in the boundary
+-   Using a combination of methods:
+    -   Following roads for squared-off boundaries
+    -   Tracing polygon edges for natural boundaries (e.g., large organic units)
+    -   Adjusting marsh lines based on imagery
 
 ### Action Items:
-- [ ] Patty: Continue refining AOI boundary
-- [ ] Patty: Review boundary changes with Joe for approval
+
+-   [ ] Patty: Continue refining AOI boundary
+-   [ ] Patty: Review boundary changes with Joe for approval
 
 ## Pedon Description Form Updates
 
 Nora provided feedback on the updated pedon description form:
 
 ### Positive Feedback
-- Front page (site-level information) is much clearer and easier to follow
-- Circling options for 2D hillslope profile position and 3D geomorphic component is helpful
-- Field notes and sketch boxes provide sufficient space
-- Three lines for matrix color are useful
-- Redox features and concentrations columns are greatly improved
-- Artifacts page is easy to follow and provides ample space
+
+-   Front page (site-level information) is much clearer and easier to follow
+-   Circling options for 2D hillslope profile position and 3D geomorphic component is helpful
+-   Field notes and sketch boxes provide sufficient space
+-   Three lines for matrix color are useful
+-   Redox features and concentrations columns are greatly improved
+-   Artifacts page is easy to follow and provides ample space
 
 ### Areas for Improvement
-- Gray shading on the back page can be difficult to read in bright sunlight with light pencil marks
-- Team discussed potential for adding a notes column for each horizon row
+
+-   Gray shading on the back page can be difficult to read in bright sunlight with light pencil marks
+-   Team discussed potential for adding a notes column for each horizon row
 
 ### Action Items:
-- [ ] Nora: Test printing the form in color to see if it improves readability (update: it fixed the readability problem)
-- [ ] Patty: Consider options for adding a notes column without disrupting the current layout
+
+-   [ ] Nora: Test printing the form in color to see if it improves readability (update: it fixed the readability problem)
+-   [ ] Patty: Consider options for adding a notes column without disrupting the current layout
 
 ## Data Management
 
 ### Box Folder Organization
+
 Nora updated the team on changes to the Box folder structure:
 
-- Removed zip files for easier access to PDFs and photos
-- Users can now view documents directly in Box without downloading
-- Shapefiles and other GIS data remain in zipped folders
+-   Removed zip files for easier access to PDFs and photos
+-   Users can now view documents directly in Box without downloading
+-   Shapefiles and other GIS data remain in zipped folders
 
 ### Action Items:
-- [x] Nora: Add Joe Brennan to the Box folder with editor access
-- [ ] Nora: Continue updating the Box folder at least weekly, ideally more frequently
-- [ ] Patty: Check if Joe can access the Box folder and inform Nora if there are any issues
+
+-   [x] Nora: Add Joe Brennan to the Box folder with editor access
+-   [ ] Nora: Continue updating the Box folder at least weekly, ideally more frequently
+-   [ ] Patty: Check if Joe can access the Box folder and inform Nora if there are any issues
 
 ## Kickoff Meeting Planning
 
 The team briefly discussed the upcoming project kickoff meeting:
 
-- Scheduled for two weeks from the meeting date
-- Agenda is mostly finalized
-- Some speaker assignments still need to be confirmed
+-   Scheduled for two weeks from the meeting date
+-   Agenda is mostly finalized
+-   Some speaker assignments still need to be confirmed
 
 ### Action Items:
-- [ ] Nora: Update the agenda to include her name for relevant speaking parts
-- [ ] Patty: Check with Joe about who will give the DSM talk
-- [ ] Patty: Inform Nora of any last-minute agenda changes from Joe
+
+-   [ ] Nora: Update the agenda to include her name for relevant speaking parts
+-   [ ] Patty: Check with Joe about who will give the DSM talk
+-   [ ] Patty: Inform Nora of any last-minute agenda changes from Joe
 
 ## Detailed Discussion Notes
 
@@ -82,46 +90,42 @@ The team briefly discussed the upcoming project kickoff meeting:
 
 Nora provided specific feedback on the updated pedon description form:
 
-1. Front Page (Site-level Information):
-   - Much clearer and easier to follow
-   - Clear distinction between pre-filled sections and areas requiring input
-   - 2D and 3D geomorphic component sections with circling options are particularly helpful
-
-2. Back Page (Horizon-specific Information):
-   - Three lines for matrix color are very useful
-   - Gray shading helps differentiate horizons but can be difficult to read in bright sunlight
-   - Redox features and concentrations columns are greatly improved
-
-3. Artifacts Page:
-   - Easy to follow
-   - Provides ample space for descriptions
-   - Circling options for artifact characteristics (e.g., roundness, shape, cohesion) are helpful
+1.  Front Page (Site-level Information):
+    -   Much clearer and easier to follow
+    -   Clear distinction between pre-filled sections and areas requiring input
+    -   2D and 3D geomorphic component sections with circling options are particularly helpful
+2.  Back Page (Horizon-specific Information):
+    -   Three lines for matrix color are very useful
+    -   Gray shading helps differentiate horizons but can be difficult to read in bright sunlight
+    -   Redox features and concentrations columns are greatly improved
+3.  Artifacts Page:
+    -   Easy to follow
+    -   Provides ample space for descriptions
+    -   Circling options for artifact characteristics (e.g., roundness, shape, cohesion) are helpful
 
 ### Potential Form Improvements
 
 The team discussed possible additions to the form:
 
-1. Notes Column:
-   - Considered adding a notes column for each horizon row
-   - Decided against it to maintain the current two-page layout
-   - Will use existing spaces (e.g., miscellaneous field notes, boundary column) for additional notes
-
-2. Sample Number:
-   - Discussed adding a dedicated space for sample numbers
-   - Decided to use the boundary column when not describing boundaries
-   - Nora: "We use that yesterday to write the sample number. And that was perfect."
-
-3. Roots and Pores Columns:
-   - Decided to keep the roots column despite auger disturbance
-   - Pores column can be used for additional notes when not describing pores
+1.  Notes Column:
+    -   Considered adding a notes column for each horizon row
+    -   Decided against it to maintain the current two-page layout
+    -   Will use existing spaces (e.g., miscellaneous field notes, boundary column) for additional notes
+2.  Sample Number:
+    -   Discussed adding a dedicated space for sample numbers
+    -   Decided to use the boundary column when not describing boundaries
+    -   Nora: "We use that yesterday to write the sample number. And that was perfect."
+3.  Roots and Pores Columns:
+    -   Decided to keep the roots column despite auger disturbance
+    -   Pores column can be used for additional notes when not describing pores
 
 ### Box Folder Organization
 
 Nora explained the changes made to the Box folder structure:
 
-- PDFs and photos are now directly accessible without downloading
-- Intended to streamline the review process for Patty and Joe
-- GIS data (shapefiles, etc.) remain in zipped folders for easier transfer
+-   PDFs and photos are now directly accessible without downloading
+-   Intended to streamline the review process for Patty and Joe
+-   GIS data (shapefiles, etc.) remain in zipped folders for easier transfer
 
 Nora noted: "Hopefully that's easier for you to use. Because you don't have to constantly be downloading zipped files. You can just like click on a PDF or click on a photo and it loads it right in box without you downloading it to your computer."
 
@@ -129,23 +133,23 @@ Nora noted: "Hopefully that's easier for you to use. Because you don't have to c
 
 Nora committed to a regular update schedule for the Box folder:
 
-- Minimum weekly updates, ideally more frequent
-- Current on pedon description sheets, but behind on photo uploads
-- Will aim to update photos to match the latest pedon descriptions
+-   Minimum weekly updates, ideally more frequent
+-   Current on pedon description sheets, but behind on photo uploads
+-   Will aim to update photos to match the latest pedon descriptions
 
 ### Kickoff Meeting Preparations
 
 The team briefly discussed the upcoming project kickoff meeting:
 
-- Scheduled for two weeks from the meeting date
-- Agenda is mostly finalized, with some speaker assignments to be confirmed
-- Nora will update the agenda to include her name for relevant speaking parts
-- Patty will check with Joe about who will give the DSP talk
+-   Scheduled for two weeks from the meeting date
+-   Agenda is mostly finalized, with some speaker assignments to be confirmed
+-   Nora will update the agenda to include her name for relevant speaking parts
+-   Patty will check with Joe about who will give the DSP talk
 
 ## Next Steps
 
-1. Continue field sampling at secured sites
-2. Refine AOI boundary and review changes with Joe
-3. Test color printing of pedon description form and assess readability
-4. Ensure Joe Brennan has access to the Box folder
-5. Finalize kickoff meeting agenda and speaker assignments
+1.  Continue field sampling at secured sites
+2.  Refine AOI boundary and review changes with Joe
+3.  Test color printing of pedon description form and assess readability
+4.  Ensure Joe Brennan has access to the Box folder
+5.  Finalize kickoff meeting agenda and speaker assignments

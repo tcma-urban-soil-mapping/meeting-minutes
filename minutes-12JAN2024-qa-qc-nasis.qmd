@@ -1,5 +1,7 @@
 # QA/QC & NASIS Discussion 12JAN2024
 
+**Date: Friday, January 12, 2024**
+
 ## Attendees
 
 -   Nic Jelinski, UMN
@@ -7,9 +9,6 @@
 -   Dan Wing, NRCS
 -   Randy Riddle, NRCS
 -   Joe Brennan, NRCS
-
-## Date
-Friday, January 12, 2024
 
 ## Agenda Items Discussed
 

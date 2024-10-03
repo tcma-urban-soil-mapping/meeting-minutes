@@ -1,79 +1,85 @@
-# Patty, Nora Check-in 20MAR2024
+# Patty and Nora Check-in 27MAR2024
 
-## Date
+**Date: Wednesday, March 27, 2024**
 
-Wednesday, March 27, 2024
+## Attendees
+
+- Patty Burns
+- Nora Pearson
 
 ## Agenda
 
-1. Discuss the upcoming presentation on the Urban Soil Survey Project. Review the slides and content.
+1.  Discuss the upcoming presentation on the Urban Soil Survey Project. Review the slides and content.
 
 ## Presentation Structure
 
-1. Title and Authors
-2. Goals and Deliverables
-3. Area of Interest (AOI)
-4. Artesol Incorporation
-5. DSP Project
-6. Methods Overview
-7. Timeline
-8. Team and Partners
-9. Stay Updated
+1.  Title and Authors
+2.  Goals and Deliverables
+3.  Area of Interest (AOI)
+4.  Artesol Incorporation
+5.  DSP Project
+6.  Methods Overview
+7.  Timeline
+8.  Team and Partners
+9.  Stay Updated
 
 ## Detailed Discussion
 
 ### 1. Title and Authors
 
-- The title was set as "Implementing an Urban Soil Survey Framework in Minnesota" with Nora, Patty, Nic, Dan, and Joe as authors.
+-   The title was set as "Implementing an Urban Soil Survey Framework in Minnesota" with Nora, Patty, Nic, Dan, and Joe as authors.
 
 ### 2. Goals and Deliverables
 
 Nora outlined the four main deliverables from the grant language:
 
-1. DSP project and soil survey
-2. Documented mapping guide
-3. Technical assistance and resources
-4. Engagement and outreach
+1.  DSP project and soil survey
+2.  Documented mapping guide
+3.  Technical assistance and resources
+4.  Engagement and outreach
 
 ### 3. Area of Interest (AOI)
 
-- The AOI is based on census data for urban areas and urban clusters.
-- Nora mentioned that the shape file was created by Nic and trimmed to include only relevant areas.
+-   The AOI is based on census data for urban areas and urban clusters.
+-   Nora mentioned that the shape file was created by Nic and trimmed to include only relevant areas.
 
 **Action Item:** Patty to smooth out the outer boundary of the AOI as requested by Joe and Dan.
 
 ### 4. Artesol Incorporation
 
-- Nora highlighted that they will be incorporating artesol, which is being introduced as a new soil order.
-- Both Nora and Patty acknowledged their limited knowledge about artesol at this stage.
+-   Nora highlighted that they will be incorporating artesol, which is being introduced as a new soil order.
+-   Both Nora and Patty acknowledged their limited knowledge about artesol at this stage.
 
 **Action Item:** Nora to read more about artesol from the proposal document by John Galbraith.
 
 ### 5. DSP Project
 
-- Nora mentioned that the DSP project will mainly happen in 2025.
-- This summer will be focused on collecting data and potentially scoping out sites.
+-   Nora mentioned that the DSP project will mainly happen in 2025.
+-   This summer will be focused on collecting data and potentially scoping out sites.
 
 ### 6. Methods Overview
 
 Nora outlined the methods for the project:
 
-1. Public land sampling (priority)
-2. Opportunistic soil sampling in residential areas
-3. Commercial areas sampling
+1.  Public land sampling (priority)
+2.  Opportunistic soil sampling in residential areas
+3.  Commercial areas sampling
 
 #### Public Land Sampling
-- Involves getting permits from DNR, Fish and Wildlife Service, counties, and cities.
-- Aims for access to large areas instead of individual properties.
+
+-   Involves getting permits from DNR, Fish and Wildlife Service, counties, and cities.
+-   Aims for access to large areas instead of individual properties.
 
 #### Residential Areas Sampling
-- Described as an "opportunistic, flexible snowball sampling approach" by Nic.
-- Will utilize existing connections from previous fieldwork.
+
+-   Described as an "opportunistic, flexible snowball sampling approach" by Nic.
+-   Will utilize existing connections from previous fieldwork.
 
 #### Commercial Areas Sampling
-- Will involve a survey conducted by undergrads.
-- They will look for construction sites with open ground.
-- The team will reach out to construction teams for permission to sample.
+
+-   Will involve a survey conducted by undergrads.
+-   They will look for construction sites with open ground.
+-   The team will reach out to construction teams for permission to sample.
 
 Nora also mentioned the use of legacy data from previous projects, which includes lead, carbon, and phosphorus data from various sites across the Twin Cities.
 
@@ -81,11 +87,11 @@ Nora also mentioned the use of legacy data from previous projects, which include
 
 The timeline discussion included:
 
-- Kickoff meeting
-- Field work starting this summer
-- Initial field review
-- DSP project in 2025
-- Data QA/QC and NASIS entry by September 2026
+-   Kickoff meeting
+-   Field work starting this summer
+-   Initial field review
+-   DSP project in 2025
+-   Data QA/QC and NASIS entry by September 2026
 
 **Action Item:** Patty to ask Joe for more details about the initial field review.
 
@@ -97,8 +103,8 @@ Nora presented slides showing the core team members and partners involved in the
 
 ### 9. Stay Updated
 
-- Nora promoted the project e-book, which contains meeting minutes and project information.
-- She plans to add a slide plugging the kickoff meeting.
+-   Nora promoted the project e-book, which contains meeting minutes and project information.
+-   She plans to add a slide plugging the kickoff meeting.
 
 ## Additional Discussion Points
 
@@ -124,11 +130,11 @@ The meeting concluded with both Nora and Patty feeling positive about the presen
 
 ## Action Items Summary
 
-1. Patty to smooth out the outer boundary of the AOI as requested by Joe and Dan.
-2. Nora to read more about ARTESOL from the proposal document by John Galbraith.
-3. Nora to create slides showing why the river valley should be included in the AOI, to be sent to Joe and Dan.
-4. Patty to ask Joe for more details about the initial field review.
-5. Patty to check with Joe if any additional NRCS staff should be included in the team list.
-6. Nora to phrase the river valley inclusion carefully in the presentation, noting it's still under consideration.
-7. Nora to confirm with Nick what analyses will be performed on the soil samples collected during fieldwork.
-8. Nora to continue refining the presentation slides based on the discussion and any feedback from Joe.
+1.  Patty to smooth out the outer boundary of the AOI as requested by Joe and Dan.
+2.  Nora to read more about ARTESOL from the proposal document by John Galbraith.
+3.  Nora to create slides showing why the river valley should be included in the AOI, to be sent to Joe and Dan.
+4.  Patty to ask Joe for more details about the initial field review.
+5.  Patty to check with Joe if any additional NRCS staff should be included in the team list.
+6.  Nora to phrase the river valley inclusion carefully in the presentation, noting it's still under consideration.
+7.  Nora to confirm with Nick what analyses will be performed on the soil samples collected during fieldwork.
+8.  Nora to continue refining the presentation slides based on the discussion and any feedback from Joe.

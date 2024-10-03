@@ -1,95 +1,107 @@
 # Patty, Nora Check-in 17APR2024
 
-## Date
-
-Wednesday, April 17, 2024
+**Date: Wednesday, April 17, 2024**
 
 ## Attendees
-- Nora Pearson
-- Patty Burns
-- Nic Jelinski (partial attendance)
+
+-   Nora Pearson
+-   Patty Burns
+-   Nic Jelinski (partial attendance)
 
 ## Project Updates
 
 ### Field Sampling Progress
-- 5 sites sampled so far:
-  - 1 site at fairgrounds (opportunistic construction site)
-  - 1 additional opportunistic construction site
-  - 3 residential properties
+
+-   5 sites sampled so far:
+    -   1 site at fairgrounds (opportunistic construction site)
+    -   1 additional opportunistic construction site
+    -   3 residential properties
 
 ### Upcoming Sampling Locations
-- South St. Paul parks (multiple sites)
-- National Wildlife Refuge units along Minnesota River
-- Additional residential properties through "snowball" sampling
+
+-   South St. Paul parks (multiple sites)
+-   National Wildlife Refuge units along Minnesota River
+-   Additional residential properties through "snowball" sampling
 
 ### Permit Status
-- Secured permits for:
-  - Fish and Wildlife Service (Minnesota Valley National Wildlife Refuge)
-  - South St. Paul parks
-  - Three Rivers Parks (West Metro)
-- Pending permits:
-  - DNR (Scientific and Natural Areas, State Parks)
-  - Ramsey County
-  - City of Saint Paul
+
+-   Secured permits for:
+    -   Fish and Wildlife Service (Minnesota Valley National Wildlife Refuge)
+    -   South St. Paul parks
+    -   Three Rivers Parks (West Metro)
+-   Pending permits:
+    -   DNR (Scientific and Natural Areas, State Parks)
+    -   Ramsey County
+    -   City of Saint Paul
 
 ## Data Collection and Management
 
 ### Pedon Description Form
-- Team will use the standard NRCS Form 232 for pedon descriptions
-- Discussed potential modifications to tailor form for urban soils project
-- Considered using Survey123 app for digital data collection
+
+-   Team will use the standard NRCS Form 232 for pedon descriptions
+-   Discussed potential modifications to tailor form for urban soils project
+-   Considered using Survey123 app for digital data collection
 
 ### Survey123 Implementation
-- Brandon DeFoe (Resource Soil Scientist) can assist with setting up Survey123 form
-- Would allow direct import of data into NASIS database
+
+-   Brandon DeFoe (Resource Soil Scientist) can assist with setting up Survey123 form
+-   Would allow direct import of data into NASIS database
 
 ### NASIS Data Entry
-- Goal: Complete all 2024 data entry by end of 2024 calendar year
-- Discussed potential automation options for data import
+
+-   Goal: Complete all 2024 data entry by end of 2024 calendar year
+-   Discussed potential automation options for data import
 
 ### Rapid Urban Site Index (RUSI)
-- Will implement RUSI as part of site characterization
-- Includes assessment of traffic, infrastructure, and surface conditions
-- May need to modify or expand categories for project needs
+
+-   Will implement RUSI as part of site characterization
+-   Includes assessment of traffic, infrastructure, and surface conditions
+-   May need to modify or expand categories for project needs
 
 ### Action Items:
-- [ ] Nora: Consult with Nic on minimum data set requirements for pedon descriptions
-- [ ] Patty: Coordinate with Dan Wing to create spreadsheet of required data elements for Survey123 form
-- [ ] Patty: Follow up with Brandon Defoe about Survey123 form development
-- [ ] Nora: Develop cheat sheet for landscape/landform terminology specific to Twin Cities area
-- [ ] Patty: Research options for parent material classifications relevant to project area
+
+-   [ ] Nora: Consult with Nic on minimum data set requirements for pedon descriptions
+-   [ ] Patty: Coordinate with Dan Wing to create spreadsheet of required data elements for Survey123 form
+-   [ ] Patty: Follow up with Brandon Defoe about Survey123 form development
+-   [ ] Nora: Develop cheat sheet for landscape/landform terminology specific to Twin Cities area
+-   [ ] Patty: Research options for parent material classifications relevant to project area
 
 ## Sampling Methodology
 
 ### Site Selection Strategy
-- Aim for 3 sampling points per soil map unit in larger areas
-- Use judgment to sample representative landscape positions
-- Consider accessibility and underground utilities
+
+-   Aim for 3 sampling points per soil map unit in larger areas
+-   Use judgment to sample representative landscape positions
+-   Consider accessibility and underground utilities
 
 ### Opportunistic Sampling
-- Team will respond quickly to construction sites and other exposures
+
+-   Team will respond quickly to construction sites and other exposures
 
 ### Action Items:
-- [ ] Nora: Develop system for tracking and responding to opportunistic sampling sites
-- [ ] Team: Create protocol for rapid response to construction site opportunities
+
+-   [ ] Nora: Develop system for tracking and responding to opportunistic sampling sites
+-   [ ] Team: Create protocol for rapid response to construction site opportunities
 
 ## Project Planning
 
 ### Initial Field Review
-- Tentatively scheduled for week of June 10-14
-- Participants to include:
-  - Nora Pearson
-  - Patty Burns
-  - Dan Wing
-  - Joe Brennan
-  - Clayton Johnson
-  - Kellen O'Connor
-- Purpose: Review field protocols, data collection methods, and project objectives
+
+-   Tentatively scheduled for week of June 10-14
+-   Participants to include:
+    -   Nora Pearson
+    -   Patty Burns
+    -   Dan Wing
+    -   Joe Brennan
+    -   Clayton Johnson
+    -   Kellen O'Connor
+-   Purpose: Review field protocols, data collection methods, and project objectives
 
 ### Action Items:
-- [ ] Nora: Confirm Nic's availability and preferences for field review
-- [ ] Patty: Coordinate with Joe and Dan to develop agenda for field review
-- [ ] Nora: Send updated pedon description form to Patty for review
+
+-   [ ] Nora: Confirm Nic's availability and preferences for field review
+-   [ ] Patty: Coordinate with Joe and Dan to develop agenda for field review
+-   [ ] Nora: Send updated pedon description form to Patty for review
 
 ## Detailed Discussion Notes
 
@@ -110,8 +122,9 @@ They agreed to use underscores to separate horizon numbers:
 Update: after discussing with Nic, we are using a unique sample code for each sample, rather than including it with an underscore after the site codes. Sample codes will have a two digit year code and a three digit sample code. For example: 24-001. So, each site has a unique code and each sample has a unique code. Sample codes will be recorded on collection bags and on pedon description sheets.
 
 ### Action Items:
-- [ ] Nora: Develop spreadsheet or system for tracking pedon IDs across project
-- [ ] Patty: Confirm sample numbering system with Dan Wing and KSSL requirements
+
+-   [ ] Nora: Develop spreadsheet or system for tracking pedon IDs across project
+-   [ ] Patty: Confirm sample numbering system with Dan Wing and KSSL requirements
 
 ### Landscape and Landform Classifications
 
@@ -122,32 +135,35 @@ Patty: "Landscape is big like landscape might be tilt and and and it and it's go
 They agreed to develop a cheat sheet with standardized options for the project area.
 
 ### Action Items:
-- [ ] Patty: Research existing landscape/landform classification guides for Region 10
-- [ ] Nora: Develop draft cheat sheet for landscape/landform classifications
-- [ ] Team: Review and refine landscape/landform options in next meeting
+
+-   [ ] Patty: Research existing landscape/landform classification guides for Region 10
+-   [ ] Nora: Develop draft cheat sheet for landscape/landform classifications
+-   [ ] Team: Review and refine landscape/landform options in next meeting
 
 ### Clay Percentage Estimation
 
 Nora expressed concern about estimating clay percentages in the field. Patty shared her experience and offered advice: using a textural triangle cheat sheet and practicing with more experienced team members.
 
 ### Action Items:
-- [ ] Nora: Create laminated textural triangle cheat sheets for field use
-- [ ] Team: Plan clay percentage estimation training session during field review
+
+-   [ ] Nora: Create laminated textural triangle cheat sheets for field use
+-   [ ] Team: Plan clay percentage estimation training session during field review
 
 ### Artifacts Page for Urban Soils
 
 The team discussed the importance of properly documenting artifacts in urban soils. Patty agreed to add a dedicated artifacts page to the pedon description form.
 
 ### Action Items:
-- [ ] Patty: Design artifacts page for pedon description form
-- [ ] Nora: Review artifacts page with Nic and provide feedback
+
+-   [ ] Patty: Design artifacts page for pedon description form
+-   [ ] Nora: Review artifacts page with Nic and provide feedback
 
 ## Next Steps
 
-1. Finalize pedon description form modifications
-2. Develop Survey123 form for digital data collection
-3. Create cheat sheets for landscape/landform classifications and clay percentage estimation
-4. Plan and execute initial field review in June
-5. Continue sampling at secured sites and respond to opportunistic sampling locations
+1.  Finalize pedon description form modifications
+2.  Develop Survey123 form for digital data collection
+3.  Create cheat sheets for landscape/landform classifications and clay percentage estimation
+4.  Plan and execute initial field review in June
+5.  Continue sampling at secured sites and respond to opportunistic sampling locations
 
 The meeting concluded with a commitment to ongoing communication and collaboration as the project moves forward. Nora and Patty agreed to touch base again the following week to address any outstanding issues and continue refining project protocols.
