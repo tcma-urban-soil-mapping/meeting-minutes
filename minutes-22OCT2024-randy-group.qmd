@@ -1,0 +1,129 @@
+# Bi-Monthly Project Check In 22OCT2024
+
+**Date: October 22, 2024**
+
+**Attendees:**
+
+-   Nora Pearson
+-   Randy Riddle
+-   Joe Brennan
+-   Patty Burns
+-   Nic Jelinski
+
+## Schedule Updates
+
+### Future Meetings
+
+-   Established bimonthly meeting schedule:
+    -   Every second Tuesday of even months
+    -   Next meetings: December 10, 2024 and February 11, 2025 at 10:30 AM CT (8:30 AM MT)
+    -   Randy to send Teams meeting invites
+    -   Future meetings to include North Central region staff (Dan/Clayton)
+
+## Technical Updates & Guidance
+
+### Survey123 Data Entry Process
+
+-   Team to submit first batch of 15 pedon descriptions
+-   Process:
+    1.  Enter data into Survey123
+    2.  Send/commit to AGOL server
+    3.  NRCS team reviews
+    4.  Import to NASIS after review
+-   Original pedon description forms needed for review process
+-   Randy to set up Box folder for sharing forms and documentation
+
+### Classification & Description Guidelines
+
+1.  **Anthropic Epipedons**
+    -   Must be pedogenically formed in place
+    -   Requires soil structure
+    -   Time "resets to zero" when site is established
+    -   Generally corresponds with A horizons
+    -   Care needed with transported dark materials
+2.  **Densic vs. Anthrodensic Horizons**
+    -   Use anthrodensic for HTM (Human Transported Material)
+    -   Criteria: Densic contact due to mechanical compaction
+    -   Must be \>90% laterally continuous
+    -   Must be below soil surface
+    -   Important for soil concept stratification
+3.  **Paralithic Materials/Contacts**
+    -   Use national standard definitions from Keys
+    -   Field test: Slake test (1-hour soak)
+    -   Based on coherence classes
+    -   Decision tree being updated through NCSS Taxonomy Committee
+
+## Project Planning
+
+### Sampling Strategy Review
+
+1.  **Current Distribution**
+    -   Heavy sampling in large regional parks
+    -   Need more coverage in:
+        -   Smaller neighborhood parks
+        -   Residential areas
+        -   Different parent materials
+        -   Various development ages/types
+2.  **Future Sampling Priorities**
+    -   More dispersed sampling approach needed
+    -   Focus on:
+        -   Different land use intensities
+        -   Parent material variations
+        -   Urban core areas
+        -   Smaller parks in residential zones
+        -   Schools and other public lands
+
+### Spatial Data Management
+
+1.  **Initial Steps**
+    -   Start with parent material and existing soil survey merge
+    -   Create single official spatial layer
+    -   Address conversion history later in process
+    -   Team to discuss detailed workflow in December
+2.  **Data Organization**
+    -   NRCS Box account to be set up for file sharing
+    -   Need to organize:
+        -   Pedon descriptions
+        -   Photos
+        -   Field notes
+        -   Spatial data layers
+
+## Action Items
+
+### Immediate (This Week)
+
+1.  **Randy**
+    -   Send Teams meeting invites for future meetings
+    -   Set up Box folder for file sharing
+    -   Share paralithic materials decision tree with Joe
+2.  **Nora**
+    -   Test Box folder access
+    -   Begin coordinating pedon data entry
+    -   Share field description forms
+3.  **Joe/Patty/Randy**
+    -   Meet to discuss Rider Anderson's potential involvement
+    -   Review spatial data management approach
+
+### Longer Term
+
+1.  **Team**
+    -   Complete first batch of 15 pedon descriptions in Survey123
+    -   Develop winter analysis plan
+    -   Review sampling distribution and gaps
+    -   Plan spatial data workflow
+
+## Next Meeting Agenda Items
+
+-   Review first batch of pedon descriptions
+-   Discuss DSP project details
+-   Review spatial data workflow
+-   Evaluate sampling distribution
+-   Plan 2025 field season approach
+
+## Notes
+
+-   Nic Jelinski to be included in future technical discussions
+-   Additional NRCS staff may join future meetings
+-   Box folder to facilitate file sharing between organizations
+-   Need to balance park sampling with other land uses
+-   Consider development history in sampling strategy

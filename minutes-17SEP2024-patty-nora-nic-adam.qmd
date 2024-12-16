@@ -1,0 +1,131 @@
+# Nic, Patty, Adam, Nora Check In 17SEP2024
+
+**Date:** September 17, 2024
+
+**Attendees:**
+
+-   Nicolas Jelinski
+-   Nora Pearson
+-   Patty Burns
+-   Adam Devlin
+
+## Meeting Structure Updates
+
+### Future Meeting Schedule
+
+-   Moving to biweekly meetings starting October 1st
+-   Maintaining current time (10:30 AM Tuesdays)
+-   Nic and Nora absent next week (September 24) due to soil judging competition
+-   Additional meetings can be scheduled as needed
+
+## Field Work Planning
+
+### Week of September 17
+
+1.  **Marydale Park**
+    -   Pending Gopher One clearance (St. Paul Parks response pending)
+    -   Adam and Nora to coordinate regarding equipment transfer
+2.  **Swede Hollow Park (September 18)**
+    -   Meeting time: 8:00 AM
+    -   Patty driving in from out of town
+    -   3 primary sampling points with 2 backup locations
+    -   Site notes:
+        -   One main parking lot
+        -   Some stairs involved
+        -   Historic area with documented artifacts
+3.  **Trout Brook Nature Sanctuary (September 19)**
+    -   Two different entrance points provided: Jenks Avenue entrance and Jackson Street entrance (main)
+    -   Nora to join in afternoon
+    -   3 sampling points identified
+
+## Technical Updates
+
+### Survey123 Access
+
+1.  **Account Setup Progress**
+    -   Successfully created university account for Adam
+    -   Access confirmed for web and mobile versions
+    -   Duo authentication setup completed
+    -   Features available: View all sampling points, access to profile descriptions, photo documentation, data export capabilities
+
+2.  **Next Steps**
+    -   Create accounts for:
+        -   Patty
+        -   Kasia
+        -   Potentially Joe and Dan
+    -   Cost: \$25 per sponsored account (chargeable to project)
+
+### Documentation Requirements
+
+1.  **Field Data Collection**
+    -   GPS locations required
+    -   Profile photos
+    -   Description sheets
+    -   Site videos
+    -   All materials to be uploaded to: Survey123, Google Drive (lab shared drive)
+
+2.  **Site Documentation**
+    -   Addresses and coordinates provided in Google Calendar
+    -   Detailed site information in shared documents
+    -   Backup paper copies available if needed
+
+## Administrative Updates
+
+### NASA's Project Status
+
+-   Patty completing inventory project
+-   Few minor tables remaining
+-   DSP project planning:
+    -   Consulting with Shaunna regarding newest user guide
+    -   Planning discussions with Nic for workbook completion
+    -   Winter timeline for detailed development
+
+### Gopher One Training
+
+-   Session planned for Adam
+-   Tentative date: Friday at 11:00 AM
+-   Alternative date to be scheduled after soil judging if needed
+-   Nora to continue submissions in interim
+
+## Action Items
+
+### Immediate (This Week)
+
+1.  **Nic**
+    -   Set up additional Survey123 accounts
+
+2.  **Nora**
+    -   Coordinate equipment transfer with Adam
+    -   Update calendar invites for biweekly schedule
+    -   Make Nic co-host for future meetings
+
+3.  **Adam**
+    -   Test Survey123 mobile access
+    -   Update calendar availability for new meeting schedule
+    -   Coordinate with Patty for field work logistics
+
+4.  **Patty**
+    -   Continue NASA's project documentation
+    -   Prepare DSP discussion points for October meetings
+
+## Schedule Notes
+
+### Upcoming Absences
+
+-   Week of September 23:
+    -   Nic and Nora at Kansas soil judging competition
+    -   Patty in northern MN
+    -   Field work to be coordinated by Adam and Kasia
+
+### Next Meetings
+
+-   September 24: Canceled
+-   October 1: First biweekly meeting
+-   Format: Same Zoom link (pending confirmation)
+
+## Additional Notes
+
+-   Field work timing considerations for heat
+-   Equipment and supply coordination ongoing
+-   Documentation systems working effectively
+-   Team adapting well to new coordination structure

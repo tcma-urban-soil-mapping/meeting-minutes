@@ -1,0 +1,102 @@
+# Patty, Kasia, Nora 15OCT2024
+
+**Date:** Tuesday, October 15, 2024
+
+**Attendees:** 
+
+- Nora Pearson 
+- Patty Burns 
+- Kasia Ulanowski
+
+## Field Work Planning
+
+### Phalen Lake Sampling
+
+-   Reviewed and adjusted sampling points:
+    -   Removed points #4 and #10 due to redundancy
+    -   Confirmed point #5 location (near apartment building) is within park property based on Ramsey County Property Owners map
+    -   Reduced total points to allow 3-4 sites per day with current team, four days allocated
+    -   Will have 3 confirmed team members, potentially more
+
+### Residential Sampling Progress
+
+-   26 responses received to residential sampling form
+-   75% of responses from Hennepin County
+-   Sites well distributed geographically
+-   Planning to begin selecting sites for sampling
+-   Strong response indicates potential high workload for spring
+
+### Upcoming Field Work (October 20)
+
+-   Lake Harriet and Raspberry Island sampling planned
+-   Schedule adjusted:
+    -   Morning: Complete Lake Harriet site
+    -   Afternoon: Raspberry Island sampling
+    -   Kasia to flag Phalen Lake sites for following week
+-   Meeting time set for 9:00 AM to 4:00 PM
+
+## Administrative Updates
+
+### Survey123 Access
+
+-   Kasia's access confirmed and working
+-   Patty's account needs to be recreated (previous credentials expired)
+-   Added Kasia to TCMA urban soil mapping group
+-   Access provided to all forms and feature layers
+
+### GIS/Mapping Requests
+
+-   Team needs updated AOI shapefile
+-   Patty to send:
+    -   Edited/smoothed AOI boundary file
+    -   SSURGO shapefile
+-   Discussion of field map access and layer management
+
+## Project Collaboration Updates
+
+### New Team Member
+
+-   Ryder Anderson (from Union, Missouri MLRA office) interested in joining project
+-   Background: experience with DSP projects, urban soil survey work, R programming expertise, summer details in Minnesota
+-   Potential roles: field work support, map unit design, data analysis, NASIS documentation
+
+### Randy Meeting (October 22)
+
+-   Agenda items:
+    -   Questions about buried soils
+    -   Survey123 procedures
+    -   Horizon designation
+-   Patty creating document for questions, team members to add questions before meeting
+-   One-hour meeting planned with possible extension
+
+## Action Items
+
+### Immediate
+
+1.  **Nora**
+    -   Prepare DSP project summary with Nic
+    -   Update meeting invitation for Randy meeting
+    -   Notify Gen about Randy meeting
+2.  **Patty**
+    -   Send AOI and SSURGO shapefiles to team
+    -   Distribute question document for Randy meeting
+    -   Work with Danielle on GIS file transfers
+3.  **Kasia**
+    -   Review TCMA urban soil mapping content
+    -   Update field schedule in shared calendar
+    -   Flag Phalen Lake sites
+
+## Next Meetings
+
+-   Randy Meeting: October 22
+-   Residential site selection planning needed
+-   Field work coordination ongoing
+
+## Notes
+
+-   Strong residential site interest indicates need for spring planning
+-   Team adapting well to Survey123 implementation
+-   Field season progressing efficiently
+-   DSP project development continuing
+
+Special Note: Congratulations to Patty on becoming a grandmother! Welcome, Baby Leo.

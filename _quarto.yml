@@ -17,6 +17,7 @@ book:
       - minutes-15DEC2023-technical-kickoff.qmd
       - minutes-12JAN2024-dsp.qmd
       - minutes-12JAN2024-qa-qc-nasis.qmd
+      - minutes-22OCT2024-randy-group.qmd
     - part: "Small Group Meetings"
       chapters:
       - minutes-02FEB2024-joe-nic-nora.qmd
@@ -42,6 +43,11 @@ book:
       - minutes-12AUG2024-patty-nora.qmd
       - minutes-19AUG2024-patty-nora.qmd
       - minutes-26AUG2024-patty-nora.qmd
+      - minutes-06SEP2024-fall-field-work.qmd
+      - minutes-10SEP2024-patty-nora.qmd
+      - minutes-17SEP2024-patty-nora-nic-adam.qmd
+      - minutes-01OCT2024-patty-kasia-adam-nora.qmd
+      - minutes-15OCT2024-patty-nora-kasia.qmd
     # - authorship-guidelines.qmd
     # - references.qmd
   # appendices:

@@ -1,0 +1,129 @@
+# Fall Field Work Coordination 06SEP2024
+
+**Date: September 6, 2024**
+
+## Attendees
+
+-   Nora B Pearson
+-   Patty Burns
+-   Adam Devlin
+-   Kasia Ulanowski
+-   Genevieve Saldibar
+-   Katrina L Nelson
+
+## Key Updates and Decisions
+
+### Permitting Status
+
+1.  **City of St. Paul Parks**
+    -   Permit received and approved through end of October
+    -   Sampling locations have been identified
+    -   Pig's Eye Park excluded from current permit due to:
+        -   Former landfill/battery dump site with 2-foot topsoil cap
+        -   Pending PCA (Pollution Control Agency) approval
+        -   Team agreed to attempt mapping even if sampling isn't possible
+2.  **Roseville Permit**
+    -   Email approval received from superintendent Jim Taylor
+    -   Awaiting formal permit documentation
+    -   Will proceed with St. Paul parks first
+3.  **Maplewood Permit**
+    -   Decision made to postpone until next year
+    -   Focus will be on St. Paul and Roseville sites for fall
+    -   Additional focus on residential sites
+
+### Field Work Planning
+
+1.  **Immediate Plans**
+    -   September 12th: Adam and Nora to conduct sampling at one St. Paul park
+    -   September 16-20th: Patty available for field work
+    -   Week of September 23rd: Kasia returns, available Friday only
+    -   Preference to avoid Monday field work when possible
+2.  **Coordination Structure**
+    -   Adam and Kasia to serve as primary coordinators
+    -   Will set dates and then communicate with broader NRCS team
+    -   Joe to assist with recruiting additional NRCS staff
+    -   Team members to update Google Calendar with availability
+    -   Two-person minimum for field work when possible
+3.  **Weekend Work**
+    -   Some team members available for occasional Saturday morning work
+    -   NRCS staff require special permission for weekend work
+    -   Will be coordinated on case-by-case basis
+
+### Administrative Procedures
+
+1.  **Sample Management**
+    -   NRCS team can store samples at their office temporarily
+    -   Samples to be transferred to Jelinski lab periodically; all samples eventually housed at Jelinski lab
+    -   Team to coordinate sample transfer schedule
+2.  **Documentation**
+    -   Profile description sheets to be scanned and entered into Google Drive
+    -   Photos and videos uploaded to Google Drive
+    -   Survey123 access being arranged for Adam and Kasia
+    -   Sampling number scheme to be tracked via group message
+3.  **Gopher One Tickets**
+    -   Current process: Nora submitting tickets
+    -   Plan to train Adam and Kasia on submission process
+    -   Timing consideration: Not too far in advance due to flag removal issues
+    -   Agreement to maintain 2-week advance planning when possible
+
+### Project Documentation
+
+1.  **Project Repositories**
+    -   Two separate repositories maintained:
+        -   Public-facing project metadata
+        -   Internal meeting minutes
+    -   Randy's field review report to be added when finalized
+    -   Initial field review documentation pending
+2.  **Residential Sites Initiative**
+    -   High priority for NRCS team
+    -   Flyer being updated to combine existing materials
+    -   Joe ready to distribute to interested parties
+    -   Strong interest noted from State Fair attendees
+
+### Weekly Meetings
+
+1.  **Schedule**
+    -   Continuing Tuesday meetings with Patty
+    -   Time: After 10:30 AM (following Nora's class)
+    -   Adam and Kasia welcome to join when available
+    -   Week of September 23rd meeting cancelled (Nora at soil judging competition)
+
+## Action Items
+
+### Immediate (Next Week)
+
+1.  **Nora**
+    -   Submit Gopher One tickets for September 12th sampling
+    -   Update calendar invite for September 12th field work
+    -   Share Survey123 access information with Adam and Kasia
+    -   Send Zoom link for Tuesday meetings to team
+    -   Create updated residential sampling flyer
+2.  **Adam**
+    -   Coordinate with Nora for September 12th field work
+    -   Connect with Joe regarding additional NRCS staff availability
+3.  **Kasia**
+    -   Send ArcGIS ID if not already provided
+    -   Update availability in Google Calendar upon return
+
+### Longer Term
+
+1.  **Patty**
+    -   Share Randy's field review report when finalized
+    -   Coordinate with Joe regarding staff availability
+2.  **Team**
+    -   Maintain two-week advance planning for field work when possible
+    -   Update Google Calendar with availability
+    -   Coordinate sample storage and transfer schedule
+
+## Next Meetings
+
+-   Regular Tuesday meetings continuing (except September 24th)
+-   Next full team check-in with Kasia: October 1st
+
+## Notes
+
+-   Teams encouraged to coordinate directly for field work scheduling
+-   Sample management and documentation procedures can be adjusted as needed
+-   Focus on St. Paul parks and residential sites for fall season
+-   Weather considerations may impact fall field work schedule
+-   Team to maintain flexibility with scheduling and coordination
