@@ -1,0 +1,166 @@
+# Patty, Kasia, Nora Check-in 12NOV2024
+
+**Date: November 12, 2024**
+
+**Attendees:**
+
+- Nora Pearson 
+- Patty Burns 
+- Kasia Ulanowski
+
+## Key Updates
+
+### 1. Team Status Updates
+
+#### Field Work Status
+
+-   Field work has wrapped up for the 2024 season
+-   Adam retains some basic equipment for opportunistic sampling
+-   Team may still document profiles from ongoing construction sites if opportunities arise
+
+#### Role Changes
+
+-   Kasia will step back from direct project involvement but continue attending meetings
+-   Will likely assist with fieldwork next season
+-   Team planning end-of-season gathering on December 13th at a gluten-free brewery in Saint Paul
+
+### 2. GIS and Mapping Progress (Patty's Update)
+
+#### Current Work
+
+-   Using Hennepin County as test case for geomorphic surface mapping
+-   Analyzing three main reference sources:
+    1.  USGS data for Hennepin County
+    2.  Minnesota DNR land type associations
+    3.  Howard Hobbs surficial geology maps
+
+#### Key Geographic Features Identified
+
+-   Des Moines lobe till (western portion)
+-   Sandy outwash terrace areas
+-   Hopkins Moraine
+-   Maple Plain moraine
+-   Mississippi River terrace sediments
+
+#### Data Integration Challenges
+
+-   Need to export Survey123 points for analysis
+-   Working on permissions issues with data access
+-   Planning to create working shapefile for project analysis
+
+### 3. Data Entry Progress (Nora's Update)
+
+#### Survey123 Entry Status
+
+-   Completed 9 of 15 targeted pedon descriptions
+-   Will complete remaining 6 this week before Thanksgiving
+-   Creating documentation of decisions and methodologies in Word document in Box
+
+#### Classification Challenges
+
+-   Currently not including taxonomic information in entries
+-   Discussion about whether to classify pedons in initial entry
+-   Agreement to attempt classifications for remaining 6 entries
+-   Acknowledged difficulty with HTM (Human Transported Material) classification
+
+### 4. Quality Control Process
+
+#### Current Status
+
+-   Ryder will assist Patty with QC process
+-   First batch will serve as test case for methodology
+-   Team discussing how to handle classification during QC
+-   Planning to document process for future reference
+
+### 5. Sample Processing Update
+
+-   Undergrad students beginning sample processing
+-   Currently hand-processing samples
+-   May transition to mechanical grinding
+-   Focusing on preserving coarse fragments during processing
+
+## Action Items
+
+### For Nora
+
+1.  Complete remaining 6 pedon descriptions before Thanksgiving
+2.  Send historical point data to Patty
+3.  Continue documenting classification decisions
+4.  Meet with Nic regarding:
+    -   Survey123 modifications
+    -   Data export permissions
+    -   Land use classification options
+
+### For Patty
+
+1.  Continue GIS analysis of geomorphic surfaces
+2.  Coordinate with Rider on QC methodology
+3.  Contact Randy about December 10th meeting agenda
+4.  Compile team questions for Randy
+
+### For Team
+
+1.  Prepare questions for December 10th meeting with Randy
+2.  Review Nora's documentation in Box
+3.  Consider classification methodology going forward
+
+## Upcoming Meetings
+
+-   November 26, 2024 (Thanksgiving week)
+-   December 10, 2024 (with Randy)
+-   December 13, 2024 (Team social gathering)
+-   January meetings to be scheduled
+
+## Technical Decisions and Notes
+
+### GIS Framework
+
+-   Using multiple reference layers for analysis:
+    -   USGS county data
+    -   DNR land type associations
+    -   Historical surficial geology maps
+-   Need to develop consistent approach for:
+    -   Parent material classification
+    -   Land use stratification
+    -   Point distribution analysis
+
+### Classification Protocol
+
+-   Team will attempt classifications going forward
+-   Acknowledged challenges with HTM soils
+-   Need to develop consistent approach for:
+    -   Particle size control sections
+    -   HTM classification
+    -   Series correlation
+
+### Data Management
+
+-   Need to establish process for:
+    -   Exporting Survey123 data
+    -   Creating working shapefiles
+    -   Maintaining version control
+    -   Documenting decisions
+
+## Additional Notes
+
+### Land Use Classification
+
+-   Considering categories:
+    -   Residential (single family, multi-family)
+    -   Parks/green spaces
+    -   Commercial/industrial
+    -   Construction sites (categorized by intended use); not their own classification
+
+### Survey123 Modifications
+
+-   Planning to add land use question
+-   Need to ensure modifications don't affect existing data; will maintain backup before making changes
+
+### Quality Control Process
+
+-   Will review first batch as test case
+-   Planning to document methodology
+-   Will incorporate classification review
+-   Focus on consistency in data entry
+
+The next regular team meeting is scheduled for November 26, 2024. The team will continue documentation and preparation for the December 10th meeting with Randy.

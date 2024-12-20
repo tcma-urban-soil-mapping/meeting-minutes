@@ -1,0 +1,127 @@
+# Patty, Kasia, Adam, Nora Check-in 29OCT2024
+
+**Date: October 29, 2024**
+
+## Attendees
+- Patty Burns
+- Nora Pearson
+- Adam Devlin
+- Kasia Ulanowski
+
+## Key Discussion Points
+
+### 1. Data Entry and QC Process Updates
+
+#### Survey123 Data Entry
+- Nora will begin entering the first batch of 10-15 pedon descriptions by Thanksgiving
+- She will maintain a separate document noting decisions made during data entry, particularly regarding:
+  - Anthropic epipedon classifications
+  - Horizon naming conventions
+  - Changes from field descriptions
+- Early descriptions may need significant revision due to learning curve with urban soil classification
+
+#### Quality Control Process
+- First-level QC will be performed by Patty and potentially Ryder Anderson
+- Process involves:
+  - Reviewing data in Excel format before NASIS upload
+  - Checking proper field population
+  - Verifying correct table assignments
+  - Ensuring consistency in descriptions
+- Randy recommended QC at Excel stage for easier communication of corrections
+- Initial batch will serve as a beta test for the QC process
+
+### 2. Technical Classification Discussions
+
+#### Horizon Naming and Classification
+- Discussion of CD horizons vs. C horizons
+- Clarification on artifact presence:
+  - Any horizon with artifacts should receive a "u" suffix
+  - Applies regardless of master horizon designation
+- Anthropic epipedon criteria discussed:
+  - Must show evidence of recent organic enrichment
+  - Requires pedogenic development
+  - Simple placement of topsoil does not qualify
+  - Structure and root development are key indicators
+
+### 3. GIS and Mapping Progress
+
+#### Access and Data Management
+- Patty gained access to UMN ArcGIS Online
+- Some access issues with NRCS systems being addressed
+- Team can now visualize points and access scanned sheets in Box
+
+#### Spatial Analysis Planning
+- Need to stratify sampling based on:
+  - Parent materials
+  - Surface geology
+  - Land use categories
+- Future steps include:
+  - Coding points by land use type
+  - Analyzing distribution of sampling locations
+  - Identifying gaps in coverage
+- Discussion of potential land use classification schemes:
+  - Residential (various densities)
+  - Parks/green space
+  - Mixed use
+  - Historical points integration
+
+### 4. Historical Data Integration
+
+#### INFEWS Data Integration
+- Nora to work with Nic on incorporating historical points
+- Considerations for historical data:
+  - Some sites may be unsuitable (raised gardens, modified areas)
+  - Many locations overlap with current sampling
+  - Need to filter out agricultural/garden sites
+- Data includes good documentation of land use through Survey123
+
+### 5. Future Planning
+
+#### Upcoming Tasks
+- Patty and Adam to meet after Veterans Day to discuss GIS strategy
+- Need to develop method for grouping soils by parent materials
+- Nora to discuss potential Survey123 form modifications with Nic
+- Team to review land use classification options
+
+#### Meeting Schedule
+- Next meetings:
+  - November 12, 2024
+  - November 26, 2024 (Thanksgiving week)
+  - December 10, 2024 (with Randy)
+- December 24 meeting cancelled
+- Spring semester schedule to be determined at December 10 meeting
+
+## Action Items
+
+### Nora
+1. Begin entering first 15 pedon descriptions by Thanksgiving
+2. Document classification decisions during data entry
+3. Work with Nic on INFEWS data integration
+4. Discuss adding land use question to Survey123 form
+5. Maintain list of questions/comments during data entry
+
+### Patty
+1. Review Arc map capabilities and prepare GIS strategy
+2. Work on grouping soils by parent materials
+3. Set up meeting with Adam post-Veterans Day for GIS planning
+4. Coordinate with Ryder Anderson regarding QC process
+
+### Adam
+1. Follow up on Box access issues
+2. Prepare for GIS strategy meeting with Patty
+3. Continue field data collection and updates
+4. Document current sampling distribution
+
+### Team
+1. Review land use classification options
+2. Evaluate spring semester meeting schedule
+3. Prepare for December 10 meeting with Randy
+4. Continue refining QC process based on initial batch results
+
+## Notes
+- Team acknowledges learning curve with urban soil classification
+- Emphasis on maintaining detailed documentation of decisions
+- Recognition of need for flexible approach to land use classification
+- Agreement to keep GIS analysis approach simple initially
+
+The next full team meeting is scheduled for November 12, 2024. Team members are encouraged to reach out with questions or concerns before then, particularly regarding data entry and classification decisions.

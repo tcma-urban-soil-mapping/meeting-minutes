@@ -1,0 +1,157 @@
+# Patty, Ryder, Adam, Nora Check-in 26NOV2024
+
+**Date: November 26, 2024**
+
+**Attendees:** 
+
+- Nora Pearson 
+- Patty Burns 
+- Adam Devlin 
+- Ryder Anderson
+
+## Key Discussion Points
+
+### 1. Survey 1-2-3 Data Export Process
+
+#### Current Status
+
+-   Nora has completed entry of 15 pedons into Survey123
+-   Team working on process to export data to Excel format for QC before NASIS upload
+-   Identified some technical challenges:
+    -   Coordinates displaying incorrectly (some lat/long values reversed)
+    -   Points currently showing at 0,0 coordinates in web interface
+    -   Crashing issues when trying to input coordinates through map interface
+
+#### Action Items
+
+-   Nora to resubmit surveys with corrected lat/long coordinates
+-   Export all 15 pedons to Excel format
+-   Place exported files in shared Box folder
+-   Team to test QC process using Excel format
+
+### 2. Documentation and Communication Process
+
+#### Team Decisions
+
+-   Will maintain single running document in Box for questions/comments
+-   All team members can edit document online simultaneously
+-   Document will track:
+    -   Questions during data entry
+    -   QC feedback
+    -   Technical issues
+    -   Classification decisions
+
+#### Process Updates
+
+-   Patty will provide MLRA shapefile for reference
+-   Team has access to site photos through Survey123 map interface
+-   Will continue using Box for file sharing and collaboration
+
+### 3. GIS and Mapping Progress
+
+#### Current Work (Patty)
+
+-   Analyzing geomorphic surfaces using multiple data sources:
+    -   USGS county data
+    -   Minnesota DNR land type associations
+    -   Howard Hobbs surficial geology maps
+-   Waiting for current Minnesota Geological Survey layer
+-   Working on identifying major land surfaces with different parent materials
+
+#### Future Plans
+
+-   Joe proposing machine learning approach to identify sampling locations
+-   Will incorporate:
+    -   Geomorphic surfaces
+    -   Land use data
+    -   Various covariates
+-   Plan to identify underutilized areas for future sampling
+
+### 4. Land Use Classification Discussion
+
+#### Current Considerations
+
+-   Multiple potential classification schemes:
+    -   Met Council data
+    -   EPA impervious surface data
+    -   Land cover classifications
+-   Ryder shared experience from previous urban soil survey:
+    -   Used EPA layer with 1-meter resolution
+    -   Combined land use and impervious surface data
+    -   Helped define urban land map units vs. residential areas
+
+#### Next Steps
+
+-   Adam to potentially lead land use classification effort
+-   Team to investigate availability of EPA layer for Minnesota
+-   Plan meeting with Joe to discuss classification approach
+
+## Action Items
+
+### For Nora
+
+1.  Fix and resubmit surveys with reversed coordinates
+2.  Export 15 pedons to Excel format
+3.  Upload Excel files to Box
+4.  Continue entering next batch of pedons
+5.  Research spring semester meeting schedule options
+
+### For Patty
+
+1.  Share MLRA shapefile in Box
+2.  Continue geomorphic surface analysis
+3.  Coordinate with Joe regarding machine learning approach
+4.  Review exported pedon data when available
+
+### For Ryder
+
+1.  Investigate EPA layer availability for Minnesota
+2.  Share experience with urban soil classification
+3.  Assist with QC process development
+
+### For Adam
+
+1.  Begin investigating land use classification options
+2.  Review Met Council data layers
+3.  Prepare for discussion with Joe about classification approach
+
+## Upcoming Meetings
+
+-   December 10, 2024: Meeting with Randy
+    -   Focus on data entry progress
+    -   Discuss QC process
+    -   Address any technical questions
+-   December 13, 2024: Team social gathering
+-   Spring semester meeting schedule to be determined after January 21st
+
+## Notes
+
+-   No formal agenda required for December 10th meeting with Randy
+-   Team should note questions for Randy ahead of time
+-   Current meeting schedule runs through end of fall semester only
+-   Spring schedule to be determined based on Nora's class schedule
+
+## Technical Decisions
+
+### Data Entry Process
+
+-   Continue using Survey 1-2-3 for initial data entry
+-   Export to Excel for QC review
+-   Final upload to NASIS after QC complete
+-   Maintain running documentation of decisions and questions
+
+### Mapping Framework
+
+-   Focus on geomorphic surfaces first
+-   Incorporate land use classification later
+-   Wait for Joe's input on machine learning approach
+-   Consider multiple classification schemes
+
+### Documentation
+
+-   Use single running document in Box
+-   All team members can edit simultaneously
+-   Track questions and decisions in real-time
+-   Maintain access to photographs through Survey 1-2-3
+
+The next team meeting with Randy is scheduled for December 10, 2024. Team members should prepare questions and review initial batch of exported data before the meeting.
