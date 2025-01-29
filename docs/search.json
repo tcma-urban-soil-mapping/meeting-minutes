@@ -2490,5 +2490,170 @@
       "Small Group Meetings",
       "<span class='chapter-number'>36</span>  <span class='chapter-title'>Patty, Ryder, Adam, Nora Check-in 26NOV2024</span>"
     ]
+  },
+  {
+    "objectID": "minutes-pedon-entry-training-13JAN2025.html",
+    "href": "minutes-pedon-entry-training-13JAN2025.html",
+    "title": "37  Pedon Entry Training Meeting Minutes",
+    "section": "",
+    "text": "37.1 Attendees",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>37</span>  <span class='chapter-title'>Pedon Entry Training Meeting Minutes</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-pedon-entry-training-13JAN2025.html#attendees",
+    "href": "minutes-pedon-entry-training-13JAN2025.html#attendees",
+    "title": "37  Pedon Entry Training Meeting Minutes",
+    "section": "",
+    "text": "Nora Pearson\nGenevieve Saldibar\nAva McCune\nElyse McKeown\nEthan Gotsch\nAnnie Steuer",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>37</span>  <span class='chapter-title'>Pedon Entry Training Meeting Minutes</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-pedon-entry-training-13JAN2025.html#project-background",
+    "href": "minutes-pedon-entry-training-13JAN2025.html#project-background",
+    "title": "37  Pedon Entry Training Meeting Minutes",
+    "section": "37.2 Project Background",
+    "text": "37.2 Project Background\nBrief overview of Twin Cities soil survey update project due to outdated data, particularly in urban areas mapped only as “urban land” or “udorthents.”",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>37</span>  <span class='chapter-title'>Pedon Entry Training Meeting Minutes</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-pedon-entry-training-13JAN2025.html#survey123-data-entry-process",
+    "href": "minutes-pedon-entry-training-13JAN2025.html#survey123-data-entry-process",
+    "title": "37  Pedon Entry Training Meeting Minutes",
+    "section": "37.3 Survey123 Data Entry Process",
+    "text": "37.3 Survey123 Data Entry Process\n\n37.3.1 Required Setup & Documents\n\nSurvey123 desktop application\nAccess to “Pedon Description v1.9” survey\nBox shared folder\n\nPedon Entry Tracking spreadsheet\nScanned description sheets\nNotes document for questions/comments\n\n\n\n\n37.3.2 Before Starting Entry\n\nMark the pedon as “in progress” in tracking spreadsheet\nNote your initials and date started\nOpen corresponding scanned description sheet\nCreate new survey in Survey123 using “Collect” feature\n\n\n\n37.3.3 Page-by-Page Entry Guide\n\n37.3.3.1 Page 1: Location Information\n\nEnter describer initials from sheet\nSkip location buttons (may crash application)\nSet coordinate source as “auto populated from survey grade GPS”\nEnter date from sheet\nInput area symbol (3-digit county FIPS code)\nRegion office should be NC-ALB (North Central - Albert Lea)\nEnter coordinates manually from field data export\nLeave datum/accuracy/GPS PDOP blank\n\n\n\n37.3.3.2 Page 2: Site Information\n\nLeave series name blank initially (will fill after classification)\nPurpose: “Soil Survey Inventory”\nLeave classification blank initially\nMoisture regime: Usually “Udic” (or “Aquic” for wetlands)\nWeather/temperature: Enter if recorded, otherwise leave blank\nLand cover: Choose from dropdown based on field notes\nGeomorphic environment: Based on landscape position\n\nUsually glacial or fluvial in study area\nReference field notes and topographic position\nCan leave blank if uncertain\n\n\n\n\n37.3.3.3 Page 3: Soil Classification\n\nParticle size class: Based on control section (usually 25-100cm)\nMineralogy: Usually “mixed”\nCEC activity: Usually “superactive”\nTax moisture: “Udic” or “Aquic”\nDetermine soil order through Keys to Taxonomy\nFill in subgroup classification\nReturn to Page 2 to enter final classification\n\n\n\n37.3.3.4 Page 4: Horizon Data\nFor each horizon:\n\nObservation method\n\nUsually “Auger, Dutch”\n“Pit, small” for upper horizons if noted\n\nHorizon designation and depths\n\nEnter as recorded on sheet\nLeave boundary information blank\n\nColors\n\nEnter moist colors by default\nCan include up to 5 colors if needed\nNote color percentages in horizon notes\n\nTexture\n\nEnter from field sheet abbreviations\nNote modifiers if present (artifactual, gravelly, mucky)\nInclude percentages in notes if multiple textures\n\nStructure\n\nGrade (weak, moderate, strong)\nSize (fine, medium, coarse)\nType (granular, blocky, etc.)\nNote secondary structures in horizon notes\nReference the Field Book for Describing Soils V3.0 (page 2-53)\n\nConsistence\n\nMoist consistence only\nFriable or very friable were most commonly used\n\nAdditional Features\n\nRedox features if present\nConcentrations/depletions\nRoots and pores\nArtifacts if present\n\n\n\n\n37.3.3.5 Page 5: Vegetation Data\n\nEnter vegetation types from field sheet\nUse NRCS plant symbols\nInclude common names\nEnter ground cover percentages\nOmit thatch/bare soil entries\n\n\n\n37.3.3.6 Page 6-7: Notes and Review\n\nEnter miscellaneous field notes\nReview entries for completeness\nSave or submit survey\n\n\n\n\n37.3.4 Special Considerations\n\n37.3.4.1 Artifacts Documentation\n\nEnter in appropriate horizon section\nRecord type (e.g., “potsherd” for ceramics)\nInclude size and quantity\nNote all additional details in horizon notes\n\n\n\n37.3.4.2 Particle Size Control Section\n\nUsually 25-100cm unless specified\nChanges if argillic horizon present\nCalculate average rock fragment percentage\nDocument reasoning in notes\n\n\n\n37.3.4.3 Missing Data Guidelines\n\nLeave fields blank if not recorded\nDon’t estimate or interpolate values\nNote missing data in comments\nFlag issues for NRCS review",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>37</span>  <span class='chapter-title'>Pedon Entry Training Meeting Minutes</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-pedon-entry-training-13JAN2025.html#quality-control-process",
+    "href": "minutes-pedon-entry-training-13JAN2025.html#quality-control-process",
+    "title": "37  Pedon Entry Training Meeting Minutes",
+    "section": "37.4 Quality Control Process",
+    "text": "37.4 Quality Control Process\n\nData entered in Survey123\nExported to Excel\nReviewed by NRCS soil scientists\nUploaded to NASIS (National Soil Information System)",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>37</span>  <span class='chapter-title'>Pedon Entry Training Meeting Minutes</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-pedon-entry-training-13JAN2025.html#documentation-requirements",
+    "href": "minutes-pedon-entry-training-13JAN2025.html#documentation-requirements",
+    "title": "37  Pedon Entry Training Meeting Minutes",
+    "section": "37.5 Documentation Requirements",
+    "text": "37.5 Documentation Requirements\n\nCreate new bullet point in notes document for each pedon\nDocument questions, assumptions, and issues\nNote any classification reasoning\nRecord missing or unclear data",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>37</span>  <span class='chapter-title'>Pedon Entry Training Meeting Minutes</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-pedon-entry-training-13JAN2025.html#resources-support",
+    "href": "minutes-pedon-entry-training-13JAN2025.html#resources-support",
+    "title": "37  Pedon Entry Training Meeting Minutes",
+    "section": "37.6 Resources & Support",
+    "text": "37.6 Resources & Support\n\nField Book for Describing Soils (linked in guide)\nKeys to Soil Taxonomy\nNRCS Plants Database\nContact Nora or Gen with questions",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>37</span>  <span class='chapter-title'>Pedon Entry Training Meeting Minutes</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-pedon-entry-training-13JAN2025.html#action-items",
+    "href": "minutes-pedon-entry-training-13JAN2025.html#action-items",
+    "title": "37  Pedon Entry Training Meeting Minutes",
+    "section": "37.7 Action Items",
+    "text": "37.7 Action Items\n\nTeam to begin data entry using tracking spreadsheet\nDocument all questions in notes document\nNora to resolve remaining access issues\nRegular check-ins to address common issues\n\nThe meeting emphasized the importance of careful documentation and attention to detail in the data entry process, with multiple quality control steps and resources available for support.",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>37</span>  <span class='chapter-title'>Pedon Entry Training Meeting Minutes</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-28JAN2025-patty-group.html",
+    "href": "minutes-28JAN2025-patty-group.html",
+    "title": "38  Patty, Ryder, Adam, Nora Check-in 28JAN2025",
+    "section": "",
+    "text": "38.0.1 Attendees",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>38</span>  <span class='chapter-title'>Patty, Ryder, Adam, Nora Check-in 28JAN2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-28JAN2025-patty-group.html#pedon-entry-process-updates-and-guidelines",
+    "href": "minutes-28JAN2025-patty-group.html#pedon-entry-process-updates-and-guidelines",
+    "title": "38  Patty, Ryder, Adam, Nora Check-in 28JAN2025",
+    "section": "38.1 1. Pedon Entry Process Updates and Guidelines",
+    "text": "38.1 1. Pedon Entry Process Updates and Guidelines\n\n38.1.1 Data Entry Review Feedback (Presented by Ryder)\n\nOverall completeness of entries needs improvement\nSurvey123 has some glitches in data population\nSeveral specific corrections and guidelines were discussed:\n\n\n38.1.1.1 Iron Concretions vs. Masses\n\nMany entries used “iron concretions” when “iron masses” would be more appropriate\nFor 7.5YR 5/8 rust color features, use F3M (iron masses) instead of FMC\nDistinction: Iron masses for rust-colored features; concretions for cemented nodules\nReference the Red Book for proper codes\n\n\n\n38.1.1.2 Anthropogenic Features\n\nAll sites with Human Transported Material (HTM) should have:\n\nAnthropogenic landform populated\nHTM listed in parent material\nUse of number “2” after HTM in horizon designation\n\nRecommendation to use LIDAR data to help identify anthropogenic landforms\nEven small amounts (20cm) of fill should be documented\n\n\n\n38.1.1.3 Course Fragments Documentation\n\nNeed to include size ranges rather than single measurements\nCurrent entries often only mark largest fragment size\nShould document percentages for different size classes\nCan break down analysis (e.g., 10% gravel size, 5% cobble size)\n\n\n\n38.1.1.4 Till Classification\n\nSimplify to “till unspecified” instead of specific types like “till, melt-out”\nKeeps consistency across descriptions\nCan be more specific if tied to specific landforms\n\n\n\n38.1.1.5 C Horizon Guidelines\n\nC horizons should not have structure populated\nIf structure exists, it’s likely a BC or Bw horizon\nFor C horizons, use “structureless massive” or “single grain” for sandy materials\nDocument any inherited structure in text notes\n\n\n\n\n38.1.2 Process Improvements\n\nRecommended hand-digging first 45-50cm when possible\nDocument “hand dug to X cm, then augered” in notes\nSurvey123 vs. NASIS entry options discussed\n\nNASIS-trained staff can enter directly\nOthers should continue using Survey123",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>38</span>  <span class='chapter-title'>Patty, Ryder, Adam, Nora Check-in 28JAN2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-28JAN2025-patty-group.html#geomorphic-mapping-project-update-presented-by-patty-and-adam",
+    "href": "minutes-28JAN2025-patty-group.html#geomorphic-mapping-project-update-presented-by-patty-and-adam",
+    "title": "38  Patty, Ryder, Adam, Nora Check-in 28JAN2025",
+    "section": "38.2 2. Geomorphic Mapping Project Update (Presented by Patty and Adam)",
+    "text": "38.2 2. Geomorphic Mapping Project Update (Presented by Patty and Adam)\n\n38.2.1 Current Status\n\nCreated broad groupings of geomorphic surfaces:\n\nAnoka Sandplain (Blue)\nSuperior Red Till - coarse loamy (Red)\nDes Moines Lobe Till - fine loamy (Green)\nOutwash (Buff)\nLacustrine (Purple)\nRiver Systems (Brown)\nTill/Outwash Mix (Orange)\n\n\n\n\n38.2.2 Till Classifications\n\nCoarse Loamy Till: &lt;18% clay (sandy loam till)\nFine Loamy Till: 18-35% clay\nComplex area identified where Des Moines lobe overrode Superior lobe in Carver, Hennepin, and Ramsey counties\n\nVariable thickness and mixing of materials\nMore consistent in center of advance\nMore variable at edges\n\n\n\n\n38.2.3 Next Steps\n\nFurther subdivision of broad groupings:\n\nRiver systems to be divided into bottomland and upland\nDifferent landscape positions within till plains\nCustomized breaks for each physiographic region\n\nDevelopment of reference materials:\n\nSpreadsheet linking geomorphic units to expected soil series\nDocumentation of typical soil patterns\nIntegration with historical SSURGO data\n\nCleanup Tasks:\n\nRemove small anomalous areas\nResolve complex transition zones\nRefine boundaries in overridden areas",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>38</span>  <span class='chapter-title'>Patty, Ryder, Adam, Nora Check-in 28JAN2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-28JAN2025-patty-group.html#action-items",
+    "href": "minutes-28JAN2025-patty-group.html#action-items",
+    "title": "38  Patty, Ryder, Adam, Nora Check-in 28JAN2025",
+    "section": "38.3 3. Action Items",
+    "text": "38.3 3. Action Items\n\n38.3.1 For Nora\n\nUpdate Survey123 guide with new guidelines\nEmail Ryder when new batches are uploaded to Box\n\n\n\n38.3.2 For Ryder\n\nShare example Pedon Entry classifications\nSend guidance on anthropogenic vs. mollic classifications\nWork with Randy on Box access for NRCS staff\nContinue QC of submitted pedons\n\n\n\n38.3.3 For Patty\n\nContinue cleanup of geomorphic map units\nCoordinate with Joe on Randy meeting agenda\nFurther develop soil series reference spreadsheet\n\n\n\n38.3.4 For Adam\n\nBegin planning secondary cuts for geomorphic regions\nConsider landscape position breaks within main units",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>38</span>  <span class='chapter-title'>Patty, Ryder, Adam, Nora Check-in 28JAN2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-28JAN2025-patty-group.html#next-meetings",
+    "href": "minutes-28JAN2025-patty-group.html#next-meetings",
+    "title": "38  Patty, Ryder, Adam, Nora Check-in 28JAN2025",
+    "section": "38.4 4. Next Meetings",
+    "text": "38.4 4. Next Meetings\n\nFebruary 11th meeting with Randy scheduled\nRegular 9am check-in cancelled\nRyder will be unavailable for two weeks due to training",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>38</span>  <span class='chapter-title'>Patty, Ryder, Adam, Nora Check-in 28JAN2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-28JAN2025-patty-group.html#outstanding-questions-for-randy",
+    "href": "minutes-28JAN2025-patty-group.html#outstanding-questions-for-randy",
+    "title": "38  Patty, Ryder, Adam, Nora Check-in 28JAN2025",
+    "section": "38.5 5. Outstanding Questions for Randy",
+    "text": "38.5 5. Outstanding Questions for Randy\n\nDefinition and implications of “rock structure” in anthropic epipedon requirements\nClarification on artifact classifications vs. litter discarded by humans\nAdditional taxonomy questions to be compiled",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>38</span>  <span class='chapter-title'>Patty, Ryder, Adam, Nora Check-in 28JAN2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-28JAN2025-patty-group.html#notes",
+    "href": "minutes-28JAN2025-patty-group.html#notes",
+    "title": "38  Patty, Ryder, Adam, Nora Check-in 28JAN2025",
+    "section": "38.6 6. Notes",
+    "text": "38.6 6. Notes\n\nQuality of Pedon Entry submissions improving over time\nSome early entries may need revision\nEmphasis on making entry process accessible for undergraduates\nComplex areas may require additional sampling density\nTeam working to balance detail vs. practicality in classifications",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>38</span>  <span class='chapter-title'>Patty, Ryder, Adam, Nora Check-in 28JAN2025</span>"
+    ]
   }
 ]

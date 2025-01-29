@@ -1,0 +1,159 @@
+# Pedon Entry Training Meeting Minutes
+
+**Date: January 13, 2025** 
+
+## Attendees
+- Nora Pearson
+- Genevieve Saldibar
+- Ava McCune
+- Elyse McKeown
+- Ethan Gotsch
+- Annie Steuer
+
+## Project Background
+Brief overview of Twin Cities soil survey update project due to outdated data, particularly in urban areas mapped only as "urban land" or "udorthents."
+
+## Survey123 Data Entry Process
+
+### Required Setup & Documents
+- Survey123 desktop application
+- Access to "Pedon Description v1.9" survey
+- Box shared folder
+  - Pedon Entry Tracking spreadsheet
+  - Scanned description sheets
+  - Notes document for questions/comments
+
+### Before Starting Entry
+1. Mark the pedon as "in progress" in tracking spreadsheet
+2. Note your initials and date started
+3. Open corresponding scanned description sheet
+4. Create new survey in Survey123 using "Collect" feature
+
+### Page-by-Page Entry Guide
+
+#### Page 1: Location Information
+- Enter describer initials from sheet
+- Skip location buttons (may crash application)
+- Set coordinate source as "auto populated from survey grade GPS"
+- Enter date from sheet
+- Input area symbol (3-digit county FIPS code)
+- Region office should be NC-ALB (North Central - Albert Lea)
+- Enter coordinates manually from field data export
+- Leave datum/accuracy/GPS PDOP blank
+
+#### Page 2: Site Information
+- Leave series name blank initially (will fill after classification)
+- Purpose: "Soil Survey Inventory"
+- Leave classification blank initially
+- Moisture regime: Usually "Udic" (or "Aquic" for wetlands)
+- Weather/temperature: Enter if recorded, otherwise leave blank
+- Land cover: Choose from dropdown based on field notes
+- Geomorphic environment: Based on landscape position
+  - Usually glacial or fluvial in study area
+  - Reference field notes and topographic position
+  - Can leave blank if uncertain
+
+#### Page 3: Soil Classification
+- Particle size class: Based on control section (usually 25-100cm)
+- Mineralogy: Usually "mixed"
+- CEC activity: Usually "superactive"
+- Tax moisture: "Udic" or "Aquic"
+- Determine soil order through [Keys to Taxonomy](https://www.nrcs.usda.gov/sites/default/files/2022-09/Keys-to-Soil-Taxonomy.pdf)
+- Fill in subgroup classification
+- Return to Page 2 to enter final classification
+
+#### Page 4: Horizon Data
+For each horizon:
+
+1. Observation method 
+   - Usually "Auger, Dutch"
+   - "Pit, small" for upper horizons if noted
+   
+2. Horizon designation and depths
+   - Enter as recorded on sheet
+   - Leave boundary information blank
+
+3. Colors
+   - Enter moist colors by default
+   - Can include up to 5 colors if needed
+   - Note color percentages in horizon notes
+
+4. Texture
+   - Enter from field sheet abbreviations
+   - Note modifiers if present (artifactual, gravelly, mucky)
+   - Include percentages in notes if multiple textures
+
+5. Structure
+   - Grade (weak, moderate, strong)
+   - Size (fine, medium, coarse)
+   - Type (granular, blocky, etc.)
+   - Note secondary structures in horizon notes
+   - Reference the [Field Book for Describing Soils V3.0](https://www.nrcs.usda.gov/sites/default/files/2022-09/field-book.pdf) (page 2-53)
+
+6. Consistence
+   - Moist consistence only
+   - Friable or very friable were most commonly used
+
+7. Additional Features
+   - Redox features if present
+   - Concentrations/depletions
+   - Roots and pores
+   - Artifacts if present
+
+#### Page 5: Vegetation Data
+- Enter vegetation types from field sheet
+- Use NRCS plant symbols
+- Include common names
+- Enter ground cover percentages
+- Omit thatch/bare soil entries
+
+#### Page 6-7: Notes and Review
+- Enter miscellaneous field notes
+- Review entries for completeness
+- Save or submit survey
+
+### Special Considerations
+
+#### Artifacts Documentation
+- Enter in appropriate horizon section
+- Record type (e.g., "potsherd" for ceramics)
+- Include size and quantity
+- Note all additional details in horizon notes
+
+#### Particle Size Control Section
+- Usually 25-100cm unless specified
+- Changes if argillic horizon present
+- Calculate average rock fragment percentage
+- Document reasoning in notes
+
+#### Missing Data Guidelines
+- Leave fields blank if not recorded
+- Don't estimate or interpolate values
+- Note missing data in comments
+- Flag issues for NRCS review
+
+## Quality Control Process
+1. Data entered in Survey123
+2. Exported to Excel
+3. Reviewed by NRCS soil scientists
+4. Uploaded to NASIS (National Soil Information System)
+
+## Documentation Requirements
+- Create new bullet point in notes document for each pedon
+- Document questions, assumptions, and issues
+- Note any classification reasoning
+- Record missing or unclear data
+
+## Resources & Support
+- Field Book for Describing Soils (linked in guide)
+- Keys to Soil Taxonomy
+- NRCS Plants Database
+- Contact Nora or Gen with questions
+
+## Action Items
+1. Team to begin data entry using tracking spreadsheet
+2. Document all questions in notes document
+3. Nora to resolve remaining access issues
+4. Regular check-ins to address common issues
+
+The meeting emphasized the importance of careful documentation and attention to detail in the data entry process, with multiple quality control steps and resources available for support.
