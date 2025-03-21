@@ -1,0 +1,151 @@
+# Patty, Nic, Ryder, Joe, Stuart Check In 11MAR2025
+
+**Date: March 11, 2025**
+
+## Attendees
+
+-   Nic Jelinski
+-   Patty Burns
+-   Ryder Anderson
+-   Joseph Brennan
+-   Stuart Veith
+
+## Meeting Agenda and Key Discussion Points
+
+### Project Status Update
+
+-   The team is continuing with data entry in Survey123
+-   Nora posted a guide for Survey 123 data entry in the project metadata eBook
+-   There will be a more standardized and real-time flow of data entry this year
+-   Gen will be the field coordinator, allowing Nora to take a broader view of the project
+
+### Progressive Correlation Process
+
+Patty Burns provided an overview of the progressive correlation process:
+
+1.  **Initial Steps:**
+    -   Start with a trial legend based on soils in the surrounding area
+    -   Use the geomorphic-physiographic map that Patty, Joe, and Adam created to identify potential soil types and parent materials
+    -   Begin with a trial list of potential soils that might be encountered
+2.  **Analysis Process:**
+    -   Examine pedon data as it becomes available
+    -   Identify repetitive soil patterns and see if they correlate to existing series
+    -   Progressively build an official legend as patterns emerge across the AOI
+3.  **Planned Next Steps:**
+    -   Begin identifying landscape units for mapping on different geomorphic surfaces
+    -   Decide on the level of detail to map (e.g., how many drainage classes to separate)
+    -   This will help drive the sampling schema
+
+### Geomorphic Surface Classification
+
+-   Discussion about different approaches to mapping urban soils on natural landscapes
+-   Many observations can be related to the natural component in the existing map
+-   Different approaches for handling:
+    -   Soils with thin human-transported material (HTM) mantles
+    -   Buried soils
+    -   Heavily modified soils requiring new series (anthroportic udorthents)
+
+Ryder shared St. Louis experience: - Using phases for natural soils with thin HTM mantles that still classify as the original soil - Creating new series for soils that classify as anthroportic utorthents - Creating complexes of natural and HTM soils
+
+### Data Analysis Strategy
+
+Nic suggested additional analytical approaches: - Use AQP tools (Algorithms for Quantitative Pedology) to analyze morphological similarity - Consider building similarity matrices for quantitative assessment - Potentially consolidate site-level variables for PCA analysis to identify clusters - Focus on diagnostic features rather than horizon-by-horizon analysis
+
+Agreed data points to collect/analyze: - Diagnostic features - Depth of HTM - Family particle size class - Depth of redox features
+
+### Landform Classification and Terminology
+
+-   Need for standardized landform terminology for the project
+-   Joe will share a document created by NRCS (approximately 8 years ago) that narrows down landscape and landform terminology
+-   The team will create an approved landform list to ensure consistency
+-   Current entries show inconsistencies (e.g., "outwash plain" populated for both landscape and landform)
+
+### Laboratory Analysis Update
+
+-   The team has collected \~1000 samples for lab analysis
+-   Most samples are still being prepped
+-   All mineral samples (\<10% carbon) will have particle size analysis
+-   Samples are also being prepared for MIR analysis for carbon data
+-   This data will help resolve questions about dual particle size classes and other classification issues
+
+### External Data Sources
+
+-   Patty will contact Angela Radke from Minnesota Geological Survey for additional data
+-   The team wants all available data, including:
+    -   Well logs
+    -   Geotechnical borings
+    -   Hand augerings
+    -   MnDOT data
+    -   Rotary sonic drilling data
+-   Jackie Hamilton was mentioned as an alternative contact since Angela is on maternity leave
+
+### Next Steps for Correlation
+
+1.  **For Joe and Patty:**
+    -   Continue working on the geomorphic surfaces map
+    -   Define landscape segments within each geomorphic region (possibly by drainage class)
+    -   Create conceptual models for each landscape
+2.  **For Ryder:**
+    -   Create a list of diagnostic features to track in NASIS
+    -   Follow up with Randy Riddle about taxonomy questions (fluvaquentic taxonomy and multiple epipedons)
+    -   Catch up on comments in the notes section
+3.  **For Nicolas and Nora:**
+    -   Review Ryder's diagnostic features list and provide input
+    -   Begin systematic extraction of diagnostic features from pedon descriptions
+    -   Consider clustering analysis by geomorphic region
+    -   Start analytical work on morphological similarity
+
+## Data Entry Issues and Observations
+
+Ryder highlighted several issues noticed during data entry:
+
+1.  **Form Inconsistencies:**
+    -   The order of slope shape entries (across vs. up/down) is switched between the 232 description form and Survey 1-2-3
+2.  **Horizon Designation:**
+    -   Some C horizons with calcium carbonate (k) should probably be B horizons
+3.  **Particle Size Analysis:**
+    -   Need better field estimates of sand percentages
+    -   Dual particle size class designations need to be verified with the particle size control section
+    -   Sand percentages need to be calculated for valid dual particle size classification
+4.  **Taxonomy Questions:**
+    -   Awaiting feedback from Randy Riddle on fluvaquentic taxonomy
+    -   Questions about handling multiple epipedons (mollic and anthropic)
+5.  **Lamellae Identification:**
+    -   Field notes mention "pockets of higher clay" which could indicate lamellae
+    -   For future field work, teams should dig deeper to confirm lamellae presence
+
+## Action Items
+
+1.  **Ryder will:**
+    -   Create and distribute a draft list of diagnostic features to track (before his vacation)
+    -   Follow up with Randy Riddle on taxonomy questions
+    -   Address comments in the notes section
+2.  **Joe will:**
+    -   Share the NRCS document on standardized landscape/landform terminology
+    -   Work with Patty on Thursday to develop conceptual models for geomorphic surfaces
+3.  **Patty will:**
+    -   Work with Joe on geomorphic surface models and landscape segments
+    -   Contact Angela Bradke/Jackie Hamilton for Minnesota Geological Survey data
+    -   Develop an approved landform list based on their geomorphic map
+4.  **Nic and Nora will:**
+    -   Meet after spring break to review Ryder's diagnostic features list
+    -   Begin work on extracting and analyzing diagnostic features
+    -   Consider approaches for morphological similarity analysis
+5.  **For future field work:**
+    -   Put greater emphasis on documenting diagnostic features
+    -   Improve field estimation of sand percentages
+    -   Investigate potential lamellae when "pockets of higher clay" are observed
+    -   Follow standardized landform terminology
+
+## Key Insights and Observations
+
+-   The current soil mapping is surprisingly accurate for the natural components, but needs to be updated to account for urban modifications
+-   Many urban soils can be related to the underlying natural soil series with various degrees of modification
+-   A systematic approach to correlation will involve:
+    1.  Identifying major geomorphic surfaces
+    2.  Defining landscape segments within each surface
+    3.  Analyzing pedon data to identify patterns
+    4.  Progressively building a legend as patterns emerge
+-   Laboratory data will be crucial for resolving classification questions, particularly for particle size classes
+-   Diagnostic features will be more useful for correlation than horizon-by-horizon analysis
+-   The project will benefit from a standardized approach to landform terminology

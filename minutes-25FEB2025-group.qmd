@@ -1,0 +1,145 @@
+# Patty, Nora, Ryder, Kasia, Nic, Joe Check In 25FEB2025
+
+**Date: February 25, 2025**
+
+## Attendees
+
+- Nora B Pearson
+- Patty Burns
+- Ryder Anderson
+- Kasia Ulanowski
+- Nic Jelinski
+- Joseph Brennan
+
+## Agenda Items and Discussion
+
+### 1. Data Entry and Quality Control
+
+#### Pedon Entries Progress
+- Approximately 7 people working on data entry
+- 5-6 are undergrads who can enter 1-2 per week
+- Ava will join with more capacity after completing lab work
+- Nora and Ryder discussed the quality control spreadsheet Ryder provided
+- The team is making good progress on classifying soils
+
+#### Classification Challenges
+- Classifying Human Transported Materials (HTM) is particularly challenging
+- Team is developing a taxonomy cheat sheet distilling soil classification keys
+- Nora and Ava working on a cheat sheet to help other undergrads
+
+#### Structure in Soil Horizons
+- Discussion about recording structure in C horizons
+- Nic emphasized the importance of describing morphology first before determining horizonation
+- The team should record structures even in C horizons but note whether they are pedogenic or geogenic/anthropogenic
+- Ryder clarified that while structure should be observed and recorded (especially in text notes), in NASIS there are some restrictions on recording structure in C horizons
+- For the next field season, Patty suggested adding a dedicated spot on field sheets to note geogenic structure
+
+#### Survey123 and NASIS Data Entry
+- Clarified that for classification in Survey123, the entire soil name should be entered (e.g., "Fine-loamy mixed superactive mesic typic hapludalf")
+- For series names, the team can make educated guesses, put "unknown," or use the [OSD query tool](https://soilseries.sc.egov.usda.gov/osdquery.aspx) shared by Ryder
+- Kasia will switch from Survey123 to NASIS entry after training
+
+#### Root Limiting Layers
+- Discussed what constitutes a root limiting layer (compacted layers, HTM with platy structure, densic layers, fragipans)
+- In future field work, team should pay more attention to where roots stop and document this better
+
+### 2. Soil Taxonomy Questions
+
+#### Super Active vs. Active Classification
+- Team confirmed that most soils in the region are superactive, which is a safe default
+- Joseph noted that some northeastern Minnesota soils are coming out as active in recent data
+
+#### Anthraquic Conditions
+- Clarified that anthraquic conditions in taxonomy are specifically for agricultural areas (like rice paddies)
+- Even if soils have anthropogenically-created water tables, they don't qualify as anthraquic
+- The team should still record redox features and note water tables in descriptions
+
+#### Saptohumic Classification
+- Discussion about the 1% carbon requirement for Thapto-humic fluvaquents
+- Ryder indicated this is likely met in dark A horizons with 10YR 2/1 colors
+- Kasia raised a question about Thapto-humic endoaquolls in HTM situations
+- Team discussed whether fluvial system requirements apply to various soil classifications
+
+#### Anthropogenic Landforms
+- Ryder noted that Randy requires anthropogenic landform designation for all HTM soils
+- The available anthropogenic landform options are limited and don't always fit urban situations well
+
+### 3. Specific Soil Profile Discussion
+
+#### Weathered Shale Profile
+- Kasia presented a challenging profile with a Bw/Bt horizon designation
+- The disagreement centered on whether to classify a weathered shale inclusion as a Bt horizon
+- Stuart had recommended changing this to represent the material as shale fragments within Bw horizons
+- Both Ryder and Patty agreed with Stuart's assessment
+- Calling it an argillic horizon (Bt) would lead to an Argiudoll classification which isn't representative of the profile
+- The team agreed this should be classified as Bw with weathered shale fragments noted
+
+#### River Terrace Profile
+- Discussed a second profile closer to the river with similar shale material
+- Ryder noted that in cases where shale has weathered to residuum, Bt horizons can legitimately form
+- Team agreed the second profile's Bt and Bt/C horizons were appropriate classifications
+
+### 4. Additional Resources and Collaboration
+
+#### Geomorphic Regions Resource
+- Patty uploaded a spreadsheet to Box with geomorphic regions and potential soil series
+- Not a comprehensive list but provides guidance on what soils might be found
+- Will work with Joe to share the physiographic/geomorphic regions layer with the group
+
+#### Well Logs and Additional Data
+- Discussion about obtaining well logs from Minnesota Geological Survey (MGS)
+- Angela is on maternity leave until May; Patty will contact Bill Grimm
+- Joe recommended contacting Jackie Hamilton who works with spatial datasets
+
+#### Master Gardener Network for Sampling Access
+- Nic met Rachel Kimpton, who runs the Master Gardener volunteer program in Hennepin County
+- She offered to help connect the team with ~500 Minneapolis volunteers for sampling access
+- This is especially valuable for Hennepin County, which is a more complex area where two glacial lobes cross
+
+### 5. Next Steps and Action Items
+
+#### Immediate Tasks
+- Nora will send Nic the one-pager/flyer for Master Gardener outreach
+- Patty will email Bill Grimm about well logs and geological data
+- Ryder will consult with Randy about fluvoquentic classification questions
+- Kasia will update the problematic pet-on entries based on today's discussion
+- Team will continue data entry work
+
+#### Field Season Preparation
+- Update field description sheets to better document anthropogenic/geogenic structure
+- Improve documentation of root limiting layers in the field
+- Develop better awareness of geomorphic regions during field work
+
+#### Next Meeting
+- Scheduled for March 11, 2025
+- Note: This date falls during Nora's spring break; Patty will discuss rescheduling options
+
+## Summary of Decisions
+
+1. **Structure Recording:** Record all observed structure in the field, but note whether it's pedogenic or geogenic/anthropogenic. In NASIS, some structure may need to be recorded in text notes rather than dedicated fields for C horizons.
+
+2. **Classification Defaults:**
+   - Use superactive for most soils in the region unless lab data indicates otherwise
+   - Use Udic moisture regime as the default, with aquic conditions noted where appropriate (based on Joe's guidance)
+
+3. **Problematic Profile:** The weathered shale inclusion should be classified as a Bw horizon with shale fragments, not as a Bt/argillic horizon.
+
+4. **Data Entry:** 
+   - Enter full classification names in Survey123
+   - For series names, make educated guesses or use "unknown" when necessary
+   - Document changes made to field designations with detailed notes
+
+5. **Field Methods:** For the next field season, improve documentation of:
+   - Structure type (pedogenic vs. geogenic)
+   - Root limiting layers
+   - Geomorphic position
+
+## Appendix: Resources Mentioned
+
+1. Quality control spreadsheet (Ryder)
+2. OSD query tool for looking up Official Soil Series descriptions
+3. Taxonomy cheat sheet (in development by Nora and Ava)
+4. Geomorphic regions and potential soil series spreadsheet (Patty)
+5. Master Gardener outreach flyer (Nora)
+
+The meeting concluded with participants expressing satisfaction with progress and emphasizing continued collaboration and communication on challenging soil classification issues.
