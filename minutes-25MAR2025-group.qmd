@@ -1,0 +1,135 @@
+# Patty, Joe, Kasia, Nora Check-in 25MAR2025
+
+**Date: March 25, 2025**
+
+## Attendees
+
+-   Nora Pearson
+-   Patty Burns
+-   Kasia Ulanowski
+-   Joseph Brennan
+
+## Questions from Kasia Regarding Pedon Descriptions
+
+### Human Transported Material (HTM) Classification
+
+-   **Question**: When material is moved within the same field (e.g., filling drainage ditches with soil from the same field), should it be classified as HTM?
+-   **Consensus**:
+    -   Patty confirmed that strictly speaking, any soil moved from its original location, even within the same field, is considered HTM
+    -   Joe recommended generally treating all human-altered material as human-transported for simplicity
+    -   The team agreed to follow this approach for consistency
+
+### Missing Artifact Sheet
+
+-   A pedon description notes artifacts ('U' suffix) but the artifact description sheet is missing
+-   This was from early June fieldwork when the team was still learning to document artifacts
+-   **Decision**: Keep the 'U' notation as recorded and add a text note about the missing artifact sheet
+
+## Diagnostic Features List & Initial Concept Spreadsheet
+
+### Anthropogenic Conditions Classification
+
+-   The team discussed how to incorporate anthropogenic conditions into landscape categories
+-   Current approach separates "anthropogenic conditions" from natural landscapes (Anoka sandplain, till, outwash, etc.)
+-   **Decision**:
+    -   Keep anthropogenic conditions as a separate section at the top of the diagnostic features list
+    -   Add an "anthropogenic conditions" bullet point within each landscape category
+    -   Users will reference the anthropogenic conditions section when completing descriptions for any landscape
+
+### Aquic Conditions Criteria
+
+-   Nic previously suggested specific documentation of "depth to common or many depletions"
+-   **Decision**:
+    -   Retain "aquic conditions" but add clarifying parenthetical text specifying "depth to common/many redox depletions" as the criteria
+    -   Few and faint depletions would not qualify as aquic conditions
+    -   For some classifications (entisols), over 50% depletion may be needed
+
+### Initial Concepts Approach
+
+Patty shared her spreadsheet organizing soil concepts by geomorphic surface: - Organized by geomorphic surfaces: river systems, Anoka sand plain, glacial fluvial (outwash), loamy till, etc. - Within each surface, concepts are further divided (e.g., river systems include soils on risers, dry soils on treads, wet soils on treads, river bottoms) - Spreadsheet includes columns for diagnostic characteristics: slope, surface texture, aquic conditions, drainage class, etc. - These will help differentiate between concepts and establish ranges for each
+
+### Working with HTM-Affected Soils
+
+-   Each native soil concept may have HTM-affected variants
+-   Team will track the thickness and prevalence of HTM across sites
+-   If enough HTM-affected examples exist in a particular concept, they may create an "HTM-affected phase" for that concept
+
+### Concept Boundaries and Categorization
+
+-   Joe noted that concepts will naturally have overlapping characteristics
+-   Some diagnostic attributes may be more important for differentiation (e.g., aquic conditions)
+-   Drainage classes will vary by landscape. For example, wet in a sand/gravel landscape may correspond to moderately well-drained, while in a till landscape it may be poorly drained.
+-   The team will refine concepts as patterns emerge from the data
+
+## Modeling Discussion
+
+### Using Diagnostic Features in Modeling
+
+Joe explained how diagnostic features are used in modeling: - Each pedon represents a point on the landscape with measurable features (e.g., depth to aquic conditions) - Models correlate these features with environmental covariates - Different diagnostic features can be modeled separately (depth to aquic conditions, depth to carbonates, lithologic discontinuities) - These separate models can then be stacked to build a final classification - Not all diagnostic features would be modeled, but collecting a comprehensive list allows flexibility
+
+### Potential HTM Modeling
+
+-   The team discussed potentially modeling HTM distribution based on:
+    -   Land use intensity
+    -   Distance from known contributors to respread
+    -   RUSI (Rapid Urban Site Index) variables collected during fieldwork
+    -   LiDAR measurements of distance to roads/buildings
+
+## Project Status and Next Steps
+
+### Pedon Entry Status Update
+
+-   Approximately 90 pedons have been entered into NASIS
+-   About 90 more pedons remain to be entered
+-   50 pedons have been entered but not yet transferred to the Excel spreadsheet
+-   Kasia has been processing many of these entries
+-   The team aims to complete all entries by the end of April
+
+### Next Steps for Concept Development
+
+-   Nora will start populating her version of the diagnostic features spreadsheet, working with pedons that have been QC'd by Ryder
+-   She will focus on one geographic area at a time to better identify patterns
+-   Patty will continue refining the rule-based ranges for each concept
+-   The team will remain flexible about adding or modifying concepts as they analyze more data
+
+### Geomorphic Surface Guide
+
+-   Patty has edited the Region 10 geomorphic guide to focus on landscapes relevant to the urban project
+-   This will help keep geomorphic descriptions more uniform
+-   The guide includes a flowchart to help users determine which landform classification to use
+-   This will be especially helpful for undergraduates who haven't been to the sites and don't have easy GIS access
+
+## Additional Resources
+
+-   Nora and Ava have created a "cheat sheet" with relevant soil taxonomy information
+-   Joseph mentioned the Illustrated Guide to Soil Taxonomy as a helpful resource
+-   The Survey123 guide contains linked resources used by the team
+
+## Upcoming Meetings
+
+-   April 8th meeting with Randy at 10:30 AM (replaces regular small group meeting)
+    -   Patty will contact Randy about possibly rescheduling as Nora will be at soil judging competition in Texas
+    -   Potential alternative date: April 15th
+-   Next small group meeting: April 22nd (Earth Day) at 9:30 AM
+    -   Nora will send a new Zoom link for this meeting
+
+## Action Items
+
+1.  **Kasia:**
+    -   Email Randy or Ryder with specific questions about the missing artifact sheet
+    -   Continue processing pedon entries
+2.  **Nora:**
+    -   Meet with Nic separately to gather input on diagnostic features list
+    -   Transfer the 50 entered pedons to Excel
+    -   Begin populating diagnostic features spreadsheet with QC'd pedons
+    -   Add Patty's edited geomorphic guide to the team's resources
+    -   Put taxonomy cheat sheet into Box and share with Patty
+    -   Send new Zoom link for April 22nd meeting
+3.  **Patty:**
+    -   Add "depth of organic matter/organic matter depth" to concept spreadsheet
+    -   Add clarification about "common/many redox depletions" to aquic conditions
+    -   Talk to Randy about potentially rescheduling the April 8th meeting
+    -   Upload edited geomorphic guide to Box
+4.  **All:**
+    -   Continue refining concepts based on data patterns
+    -   Identify areas where additional concepts may be needed

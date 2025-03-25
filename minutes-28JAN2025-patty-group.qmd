@@ -1,128 +1,144 @@
 # Patty, Ryder, Adam, Nora Check-in 28JAN2025
 
-**Date:** January 28, 2025  
+**Date: January 28, 2025**
 
 ### Attendees
-- Patty Burns
-- Nora Pearson
-- Ryder Anderson
-- Adam Devlin
+
+-   Patty Burns
+-   Nora Pearson
+-   Ryder Anderson
+-   Adam Devlin
 
 ## 1. Pedon Entry Process Updates and Guidelines
 
 ### Data Entry Review Feedback (Presented by Ryder)
-- Overall completeness of entries needs improvement
-- Survey123 has some glitches in data population
-- Several specific corrections and guidelines were discussed:
+
+-   Overall completeness of entries needs improvement
+-   Survey123 has some glitches in data population
+-   Several specific corrections and guidelines were discussed:
 
 #### Iron Concretions vs. Masses
-- Many entries used "iron concretions" when "iron masses" would be more appropriate
-- For 7.5YR 5/8 rust color features, use F3M (iron masses) instead of FMC
-- Distinction: Iron masses for rust-colored features; concretions for cemented nodules
-- Reference the Red Book for proper codes
+
+-   Many entries used "iron concretions" when "iron masses" would be more appropriate
+-   For 7.5YR 5/8 rust color features, use F3M (iron masses) instead of FMC
+-   Distinction: Iron masses for rust-colored features; concretions for cemented nodules
+-   Reference the Red Book for proper codes
 
 #### Anthropogenic Features
-- All sites with Human Transported Material (HTM) should have:
-  - Anthropogenic landform populated
-  - HTM listed in parent material
-  - Use of number "2" after HTM in horizon designation
-- Recommendation to use LIDAR data to help identify anthropogenic landforms
-- Even small amounts (20cm) of fill should be documented
+
+-   All sites with Human Transported Material (HTM) should have:
+    -   Anthropogenic landform populated
+    -   HTM listed in parent material
+    -   Use of number "2" after HTM in horizon designation
+-   Recommendation to use LIDAR data to help identify anthropogenic landforms
+-   Even small amounts (20cm) of fill should be documented
 
 #### Course Fragments Documentation
-- Need to include size ranges rather than single measurements
-- Current entries often only mark largest fragment size
-- Should document percentages for different size classes
-- Can break down analysis (e.g., 10% gravel size, 5% cobble size)
+
+-   Need to include size ranges rather than single measurements
+-   Current entries often only mark largest fragment size
+-   Should document percentages for different size classes
+-   Can break down analysis (e.g., 10% gravel size, 5% cobble size)
 
 #### Till Classification
-- Simplify to "till unspecified" instead of specific types like "till, melt-out"
-- Keeps consistency across descriptions
-- Can be more specific if tied to specific landforms
+
+-   Simplify to "till unspecified" instead of specific types like "till, melt-out"
+-   Keeps consistency across descriptions
+-   Can be more specific if tied to specific landforms
 
 #### C Horizon Guidelines
-- C horizons should not have structure populated
-- If structure exists, it's likely a BC or Bw horizon
-- For C horizons, use "structureless massive" or "single grain" for sandy materials
-- Document any inherited structure in text notes
+
+-   C horizons should not have structure populated
+-   If structure exists, it's likely a BC or Bw horizon
+-   For C horizons, use "structureless massive" or "single grain" for sandy materials
+-   Document any inherited structure in text notes
 
 ### Process Improvements
-- Recommended hand-digging first 45-50cm when possible
-- Document "hand dug to X cm, then augered" in notes
-- Survey123 vs. NASIS entry options discussed
-  - NASIS-trained staff can enter directly
-  - Others should continue using Survey123
+
+-   Recommended hand-digging first 45-50cm when possible
+-   Document "hand dug to X cm, then augered" in notes
+-   Survey123 vs. NASIS entry options discussed
+    -   NASIS-trained staff can enter directly
+    -   Others should continue using Survey123
 
 ## 2. Geomorphic Mapping Project Update (Presented by Patty and Adam)
 
 ### Current Status
-- Created broad groupings of geomorphic surfaces:
-  - Anoka Sandplain (Blue)
-  - Superior Red Till - coarse loamy (Red)
-  - Des Moines Lobe Till - fine loamy (Green)
-  - Outwash (Buff)
-  - Lacustrine (Purple)
-  - River Systems (Brown)
-  - Till/Outwash Mix (Orange)
+
+-   Created broad groupings of geomorphic surfaces:
+    -   Anoka Sandplain (Blue)
+    -   Superior Red Till - coarse loamy (Red)
+    -   Des Moines Lobe Till - fine loamy (Green)
+    -   Outwash (Buff)
+    -   Lacustrine (Purple)
+    -   River Systems (Brown)
+    -   Till/Outwash Mix (Orange)
 
 ### Till Classifications
-- Coarse Loamy Till: <18% clay (sandy loam till)
-- Fine Loamy Till: 18-35% clay
-- Complex area identified where Des Moines lobe overrode Superior lobe in Carver, Hennepin, and Ramsey counties
-  - Variable thickness and mixing of materials
-  - More consistent in center of advance
-  - More variable at edges
+
+-   Coarse Loamy Till: \<18% clay (sandy loam till)
+-   Fine Loamy Till: 18-35% clay
+-   Complex area identified where Des Moines lobe overrode Superior lobe in Carver, Hennepin, and Ramsey counties
+    -   Variable thickness and mixing of materials
+    -   More consistent in center of advance
+    -   More variable at edges
 
 ### Next Steps
-1. Further subdivision of broad groupings:
-   - River systems to be divided into bottomland and upland
-   - Different landscape positions within till plains
-   - Customized breaks for each physiographic region
 
-2. Development of reference materials:
-   - Spreadsheet linking geomorphic units to expected soil series
-   - Documentation of typical soil patterns
-   - Integration with historical SSURGO data
-
-3. Cleanup Tasks:
-   - Remove small anomalous areas
-   - Resolve complex transition zones
-   - Refine boundaries in overridden areas
+1.  Further subdivision of broad groupings:
+    -   River systems to be divided into bottomland and upland
+    -   Different landscape positions within till plains
+    -   Customized breaks for each physiographic region
+2.  Development of reference materials:
+    -   Spreadsheet linking geomorphic units to expected soil series
+    -   Documentation of typical soil patterns
+    -   Integration with historical SSURGO data
+3.  Cleanup Tasks:
+    -   Remove small anomalous areas
+    -   Resolve complex transition zones
+    -   Refine boundaries in overridden areas
 
 ## 3. Action Items
 
 ### For Nora
-- Update Survey123 guide with new guidelines
-- Email Ryder when new batches are uploaded to Box
+
+-   Update Survey123 guide with new guidelines
+-   Email Ryder when new batches are uploaded to Box
 
 ### For Ryder
-- Share example Pedon Entry classifications
-- Send guidance on anthropogenic vs. mollic classifications
-- Work with Randy on Box access for NRCS staff
-- Continue QC of submitted pedons
+
+-   Share example Pedon Entry classifications
+-   Send guidance on anthropogenic vs. mollic classifications
+-   Work with Randy on Box access for NRCS staff
+-   Continue QC of submitted pedons
 
 ### For Patty
-- Continue cleanup of geomorphic map units
-- Coordinate with Joe on Randy meeting agenda
-- Further develop soil series reference spreadsheet
+
+-   Continue cleanup of geomorphic map units
+-   Coordinate with Joe on Randy meeting agenda
+-   Further develop soil series reference spreadsheet
 
 ### For Adam
-- Begin planning secondary cuts for geomorphic regions
-- Consider landscape position breaks within main units
+
+-   Begin planning secondary cuts for geomorphic regions
+-   Consider landscape position breaks within main units
 
 ## 4. Next Meetings
-- February 11th meeting with Randy scheduled
-- Regular 9am check-in cancelled
-- Ryder will be unavailable for two weeks due to training
+
+-   February 11th meeting with Randy scheduled
+-   Regular 9am check-in cancelled
+-   Ryder will be unavailable for two weeks due to training
 
 ## 5. Outstanding Questions for Randy
-1. Definition and implications of "rock structure" in anthropic epipedon requirements
-2. Clarification on artifact classifications vs. litter discarded by humans
-3. Additional taxonomy questions to be compiled
+
+1.  Definition and implications of "rock structure" in anthropic epipedon requirements
+2.  Clarification on artifact classifications vs. litter discarded by humans
+3.  Additional taxonomy questions to be compiled
 
 ## 6. Notes
-- Quality of Pedon Entry submissions improving over time
-- Some early entries may need revision
-- Emphasis on making entry process accessible for undergraduates
-- Complex areas may require additional sampling density
-- Team working to balance detail vs. practicality in classifications
+
+-   Quality of Pedon Entry submissions improving over time
+-   Some early entries may need revision
+-   Emphasis on making entry process accessible for undergraduates
+-   Complex areas may require additional sampling density
+-   Team working to balance detail vs. practicality in classifications

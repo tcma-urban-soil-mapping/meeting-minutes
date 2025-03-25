@@ -2776,5 +2776,104 @@
       "Small Group Meetings",
       "<span class='chapter-number'>40</span>  <span class='chapter-title'>Patty, Nic, Ryder, Joe, Stuart Check In 11MAR2025</span>"
     ]
+  },
+  {
+    "objectID": "minutes-25MAR2025-group.html",
+    "href": "minutes-25MAR2025-group.html",
+    "title": "41  Patty, Joe, Kasia, Nora Check-in 25MAR2025",
+    "section": "",
+    "text": "41.1 Attendees",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>41</span>  <span class='chapter-title'>Patty, Joe, Kasia, Nora Check-in 25MAR2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-25MAR2025-group.html#attendees",
+    "href": "minutes-25MAR2025-group.html#attendees",
+    "title": "41  Patty, Joe, Kasia, Nora Check-in 25MAR2025",
+    "section": "",
+    "text": "Nora Pearson\nPatty Burns\nKasia Ulanowski\nJoseph Brennan",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>41</span>  <span class='chapter-title'>Patty, Joe, Kasia, Nora Check-in 25MAR2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-25MAR2025-group.html#questions-from-kasia-regarding-pedon-descriptions",
+    "href": "minutes-25MAR2025-group.html#questions-from-kasia-regarding-pedon-descriptions",
+    "title": "41  Patty, Joe, Kasia, Nora Check-in 25MAR2025",
+    "section": "41.2 Questions from Kasia Regarding Pedon Descriptions",
+    "text": "41.2 Questions from Kasia Regarding Pedon Descriptions\n\n41.2.1 Human Transported Material (HTM) Classification\n\nQuestion: When material is moved within the same field (e.g., filling drainage ditches with soil from the same field), should it be classified as HTM?\nConsensus:\n\nPatty confirmed that strictly speaking, any soil moved from its original location, even within the same field, is considered HTM\nJoe recommended generally treating all human-altered material as human-transported for simplicity\nThe team agreed to follow this approach for consistency\n\n\n\n\n41.2.2 Missing Artifact Sheet\n\nA pedon description notes artifacts (‘U’ suffix) but the artifact description sheet is missing\nThis was from early June fieldwork when the team was still learning to document artifacts\nDecision: Keep the ‘U’ notation as recorded and add a text note about the missing artifact sheet",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>41</span>  <span class='chapter-title'>Patty, Joe, Kasia, Nora Check-in 25MAR2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-25MAR2025-group.html#diagnostic-features-list-initial-concept-spreadsheet",
+    "href": "minutes-25MAR2025-group.html#diagnostic-features-list-initial-concept-spreadsheet",
+    "title": "41  Patty, Joe, Kasia, Nora Check-in 25MAR2025",
+    "section": "41.3 Diagnostic Features List & Initial Concept Spreadsheet",
+    "text": "41.3 Diagnostic Features List & Initial Concept Spreadsheet\n\n41.3.1 Anthropogenic Conditions Classification\n\nThe team discussed how to incorporate anthropogenic conditions into landscape categories\nCurrent approach separates “anthropogenic conditions” from natural landscapes (Anoka sandplain, till, outwash, etc.)\nDecision:\n\nKeep anthropogenic conditions as a separate section at the top of the diagnostic features list\nAdd an “anthropogenic conditions” bullet point within each landscape category\nUsers will reference the anthropogenic conditions section when completing descriptions for any landscape\n\n\n\n\n41.3.2 Aquic Conditions Criteria\n\nNic previously suggested specific documentation of “depth to common or many depletions”\nDecision:\n\nRetain “aquic conditions” but add clarifying parenthetical text specifying “depth to common/many redox depletions” as the criteria\nFew and faint depletions would not qualify as aquic conditions\nFor some classifications (entisols), over 50% depletion may be needed\n\n\n\n\n41.3.3 Initial Concepts Approach\nPatty shared her spreadsheet organizing soil concepts by geomorphic surface: - Organized by geomorphic surfaces: river systems, Anoka sand plain, glacial fluvial (outwash), loamy till, etc. - Within each surface, concepts are further divided (e.g., river systems include soils on risers, dry soils on treads, wet soils on treads, river bottoms) - Spreadsheet includes columns for diagnostic characteristics: slope, surface texture, aquic conditions, drainage class, etc. - These will help differentiate between concepts and establish ranges for each\n\n\n41.3.4 Working with HTM-Affected Soils\n\nEach native soil concept may have HTM-affected variants\nTeam will track the thickness and prevalence of HTM across sites\nIf enough HTM-affected examples exist in a particular concept, they may create an “HTM-affected phase” for that concept\n\n\n\n41.3.5 Concept Boundaries and Categorization\n\nJoe noted that concepts will naturally have overlapping characteristics\nSome diagnostic attributes may be more important for differentiation (e.g., aquic conditions)\nDrainage classes will vary by landscape. For example, wet in a sand/gravel landscape may correspond to moderately well-drained, while in a till landscape it may be poorly drained.\nThe team will refine concepts as patterns emerge from the data",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>41</span>  <span class='chapter-title'>Patty, Joe, Kasia, Nora Check-in 25MAR2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-25MAR2025-group.html#modeling-discussion",
+    "href": "minutes-25MAR2025-group.html#modeling-discussion",
+    "title": "41  Patty, Joe, Kasia, Nora Check-in 25MAR2025",
+    "section": "41.4 Modeling Discussion",
+    "text": "41.4 Modeling Discussion\n\n41.4.1 Using Diagnostic Features in Modeling\nJoe explained how diagnostic features are used in modeling: - Each pedon represents a point on the landscape with measurable features (e.g., depth to aquic conditions) - Models correlate these features with environmental covariates - Different diagnostic features can be modeled separately (depth to aquic conditions, depth to carbonates, lithologic discontinuities) - These separate models can then be stacked to build a final classification - Not all diagnostic features would be modeled, but collecting a comprehensive list allows flexibility\n\n\n41.4.2 Potential HTM Modeling\n\nThe team discussed potentially modeling HTM distribution based on:\n\nLand use intensity\nDistance from known contributors to respread\nRUSI (Rapid Urban Site Index) variables collected during fieldwork\nLiDAR measurements of distance to roads/buildings",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>41</span>  <span class='chapter-title'>Patty, Joe, Kasia, Nora Check-in 25MAR2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-25MAR2025-group.html#project-status-and-next-steps",
+    "href": "minutes-25MAR2025-group.html#project-status-and-next-steps",
+    "title": "41  Patty, Joe, Kasia, Nora Check-in 25MAR2025",
+    "section": "41.5 Project Status and Next Steps",
+    "text": "41.5 Project Status and Next Steps\n\n41.5.1 Pedon Entry Status Update\n\nApproximately 90 pedons have been entered into NASIS\nAbout 90 more pedons remain to be entered\n50 pedons have been entered but not yet transferred to the Excel spreadsheet\nKasia has been processing many of these entries\nThe team aims to complete all entries by the end of April\n\n\n\n41.5.2 Next Steps for Concept Development\n\nNora will start populating her version of the diagnostic features spreadsheet, working with pedons that have been QC’d by Ryder\nShe will focus on one geographic area at a time to better identify patterns\nPatty will continue refining the rule-based ranges for each concept\nThe team will remain flexible about adding or modifying concepts as they analyze more data\n\n\n\n41.5.3 Geomorphic Surface Guide\n\nPatty has edited the Region 10 geomorphic guide to focus on landscapes relevant to the urban project\nThis will help keep geomorphic descriptions more uniform\nThe guide includes a flowchart to help users determine which landform classification to use\nThis will be especially helpful for undergraduates who haven’t been to the sites and don’t have easy GIS access",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>41</span>  <span class='chapter-title'>Patty, Joe, Kasia, Nora Check-in 25MAR2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-25MAR2025-group.html#additional-resources",
+    "href": "minutes-25MAR2025-group.html#additional-resources",
+    "title": "41  Patty, Joe, Kasia, Nora Check-in 25MAR2025",
+    "section": "41.6 Additional Resources",
+    "text": "41.6 Additional Resources\n\nNora and Ava have created a “cheat sheet” with relevant soil taxonomy information\nJoseph mentioned the Illustrated Guide to Soil Taxonomy as a helpful resource\nThe Survey123 guide contains linked resources used by the team",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>41</span>  <span class='chapter-title'>Patty, Joe, Kasia, Nora Check-in 25MAR2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-25MAR2025-group.html#upcoming-meetings",
+    "href": "minutes-25MAR2025-group.html#upcoming-meetings",
+    "title": "41  Patty, Joe, Kasia, Nora Check-in 25MAR2025",
+    "section": "41.7 Upcoming Meetings",
+    "text": "41.7 Upcoming Meetings\n\nApril 8th meeting with Randy at 10:30 AM (replaces regular small group meeting)\n\nPatty will contact Randy about possibly rescheduling as Nora will be at soil judging competition in Texas\nPotential alternative date: April 15th\n\nNext small group meeting: April 22nd (Earth Day) at 9:30 AM\n\nNora will send a new Zoom link for this meeting",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>41</span>  <span class='chapter-title'>Patty, Joe, Kasia, Nora Check-in 25MAR2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-25MAR2025-group.html#action-items",
+    "href": "minutes-25MAR2025-group.html#action-items",
+    "title": "41  Patty, Joe, Kasia, Nora Check-in 25MAR2025",
+    "section": "41.8 Action Items",
+    "text": "41.8 Action Items\n\nKasia:\n\nEmail Randy or Ryder with specific questions about the missing artifact sheet\nContinue processing pedon entries\n\nNora:\n\nMeet with Nic separately to gather input on diagnostic features list\nTransfer the 50 entered pedons to Excel\nBegin populating diagnostic features spreadsheet with QC’d pedons\nAdd Patty’s edited geomorphic guide to the team’s resources\nPut taxonomy cheat sheet into Box and share with Patty\nSend new Zoom link for April 22nd meeting\n\nPatty:\n\nAdd “depth of organic matter/organic matter depth” to concept spreadsheet\nAdd clarification about “common/many redox depletions” to aquic conditions\nTalk to Randy about potentially rescheduling the April 8th meeting\nUpload edited geomorphic guide to Box\n\nAll:\n\nContinue refining concepts based on data patterns\nIdentify areas where additional concepts may be needed",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>41</span>  <span class='chapter-title'>Patty, Joe, Kasia, Nora Check-in 25MAR2025</span>"
+    ]
   }
 ]
