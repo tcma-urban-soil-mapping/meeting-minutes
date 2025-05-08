@@ -1,0 +1,155 @@
+# Group Check In 06MAY2025
+
+**Date: May 6, 2025**
+
+Attendees:
+
+\- Nic Jelinski
+
+\- Adam Devlin
+
+\- Nora Pearson
+
+\- Genevieve Saldibar
+
+\- Patty Burns
+
+### 1. Team Composition and Staffing Updates
+
+-   **Project Team Members**
+    -   Currently attempting to hire several team members: Kylie, Brianna, Ava, Kasia, along with Adam, Gen, Nora, and Nic
+    -   Brianna will be the data lead, responsible for coordinating data entry throughout the season
+    -   The goal is to have continuous data entry with weekly updates of all pedon data
+    -   Nic is trying to hire Ava to manage the lab work
+    -   Undergraduates have limited field experience but are soil science minors
+    -   Kylie has soil judging experience
+-   **Schedule Coordination**
+    -   Nic will send a follow-up email to determine when everyone can start
+    -   Potential to begin fieldwork prior to all team members being available
+
+### 2. Sampling Strategy & Site Prioritization
+
+-   **Site Prioritization System**
+    -   Adam and Joe developed a comprehensive ranking system for potential sample sites
+    -   Sites ranked on a 0-6 scale, with 6 being highest priority
+    -   Prioritization based on:
+        -   Physiomains that have not been sampled yet (6)
+        -   Initial concepts that haven't been sampled yet (5)
+        -   Geographic distance from existing samples (4)
+        -   Sites needed to meet minimum threshold of 5 samples per concept (3)
+        -   Additional considerations for under-sampled areas
+-   **Site Distribution Considerations**
+    -   Anoka Sand Plain and old till areas are significantly under-sampled
+    -   High-priority areas include Dakota County and northern areas
+    -   Need to focus on residential sites first, with parks as secondary options
+    -   Considerations for outreach to Dakota County, Anoka County, and Ramsey County parks systems
+    -   University of Minnesota's Vermilion Highlands and Rosemount Research Center (20,000 acres) suggested as a sampling location in Dakota County
+-   **GIS Resources and Management**
+    -   Adam created an interactive map in ArcGIS Online showing all sites with priority rankings
+    -   Map includes attribute tables with detailed information about each site
+    -   Discussed plan for Patty to access ArcGIS Online through her UMN sponsored account
+    -   Spreadsheet and ranking documentation available in Box
+    -   Map includes initial concept polygons with rankings for additional site planning
+
+### 3. Field Review Planning
+
+-   **Scheduling**
+    -   Field review proposed for June 5-6 (Thursday-Friday)
+    -   Thursday would be virtual, Friday in-person at a site in St. Paul
+    -   Joe is available for these dates, Nic has a conflict on June 4th (defense)
+    -   Field day would likely be a half-day session
+-   **Content and Focus**
+    -   Review of field sheets and collection methods
+    -   Avoid getting too deep into classification details
+    -   Focus on practical field techniques and documentation
+    -   Plan to find a site in St. Paul with HTM (human-transported material) examples
+-   **Participant List**
+    -   University team: Kylie, Brianna, Ava, Kasia, Adam, Gen, Nora, Nic
+    -   NRCS team: Joe and others (TBD)
+
+### 4. Outreach and Volunteer Coordination
+
+-   **Residential Site Interest**
+    -   Prioritizing volunteer sites based on ranking system
+    -   Gen will begin contacting homeowners for site access
+    -   Plan to create a flyer/business card for "snowball" recruitment through existing volunteers
+    -   Consider clustering site visits geographically for efficient field days
+-   **Initial Contact Plan**
+    -   Nora will update the email template from last year
+    -   Need to provide approximate dimensions of soil pits to homeowners
+    -   Focus initially on highest ranked sites (4-6) that are geographically clustered
+
+### 5. Soil Classification Discussion
+
+-   **Buried Soil Classification Challenges**
+    -   Detailed discussion about classification of buried soils versus anthropogenic phases
+    -   Challenge: how to categorize soils that have significant HTM or fill material
+    -   Question raised about whether to classify buried wet soils as wet or dry when they now have fill overtop
+-   **Classification Approach**
+    -   If soil has less than 50cm of HTM, classify based on original soil (anthropogenic phase)
+    -   If soil has 50cm+ of HTM (officially buried soil), classify from new soil surface
+    -   Need to maintain linkage to native soil type even when classified differently
+    -   Same soil classification may have different parent materials, which is important to track
+-   **Process Improvements**
+    -   Patty suggested compartmentalizing the classification process
+    -   Have field crews focus on data entry
+    -   Designate specific team members with experience to handle classification
+    -   Classification is more efficient when done by experienced team members who visited the site
+
+### 6. Data Management Discussion
+
+-   **Documentation Status**
+    -   Many pedons still at intermediate stage in the data workflow
+    -   Data process: Survey123 → spreadsheet → NASIS
+    -   Ryder has been helping but has limited availability
+    -   Goal this year is to have all pedon data entered weekly by Brianna and team
+-   **Concept Assignment**
+    -   Patty working on assigning pedons to initial concepts
+    -   Initial concepts based on SSURGO data
+    -   Discussion about removing HTM conceptually to determine underlying native soil type
+    -   Need to track both native soil concept and anthropogenic modifications
+
+## Action Items
+
+| Task | Assignee | Due Date |
+|------------------|---------------------------|---------------------------|
+| Send email to determine team member start dates | Nic | ASAP |
+| Contact Dakota County Parks for sampling permission | TBD | Before field season |
+| Contact Anoka County Parks for sampling permission | TBD | Before field season |
+| Contact Ramsey County Open Space for sampling permission | TBD | Before field season |
+| Update email template for contacting residential sites | Nora | This week |
+| Create "snowball" recruitment cards for site volunteers | TBD | Before field season |
+| Begin contacting highest priority (4-6) site owners | Gen | ASAP |
+| Confirm field review dates with Joe and team | Patty | This week |
+| Find suitable St. Paul site for field review | TBD | Before June 5 |
+| Help Patty access UMN ArcGIS Online | Nic/IT | As needed |
+| Develop compartmentalized classification workflow | Patty/Nic | Before field season |
+
+## Additional Notes
+
+-   **Initial Concepts Framework**
+    -   Initial concepts created by Patty based on SSURGO data
+    -   Classified by physiomain, wetness, and particle size
+    -   Concepts can be adjusted as data collection progresses
+    -   Current framework is a "trial legend" that can be modified
+-   **Miscellaneous**
+    -   The team discussed their recent experiences at the soil judging competition in Stevens Point, Wisconsin
+    -   Notable soils observed included an ice-walled lake plain, outwash, till, and glaciofluvial materials
+    -   Field studies class conflicts with some of the proposed field dates
+    -   Parent material and geomorphic landforms are tracked to help with classification
+-   **NASIS Data Entry**
+    -   Patty has been working on entering data directly into NASIS
+    -   Most data currently follows the Survey123 → spreadsheet → NASIS workflow
+    -   Discussion about more efficient division of labor for data management
+
+------------------------------------------------------------------------
+
+## Next Steps
+
+-   Confirm field review dates (June 5-6) with all participants
+-   Begin contacting residential site owners in highest priority areas
+-   Start fieldwork in mid-late May with available team members
+-   Focus initial sampling on Anoka Sand Plain and old till areas
+-   Establish data entry workflow with Brianna as the lead
+-   Develop outreach materials for recruiting additional sites in priority areas
+-   Implement compartmentalized classification approach for efficiency

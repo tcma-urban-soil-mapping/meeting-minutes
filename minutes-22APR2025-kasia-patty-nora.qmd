@@ -1,0 +1,139 @@
+# Patty, Kasia, Nora Check In 22APR2025
+
+**Date: April 22, 2025 **
+
+Attendees:
+
+- Nora B Pearson
+- Patty Burns
+- Kasia Ulanowski
+
+### 1. Documentation and Training Materials
+
+-   **Urban Profile Description Forms**
+    -   Patty has updated the 232 form and added it to Box
+    
+-   **Fragment Identification Resources**
+    -   Kasia created a visual reference guide for fragment identification including:
+        -   Common rock types in local tills
+        -   Other materials like charcoal, shells, and wood
+    -   Patty mentioned having additional resources with pictures of fragments typical in different till deposits
+    -   Patty will search for these resources at the Bemidji office and share them when found
+    - The fragment identification guide will help identify till types and HTM sources
+    -   Nora plans to include these materials in field kits with plastic sheet protectors for reference
+    
+-   **Form Improvements**
+    -   Added a section about buried soils on the front page
+    -   Simplified identification process with yes/no questions (e.g., "Is this greater than 50 cm?")
+    -   Will remove plaggen epipedon option as it's rare in this region
+    -   Modifications to workflow discussed (surface mantle measurement before buried soil questions)
+
+### 2. Field Schedule Planning
+
+-   **Initial Field Training Plans**
+    -   University team plans to start fieldwork the week of May 12th
+    -   Original proposed field review date (week of May 19th) conflicts with Nic's field studies class
+    
+-   **Field Review Date**
+    -   Proposed new dates: June 3-5 (Tuesday-Thursday)
+    -   Format: 1-2 days in field plus 1 day in office/classroom
+    -   Need to confirm availability with Joe and other team members
+    -   Concerns about waiting until June to start formal training
+    
+-   **Alternative Training Options**
+    -   Kasia suggested an early training session with the university undergrads during the first week (May 12-17)
+    -   Nora agreed to take undergrads to the campus pit on Tuesday, May 13th for initial training
+    -   Campus pit suggested as an ideal training location since:
+        -   Students are already familiar with it from coursework
+        -   Need to complete a 232 for this site
+        
+-   **Additional Field Reviews**
+    -   August field review/assist planned for week of August 11th
+    -   Possibility of Randy attending (in-person or hybrid format)
+    -   Stuart offered to help with undergrad training if needed
+
+### 3. Sampling Strategy and Modeling
+
+-   **Model Development Progress**
+    -   Nic has made progress on sampling model and needs to transfer files to MSI folder
+    -   Used an R package (SGS - Structurally Guided Sampling) for modeling
+    -   The model will determine sampling locations within geomorphic surfaces
+-   **Sampling Point Strategy**
+    -   Team will run the model this week to generate random sampling points
+    -   Discussion about potential challenges with randomly generated points:
+        -   Points may fall on private property requiring permissions
+        -   Points could fall on roads or impervious surfaces
+        -   Joe suggested masking out areas like roads and highways
+-   **Potential Refinements**
+    -   Patty suggested masking out high-density urban areas or impervious surfaces
+    -   Consider using Met Council data layer for urban density
+    -   Nic indicated model can be easily rerun with different parameters if initial results aren't useful
+
+### 4. Site Selection and Permits
+
+-   **Residential Sites**
+    -   Multiple emails received from potential residential sites
+    -   Adam sent announcement to Sust Ag group at the university generating interest
+    -   Some HOAs have expressed potential interest
+    
+-   **Parks vs. Residential Focus**
+    -   Team plans to focus primarily on residential sites for efficiency
+    -   Parks require more complex permitting process
+    -   Will still consider parks if sampling points indicate need (especially in West Metro)
+    -   Waiting to see where model-generated points fall before finalizing approach
+-   **Timing Considerations**
+
+    -   Nic's field studies class will be using equipment during weeks of May 19th and 26th
+    -   Memorial Day falls on May 26th
+    -   Early June might be better for field training to ensure equipment availability
+
+### 5. Team Updates
+
+-   **Personnel Changes**
+    -   Uncertainty about Kasia's continued involvement with project
+    -   Nic is trying to hire Kasia through the university
+    -   Discussions about federal budget impacts on staffing
+-   **Broader NRCS Staffing Concerns**
+    -   Dan Wing announced early retirement
+    -   Discussion of potential staffing reductions (DRPs)
+    -   Uncertainty about ACES program contractors
+    -   More information expected after DRPs are completed in early May
+
+### 6. Next Steps
+
+-   **Immediate Actions**
+    -   Nic and Nora to run sampling model this week (before Nic leaves for Nationals)
+    -   Patty to run draft field review dates by Joe for availability
+    -   Kasia to finalize fragment identification guide and upload to Box
+    -   Nora to send new Zoom link for next meeting
+    -   Plan for campus pit training session on May 13th
+    
+-   **Next Meeting**
+    -   Scheduled for May 6th at 9:30 AM
+
+## Additional Notes
+
+-   **Form Enhancements**
+    -   Improved drainage documentation
+    -   Added thickness measurement for surface mantle
+    -   Better organization for field crews, especially new undergraduates
+-   **Other Projects Mentioned**
+    -   pXRF work with Sarick scheduled for the Friday during Nationals
+    -   Nic needs to transfer modeling files to MSI folder for continued work
+
+------------------------------------------------------------------------
+
+## Action Items
+
+| Task | Assignee | Due Date |
+|------------------|---------------------------|---------------------------|
+| Run sampling model to generate points | Nic & Nora | This week |
+| Check field review dates with Joe | Patty | ASAP |
+| Finalize fragment ID guide | Kasia | End of week |
+| Upload fragment guide to Box | Kasia | End of week |
+| Send new Zoom link for next meeting | Nora | Before May 6th |
+| Plan campus pit training | Nora | For May 13th |
+| Create field equipment kits with reference materials | Nora | Before May 12th |
+| Search for fragment identification resources | Patty | Today (at Bemidji office) |
+| Check if undergrads are in Nic's field studies class | Nora | ASAP |
+| Contact Adam for recruitment updates | Nora | ASAP |
