@@ -1,0 +1,56 @@
+# Group Check In 19MAY2025
+
+**Date: Monday, May 19, 2025**
+
+Attendees:
+
+- Patty Burns
+- Adam Devlin
+- Nora Pearson
+- Genevieve Saldibar
+- Patty Burns
+- Kasia Ulanowski
+- Joe Brennan
+
+**Note:** This meeting was not recorded, so the following minutes are based on Nora's notes.
+
+### 1. June Field Review
+
+- June 4-5
+- Invite Randy Riddle or someone from his staff for questions
+- Discussed inviting someone from the regional office, like Betsy Schug - in place of Dan Wing
+- Field visits on Wednesday, June 4. Preferring residential sites with HTM. Meetings on Thursday at 10AM at the earliest, but group decided Thursday afternoon might be preferred
+- Note on the virtual portion of the field review: won't be so cumbersome because we've all done some descriptions. Focus on the problem areas in the description form.
+- Adam, Kasia, and Ava will be out of town on Friday, June 6.
+
+### 2. Pedon Entry and Concepts
+
+- Nora QC Brianna's pedons before exporting them to a spreadsheet for Patty to QC
+- Patty trying to fit her pedons to a concept. Agreed that UMN will start doing that in our remaining entries as well as in the field. This is something like "wet sand." See full list in Box.
+
+### 3. HTM-related questions
+
+- Surface mantles: presence of HTM thick enough to classify as a buried soil doesn't mean there's a surface mantle. Check for development at the bottom 7.5 centimeters of the HTM. If there is no development, then the HTM is a surface mantle. The idea behind this is that the HTM hasn't been in place long enough to interact with the material below it, so it is just a mantle.
+
+- Welded soils: a mollic or other epipedon that shows some development all the way through the HTM, is a welded soil. Then, the soil surface should be used for classification. The idea behind this is that the material has been in place long enough to interact with the material below it.
+
+- In order to be a new mantle, there must be a zone that shows no structure or any development.
+
+- Kasia suggested adding another yes/no box for welded soils on the description sheet.
+
+- Alfisols vs mollisols: Patty discussed base saturation. Use current mapping for now. If BS% too low, it's an alfisol, even if epipedon looks mollic in the field
+    - When assigning a concept, it doesn't matter if the soil was a mollisol or an alfisol.
+    - Assigning a concept is more important than assigning a soil series.
+    
+- Epipedons in HTM: Kasia asked how to identify if there is an epipedon in HTM. From Patty: photos are really helpful after the fact. There is generally no structure; if we see some, it was transported and is not pedogenic.
+    - For "messy" HTM with multiple colors, et cetera, or looks like a jumbled up mess from elsewhere, we can say there is no epipedon.
+    
+- Master horizon calls: ^A implies developed HTM, as opposed to ^C. ^A can have some GR or SBK structure, but ^C would have none. 
+	  - We have seen roots in the transported top soil, which tells us some development is happening in place.
+	  
+- Kasia would mark ochric epipedon (as opposed to mollic) if it was clear in aerial imagery that the material was transported  recently, meaning in the last ~10 years. Many pedons we've seen didn't meet the mollic epipedon depth requirement anyways, so the mollic vs ochric debate is for a few cases.
+    - Symmary: looking at color and depth maybe isn't enough; add imagery. Has that epipedon been forming in place? If not, it's ochric.
+    
+### 4. Summer biweekly check ins
+
+- New check ins are biweekly on Mondays at 10AM, starting on June 2.

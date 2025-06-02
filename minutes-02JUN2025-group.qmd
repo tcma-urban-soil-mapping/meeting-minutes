@@ -1,0 +1,216 @@
+# Check In 02JUN2025
+
+**Date: June 2, 2025**
+
+## Attendees
+- Nora B Pearson (Graduate Student)
+- Gen (Field Coordinator) 
+- Patty Burns (NRCS Soil Specialist)
+- Nic Jelinski (PI)
+- Kylie Hughes (New Intern)
+- Brianna Hayward (Data Entry Specialist)
+- Adam Devlin (Team Member)
+- Kasia Ulanowski (Team Member)
+- Ava McCune (Lab Coordinator)
+
+## 1. New Team Member Introductions
+
+### Kylie Hughes
+- New summer intern joining the Urban Soils Project
+- Recently completed field studies in soils, bringing relevant experience
+- Excited to continue working with soils through this project
+- Will focus on field work Tuesday-Thursday, with Monday/Friday availability for lab and data entry
+
+### Brianna Hayward
+- Data entry specialist for the Urban Soils Project
+- Background in soil conservation from previous semester
+- Planning to minor in soil science
+- Currently focused on data entry but interested in field experience
+- Will prioritize 2025 data entry over 2024 backlog
+
+## 2. Field Review Planning for Wednesday
+
+### Site Selection
+The team discussed selecting **2 residential sites** for Wednesday's field review with NRCS personnel:
+
+**Primary Site Option:**
+- **Artist residence site** in South Minneapolis (Longfellow area)
+  - Previously visited on Friday
+  - House was moved, creating interesting soil history
+  - Owners likely receptive to group visit
+  - Good space for larger group
+  - Gen will reach out to confirm availability
+
+**Secondary Site Option:**
+- **Northeast Minneapolis site**
+  - Built on former shanty town location
+  - Complex soil description with questions about B horizons
+  - Smaller front yard space may be limiting factor
+  - Gen will contact to assess feasibility
+
+**Backup Option:**
+- Nora's house with known HTM (Human-Transported Material) in backyard
+
+### NRCS Attendance
+Confirmed NRCS attendees:
+- Patty Burns
+- Joe
+- Betsy (temporarily covering Dan Wing's duties)
+- Possible additional attendees: Stuart and Clayton (pending confirmation)
+- Estimated total group size: ~10 people
+
+### Logistics
+- **Meeting format:** Field work Wednesday, follow-up discussion Thursday
+- **Randy's availability:** Wednesday all day except 12-2 PM Central for phone consultations
+- **Transportation:** NRCS personnel will drive themselves, UMN team can coordinate rides via Discord group
+- **Equipment needs:** Ava will bring additional auger, clinometer, and spray bottles from campus
+
+## 3. Equipment and Field Preparation
+
+### Equipment Updates
+- Continuing with current open bucket auger as primary tool
+- Adding Dutch auger as secondary option
+- Ava coordinating equipment pickup from campus
+
+### Gopher One (GSOC) Tickets
+Emphasis on obtaining proper permits before digging to avoid delays during group field work.
+
+## 4. Data Management and Entry Protocols
+
+### 2024 vs 2025 Data Priority
+- **Decision:** Brianna to focus on 2025 data entry rather than completing 2024 backlog
+- Stuart continuing direct entry of 2024 data into NASIS
+- 47 sites remaining from 2024 data
+- 2025 descriptions are more complete and better suited for newer team members
+
+### Site Numbering System
+- 2025 sites starting fresh at numbering sequence 2025MNxxx001, 002, 003...
+- Caution needed when entering data to ensure correct year assignment
+- Survey123 auto-populates current year, requiring manual adjustment for 2024 data
+
+### Data Entry Technical Notes (from Patty)
+**Special character restrictions in NASIS field notes text box:**
+- No dashes, carets (^), or ampersands (&)
+- Write out "caret" instead of using ^ symbol
+- Write "and" instead of & symbol
+- Don't specify HCl type in effervescence descriptions
+- Stick to basic effervescence terms (slight, strong, etc.)
+
+### Concept Assignment
+- Team members should assign soil concepts during field work
+- Concept information to be recorded in pedon tracker spreadsheet
+- Nora will print hard copy of concept list for field reference
+
+## 5. Staffing and Schedule Coordination
+
+### Weekly Schedule Framework
+**Field Days:** Tuesday, Wednesday, Thursday (primary)
+- Gen, Kylie, Adam, Kasia as core field team
+- Gen coordinating site scheduling and logistics
+
+**Office Days:** Monday, Friday
+- Data entry, lab work, administrative tasks
+- Kylie and Brianna available for office work
+- Adam offering additional support for 2024 data entry
+
+### Personnel Allocation
+- **Brianna:** Lead data entry specialist, periodic field work
+- **Ava:** Lab coordinator, periodic field support
+- **Kylie:** Primary field work with Monday/Friday office support
+- **Adam/Kasia:** Tuesday-Thursday field focus, Monday/Friday office availability
+
+### Field Team Flexibility
+- Minimum 4-person field teams preferred
+- Possibility of splitting into 2-person teams when 4+ people available
+- Patty and Joe available as backup field support with advance notice
+
+## 6. Site Development and Outreach
+
+### Current Site Status
+- Sufficient metro area sites scheduled through June
+- Beginning to schedule sites in Roseville and Minnetonka for late June
+- Need for expanded outreach in priority areas
+
+### Priority Areas for Expansion
+- Anoka County (sand plain areas)
+- Western Hennepin County
+- Dakota County (old till plain)
+
+### Municipal Partnerships
+- Prior Lake Parks: Nora and Gen to coordinate permit applications
+- St. Paul Parks: Complete coordinate point submissions for additional sites
+- Review potential for soil pits vs. augering only
+
+### Community Engagement Opportunities
+- UFGA (Urban Farm and Garden Alliance): Continuing soil delivery partnership
+- JK Movement: Follow-up needed on soil testing interest
+- Urban Roots: Nora to assess current capacity and interest
+- Youth Farm: Explore opportunities following organizational changes
+
+**Maps Urban Soil Tour Partnership:**
+- Collaborate with UFGA to identify demonstration sites
+- Pilgrim Baptist Church site would be an excellent option for educational demonstrations
+- Potential for monolith creation at select sites, especially residential sites
+
+## 7. Laboratory Operations
+
+### Current Lab Needs
+- Extensive backlog of laser particle size analysis and sample processing
+- Multiple new team members requiring lab training
+- Sufficient work to support full 40-hour weeks for interested personnel
+
+### Training Requirements
+**University Safety Training:**
+- Safety Tracker system assignments for all lab personnel
+- Respiratory protection training (voluntary use)
+- Lab-specific training session planned for next week
+
+**Lab Orientation:**
+- Ava coordinating hands-on training for new personnel
+- Basic techniques including scale operation and sample preparation
+- Safety protocols and equipment orientation
+
+## 8. Budget and Administrative Items
+
+### Successful Activities
+- Soil delivery program: $600 expenditure within budget
+- Positive community feedback and relationship building
+
+### Upcoming Needs
+- Business card printing for field outreach
+- Fedex on Snelling recommended for University printing needs
+- Tax-exempt status and P-card acceptance confirmed
+
+### Presentation Preparation
+- Nora completing NCSS presentation for review
+- Patty available for feedback and comments
+
+## 9. Action Items
+
+### Immediate (This Week)
+1. **Gen:** Contact artist residence and Northeast Minneapolis sites for Wednesday availability
+2. **Ava:** Retrieve auger and planimeter from campus
+3. **Nora:** Upload scanned field sheets to shared drive by afternoon
+4. **Nora:** Send site ID numbers to Patty for tracking
+5. **Nora:** Print concept list for field reference
+
+### Short-term (Next 1-2 Weeks)
+1. **Nora & Gen:** Submit Prior Lake Parks permit applications
+2. **Nora:** Complete Saint Paul Parks coordinate point submissions
+3. **Nora:** Follow up with community partners (JK Movement, Urban Roots)
+4. **Nic:** Conduct lab-specific safety training session
+5. **Nora:** Print business cards for field outreach and concept list for field work
+
+### Medium-term (Next Month)
+1. **Nic and Nora:** Complete machine learning prioritization for sampling locations
+2. **Outreach:** Contact master gardener networks in Anoka and West Hennepin counties
+3. **Partnership development:** Coordinate Maps Urban Soil Tour with UFGA
+4. **Data management:** Assess additional personnel needs for potential student hire
+
+## 10. Next Meeting
+
+Regular weekly meetings to continue with focus on:
+- Wednesday field review outcomes and lessons learned
+- Site scheduling and permit status updates
+- Data entry progress and quality control
+- Community partnership development
