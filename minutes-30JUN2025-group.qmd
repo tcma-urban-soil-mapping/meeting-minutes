@@ -1,0 +1,144 @@
+# Group Check In 30JUN2025
+
+**Date: June 30, 2025**
+
+## Attendees
+
+-   Genevieve Saldibar
+-   Nora Pearson
+-   Nic Jelinski
+-   Ava McCune
+-   Kylie Hughes
+-   Brianna Hayward
+-   Patty Burns
+-   Adam Devlin
+-   Kasia Ulanowski
+-   Mes Tat-Siaka
+-   Joseph Brennan
+
+## Field Work Updates
+
+### Current Progress
+
+-   51 sites completed after this week - Genevieve expressed pride in this accomplishment given the challenging spring conditions
+-   Rescheduled activities from last week due to weather (rain)
+
+### This Week's Schedule (July 1-4, 2025)
+
+-   Tuesday & Wednesday: Minnetonka, Plymouth, Maple Grove area
+-   Thursday: Mounds View
+
+### Next Week's Plans (July 8-11, 2025)
+
+-   Tuesday: Lakeville area - Bailey secured 2 additional sites, including one in "old till concept" (new for the project)
+-   Wednesday-Thursday: Egan, Apple Valley, Rosemount area
+-   Friday, July 11th: Return to Minnetonka/west side for rescheduled sites
+
+## Data Management and Documentation
+
+### Description Sheet Processing
+
+-   Backlog Status: Approximately 20 sheets in Genevieve's possession plus \~100 samples need to be delivered to campus
+-   Scanning Workflow: Brianna will take over scanning responsibilities from Nora
+-   Coordinate Addition: Critical issue identified - coordinates from Survey123 must be manually added to sheets before scanning
+-   Training: Nora will provide instructions to Brianna showing coordinate locations in Survey123
+
+### Survey123 Data Entry Progress
+
+-   2024 Data: 59 pedons still need entry (25 not started, 7 on hold, 16 in progress, 9 ready for export)
+-   Processing Time: 1.5-2 hours per sheet depending on complexity (redox, carbonate content)
+-   Artifact Data Issues: Ongoing troubleshooting with NASIS database - artifact volume data not transferring properly from Survey123
+
+### Technical Issues with Artifact Data
+
+-   Problem identified where artifact percentages appear in comments rather than volume columns
+-   Patty Burns working with John Hammerly (NASAIS expert) to resolve transfer issues
+-   Recommendation: Ensure artifact volume percentages are in correct column, minimize special characters in notes
+
+## Laboratory Operations
+
+### Current Lab Priorities
+
+-   Sieving: \~400 samples remaining from 2024
+-   Sample Preparation: 2025 samples weighed and ready for drying
+-   Chemical Analysis: Continuing pH and EC for LTER and Beaver Creek projects
+-   Loss on Ignition (LOI): Starting this week with training
+-   Course Fragment Processing: Washing and sorting artifacts from rock fragments
+
+### Equipment and Training
+
+-   MIR Spectroscopy Training: Scheduled for Friday, July 25th, 9:30 AM - 2:00 PM with NRCS coordinator Andrea
+-   Attendance: Most team members planning to attend, alternative July 18th date possible
+-   Laser Particle Size Analyzer: Currently offline due to laser shutter issue, repair expected by end of July
+
+## Safety and Sample Handling
+
+### Glass in Samples
+
+-   Safety Protocol: Label bags containing glass fragments to prevent injury
+-   Field Protocol: Remove large glass pieces when possible, include small fragments when representative
+-   Lab Processing: Ava will separate obvious artifacts when weighing washed course fragments
+-   Documentation: Note glass presence on artifact sheets and consider adding to regular description sheets
+
+## Opportunities and Outreach
+
+### Construction Site Sampling
+
+-   Opportunistic Sampling: Renewed emphasis on identifying construction sites for rapid response sampling
+-   Survey System: Existing Survey123 form for reporting potential sites
+-   Communication Protocol: Must text/message team leaders immediately when sites are submitted (survey notifications don't automatically alert)
+-   Timeline: Critical to respond within 2-3 days before opportunities are lost
+-   Access Strategy: Contact foremen after 3PM when workers have left, avoid corporate numbers when possible
+
+### Community Engagement Events
+
+-   V-Fest: Saturday, July 26th at Hallie Q. Brown Community Center, Rondo (noon-6 PM)
+-   Collard Greens Request: Shari requested collards for V-Fest; Nora will contact student organic farm and other sources
+-   Future Planning: Commit to growing collards annually for community events
+
+### Professional Development
+
+-   MAPSS Tour: Friday, August 1st (8 AM - 5 PM) - Minnesota Association of Professional Soil Scientists
+-   Frogtown Collaboration: Working on soil pit demonstrations at Frogtown Farm and adjacent St. Paul Parks land
+-   Soil Survey Cooperative Meeting: August 25th (virtual) - Nora will present
+-   Army Corps Collaboration: Pig's Eye Restoration project interest in soil data, potential boat access to islands
+
+## Administrative Items
+
+### Access and Permissions
+
+-   Survey123 Access: Adam Devlin needs access with correct email address (065 instead of 061)
+-   Team Equipment: Kasia currently has second equipment set, will carpool with Adam Tuesday/Thursday
+
+### Supply Management
+
+-   Sample Bags: 300 sets distributed (increased from previous 200), Kylie will coordinate weekly lab pickup on Mondays
+
+## Special Projects and Recognition
+
+### Professional Recognition
+
+-   National Cooperative Soil Survey Conference: Randy provided positive feedback about project's outreach efforts
+-   Community Connections: Ryan Hankins (Birchwood Village City Council) offered park access, though limited scope
+-   Wetland Site: Potential wet soccer field site offered in Birchwood Village area
+
+## Action Items
+
+1.  Genevieve: Deliver backlogged description sheets and samples to campus
+2.  Nora: Send coordinate location screenshots to Brianna for scanning protocol
+3.  Brianna: Take over description sheet scanning with coordinate addition
+4.  Ava: Put MIR training on calendar for July 25th
+5.  Adam: Email Alena for Survey123 access with correct email address
+6.  Nora: Export 9 completed pedons to Excel for Patty
+
+## Data Summary
+
+-   Total Sites Completed: 51 (as of end of June 2025)
+-   Remaining 2024 Data Entry: 59 pedons
+-   Lab Samples Remaining: \~400 (2024 sieving)
+-   2025 Samples: Weighed and ready for processing
+
+## Next Meeting
+
+-   Date: Two weeks from June 30, 2025
+-   Special Topics: MAPSS tour details, Randy's field assistance planning, August scheduling coordination
