@@ -1,0 +1,197 @@
+# Group Check In 14JUL2025
+
+**Date: July 14, 2025**
+
+## Attendees
+- **Nora B Pearson**
+- Genevieve Saldibar
+- Patty Burns
+- Joseph Brennan
+- Ava McCune
+- Adam Devlin
+- Kylie Hughes
+- Brianna Hayward
+
+## Executive Summary
+
+The team discussed significant progress in field sampling (targeting 86 sites by end of July), concept assignment methodology for 2024 data, preparation for Randy's visit, lab analysis updates including new PXRF capabilities, and training coordination. Key decisions were made regarding site selection strategy for the upcoming expert review and standardization of soil classification processes.
+
+## Field Work Progress and Scheduling
+
+### Current Status
+- **Target Achievement:** On track to complete 86 sites by end of July 2025
+- **Current Focus Areas:** 
+  - This week: Richfield and Bloomington (southern AOI)
+  - Mixture of river concept sites away from the actual river
+  - All residential locations plus one retirement community
+- **Upcoming Schedule:**
+  - Next week: Return to St. Paul area
+  - Following week: Expansion eastward
+  - Overall strategy: Completing circle around the Twin Cities metro (north → west → south → east)
+
+### Site Availability Assessment
+Gen reported adequate residential site availability for the remainder of the field season. However, there's interest in exploring additional opportunities through:
+- Washington Conservation District partnerships
+- Potential sampling at WCD offices with multiple map units
+- Parks permits (timing constraints may limit feasibility this season)
+
+## Soil Concept Assignment and Classification Strategy
+
+### 2024 Data Analysis Progress
+Patty Burns and Nora Pearson are leading the effort to assign preliminary concepts to all 2024 pedons (approximately 180 total). Key findings emerging from initial analysis:
+
+**Recurring Patterns Identified:**
+- **Glacial Fluvial Concepts:** Silty, loamy cap over sand and gravel
+- **River System Inclusions:** Similar textures found in river system areas
+- **Fine Loamy Des Moines Lobe Till:** Consistent patterns in Hennepin County park systems
+- **Cross-Concept Occurrences:** Some concepts appearing across multiple geomorphic surfaces
+
+### Methodology for Concept Assignment
+The team established a systematic approach:
+
+1. **Field Assessment:** Initial concept assignment during field work
+2. **Office Review:** Post-field verification using all available resources
+3. **Documentation:** Recording both primary concepts and inclusions when patterns cross geomorphic boundaries
+4. **Quality Control:** Recommendation for single-person consistency in classification
+
+### Randy's Visit Preparation Strategy
+**Philosophy Adopted:** Visit new sites within well-understood concept areas rather than returning to previously sampled locations or exploring completely unknown areas.
+
+**Target Concept Areas for Expert Review:**
+- River system locations
+- Fine loamy areas  
+- Glaciofluvial environments
+- Estimated 6 total sites (morning and afternoon sessions)
+
+**Geographic Focus:** Emphasis on cities proper where sufficient unsampled sites remain within known concept areas.
+
+## 2025 Data Integration
+
+### Immediate Data Needs
+Brianna Hayward volunteered to enhance data entry workflow by adding:
+- **Geomorphic Surface Classification:** Using physio_main designations from mapping layers
+- **HTM Depth Documentation:** Numerical values in centimeters (0 if absent)
+
+### Process Standardization
+The team discussed implementing consistent approaches for:
+- **Single-person classification:** To ensure consistency across all pedons
+- **Field vs. office determination:** Balancing field observations with comprehensive office analysis
+- **Documentation standards:** Recording what is observed rather than what is expected based on map units
+
+## Laboratory Operations and Analysis
+
+### Current Lab Status and Capabilities
+Ava McCune provided comprehensive updates on laboratory operations:
+
+**Equipment Status:**
+- **Laser Particle Size Analyzer:** Repair scheduled for Tuesday, July 22nd
+- **pXRF Analysis:** Recently added to analysis suite
+- **FTIR:** Operational and ready for high-priority samples
+
+### Sample Processing Workflow
+**Current Priority System:**
+1. High-priority samples (exemplary concept profiles) processed first
+2. Standard workflow: Ball milling → Loss on ignition → pH/EC → Laser diffraction → PXRF
+3. FTIR analysis integrated after loss on ignition due to faster processing time
+
+### Artifact Documentation Update
+Ava reported discovery of additional artifacts during course fragment washing that weren't recorded on original field sheets. This affects:
+- Sites originally classified as "natural soils"
+- Potential modifier requirements for affected pedons
+- Need for systematic documentation in tracking systems
+
+## Training and Certification Requirements
+
+### PXRF Training Initiative
+**New Personnel Requiring Training:**
+- Ava McCune (lab operations)
+- Adam Devlin (general team member)
+- Kylie Hughes (general team member)  
+- Gen (field coordinator)
+
+**Requirements:**
+- University radiation safety training (online component)
+- Dosimeter procurement and setup
+- Hands-on equipment training with Nora Pearson
+
+### Additional Lab Training Needs
+- **Laser Diffraction:** Ava McCune requires training post-repair
+- **FTIR Review:** Team training with Drea scheduled for Friday, July 25th (extensive pre-materials required)
+
+### Proposed Training Schedule
+Coordinated Monday sessions to accommodate field work schedules:
+- Morning: Laser PSA training
+- Afternoon: pXRF training and certification
+- Combined approach to maximize efficiency and minimize field work disruption
+
+## Data Management and Quality Control
+
+### Tracking System Updates
+**New Columns Added to Pedon Entry Tracking Spreadsheet:**
+- HTM Initial Concept
+- Geomorphic Surface (using physio_main classifications)
+- HTM depth measurements
+
+### Quality Assurance Protocols
+**Consistency Measures:**
+- Single-person concept assignment recommendation
+- Cross-reference field observations with office analysis
+- Documentation of inclusions and cross-concept occurrences
+- Systematic review of artifact presence/absence
+
+### Integration Challenges
+- Balancing 2024 concept completion with 2025 ongoing classification needs
+- Ensuring field observations align with office-based geomorphic surface determinations
+- Managing timeline constraints with upcoming expert review
+
+## Research and Publication Considerations
+
+### pXRF Data Applications
+Joseph Brennan clarified the strategic value of PXRF analysis:
+- **University-specific Publications:** Contamination data not included in official soil survey products
+- **Complementary Research:** University of Minnesota can publish supplementary materials
+- **Lead Distribution Mapping:** Potential Twin Cities-wide contamination assessment
+- **Graduate Research Integration:** Supporting Nora's thesis work and related projects
+
+### FTIR Applications
+- All samples will eventually receive FTIR analysis
+- High-priority concept samples processed first
+- Integration with Randy Kolka's research samples
+
+## Action Items and Timeline
+
+### Immediate Actions (This Week)
+1. **Brianna:** Begin adding geomorphic surface and HTM depth data during regular entry work
+2. **Patty & Nora:** Continue 2024 concept assignment work before respective vacations
+3. **Nora:** Assign radiation safety training to Adam and coordinate dosimeter requests
+4. **Ava:** Continue lab processing with updated artifact documentation
+
+### Week of July 21st
+- Both Patty and Nora unavailable (vacation)
+- Continued field work in Saint Paul area
+- Lab equipment repair (laser diffraction)
+
+### Week of July 28th
+- **Critical Planning Week:** Finalize site selections for Randy's visit
+- Complete concept assignment analysis for 2024 data
+- Coordinate training schedules for August
+
+### August Priorities
+1. Expert review sessions with Randy (6 targeted sites)
+2. PXRF training implementation
+3. Enhanced lab throughput with repaired equipment
+4. FTIR training session (July 25th preparation)
+
+## Strategic Considerations
+
+### Geographic Coverage Assessment
+The team's systematic approach to covering the Twin Cities metro area ensures comprehensive sampling across diverse urban soil conditions. The current south-to-east progression completes their circular sampling strategy while maintaining adequate site availability.
+
+### Concept Development Maturity
+The emergence of consistent patterns across multiple geomorphic surfaces indicates the project is reaching sufficient sampling density to establish reliable soil concepts. The identification of cross-boundary occurrences suggests more complex soil-landscape relationships than initially anticipated.
+
+### Equipment and Capability Expansion
+The addition of PXRF analysis represents a significant enhancement to the project's analytical capabilities, enabling contamination assessment that complements traditional soil survey approaches while supporting broader research objectives.
+
+### Quality Control Evolution
+The shift toward single-person classification consistency reflects lessons learned from multi-person approaches and demonstrates the project's adaptive management in response to data quality considerations.

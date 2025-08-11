@@ -1,0 +1,130 @@
+# Group Check In 28JUL2025
+
+**Date: July 28, 2025** 
+
+## Attendees
+- Nora B Pearson
+- Genevieve Saldibar
+- Ava McCune
+- Kasia Ulanowski
+- Kylie Hughes
+- Brianna Hayward
+
+## Executive Summary
+
+Brief meeting focused on immediate logistics for the upcoming week, including field work scheduling around vacation time, equipment management, laboratory equipment issues, and preliminary planning for Randy's expert field review visit.
+
+## Administrative Updates
+
+### Supply Distribution and Training
+- Nora distributed field supplies: 100 description sheets, 100 RUSI sheets, 25 artifact sheets
+- 3 reams of Rite in the Rain paper purchased, ensuring adequate supply for remainder of season
+- Planned afternoon pXRF and laser particle size training potentially cancelled due to jury duty
+
+## Field Operations
+
+### Current Week Schedule
+- **Previous Week Success:** All sites completed despite rain and extreme heat
+- **Tuesday:** Full day in Maplewood, Oakdale, Woodbury area
+- **Wednesday:** Half day field work (morning only)
+- **Wednesday Afternoon:** Reserved for MAPSS preparation activities
+
+### Utility and Safety Challenges
+- Storm damage from previous night caused widespread power outages
+- Ramsey County complications: Excel also handles gas utilities (non-CenterPoint areas)
+- **Sarita Wetlands:** GSOC ticket needed for Thursday; Nic consultation required due to chiller plant proximity
+
+### Vacation Coverage and Staffing
+- **Calendar Updates Required:** All personnel update availability through August/September
+- **Known Absences:**
+  - Gen: August 2-6
+  - Adam, Kasia, Ava: End of following week
+- **Conservative Scheduling:** One sample per timeframe Tuesday-Friday
+- **Kylie Hughes:** Most consistent presence over next two weeks; many sites sourced through her family connections
+
+### Equipment Management
+- **Equipment Transfer:** Kasia to pass equipment set to Adam or Kylie during August 2-6 period
+- **Optimal Timing:** Coordination planned for August 5th between Kasia and Kylie
+- **Broken Auger:** Currently using Joe Brennan's borrowed bucket auger; return planned during MAPS tour
+- **Replacement:** Ava sourcing replacement from equipment storage
+
+## Laboratory Operations
+
+### Equipment Status and Setbacks
+- **FTIR Training:** Successfully completed with positive team response
+- **Laser Diffraction Issues:** Continuing error conditions post-training
+- **Quality Control Problems:**
+  - Laser strength requirements removed to pass QC tests
+  - Continued low laser strength affecting performance
+  - Multiple scan errors during Drea's testing sessions
+- **Operational Decision:** Temporarily suspend FTIR analysis; continue ball milling sample preparation
+
+### Supply and Maintenance
+- Laboratory acid available for field team distribution
+- Sample processing continuing despite equipment limitations
+- Reduced lab activity expected due to field priorities and vacation schedules
+
+## MAPS Field Review Preparation
+
+### Data Entry Progress
+- **Brianna's Progress:** Excellent work on 2025 pedon concept assignments
+- **Completion Status:** Approximately 20-30 entries remaining
+- **Team Support:** Additional volunteers needed to complete within current week
+- **2024 Data:** Yellow-highlighted rows in tracking spreadsheet indicate incomplete entries
+- **Process:** Complete entries ready for Excel export and concept assignment
+
+### Concept Assignment Strategy
+- **Detailed Classification:** Moving beyond basic geomorphic surfaces to specific soil concepts
+- **Example Detail:** "HTM over medium to fine texture till soils, level to gently rolling, wet"
+- **Pattern Recognition:** Identify most common concepts across Twin Cities metro
+- **Strategic Value:** Use concept frequency to guide expert review site selection
+
+### Site Selection Discussion
+- **Original Plan:** Focus on West Metro (Hennepin County) based on Patty's analysis
+- **New Proposal:** Include St. Paul area sites based on recent consistent field observations
+- **Concept Differentiation:** St. Paul sites represent glacial fluvial concepts vs. previous year's South St. Paul river concepts
+- **Schedule Optimization:** Randy's three-day visit allows full day in St. Paul, separate day in West Metro
+
+## Innovative Site Management
+
+### Frogtown Farm Pit Preservation
+- **Concept Development:** Ava and Gen independently proposed keeping MAPS hand-excavated pit open for Randy's review
+- **Strategic Value:** Full pit exposure provides comprehensive soil profile demonstration
+- **Site Context:** Previously cultivated area more representative of urban soil conditions
+- **Logistical Considerations:**
+  - Located on Frogtown Farm property (not City of St. Paul)
+  - Bailey's extension possibly covering fees through soil sampling exchange
+  - Project could absorb additional costs (estimated $50-100)
+  - Minimal risk for extended pit maintenance
+
+### Backup Site Resources
+- **Personal Networks:** Nora's extensive contacts in Hennepin County through recent friend home purchases
+- **Family Resources:** Nora's mother and personal residence available as backup options
+- **Contingency Planning:** Multiple backup sites if residential interest form options exhausted
+
+## Action Items and Timeline
+
+### Immediate Actions (Day of Meeting)
+- Jury duty status check at noon determining training schedule
+- Nick consultation at group lunch regarding Cerito wetlands G-Stock requirements
+- Dietary restriction collection for MAPS meal planning
+- Field sheet distribution to teams
+
+### Weekly Priorities (July 28 - August 1)
+- Complete remaining 20-30 pedon entries with additional team support
+- Email coordination between Nora, Jen, and Patty for Randy's site selection
+- Equipment transfer coordination for vacation coverage
+- Frogtown pit initiation with Nick's schedule coordination
+- G-Stock ticket submissions as weather and service availability permit
+
+### MAPS Preparation (Week of August 4)
+- Finalize expert review site selections based on completed concept analysis
+- Negotiate extended Frogtown pit access with property owners
+- Confirm Randy's exact arrival/departure schedule
+- Ensure all site access permissions and materials prepared
+
+## Strategic Outcomes
+
+This productive meeting successfully balanced immediate operational challenges with strategic preparation for the expert field review. The innovative Frogtown Farm pit preservation proposal demonstrates creative problem-solving that maximizes educational value from Randy's consultation while the proactive vacation coverage planning ensures project continuity.
+
+The team's ability to coordinate complex logistics while advancing scientific objectives reflects operational maturity and strategic focus, positioning the project for optimal expert review outcomes during a challenging transition period.
