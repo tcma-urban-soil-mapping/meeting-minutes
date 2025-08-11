@@ -1,0 +1,206 @@
+# Group Check In 11AUG2025
+
+**Date: August 11, 2025** 
+
+## Attendees
+- Nora Pearson
+- Genevieve Saldibar
+- Patty Burns
+- Adam Devlin
+- Kylie Hughes
+- Brianna Hayward
+
+## Executive Summary
+
+This meeting focused on finalizing preparations for Randy's consultation, completing 2024 pedon entries, addressing NASIS compatibility issues, and planning field season continuation through late August and September. Key decisions were made regarding NASIS access for team members, completing outstanding data entries, and coordinating NRCS support for field work during academic schedule transitions.
+
+## Field Work Schedule and Coordination
+
+### Current Week Activities (August 11-15)
+- **Tuesday:** Randy consultation meeting scheduled 10:30-11:30 AM Central (typically extends to noon)
+- **Wednesday:** Three sites planned
+  - Morning: Two houses in Crystal (few miles apart)
+  - Two groups operating simultaneously in morning (Nora unavailable until afternoon)
+  - Afternoon: house in Golden Valley (12 minutes from Crystal sites)
+- **Thursday:** Two sites scheduled
+  - Morning: house in Maple Grove (front yard pre-marked by city work)
+  - Afternoon: Robbinsdale house
+- **Friday:** Shakopee residences
+
+## Randy's Expert Consultation Preparation
+
+### Data Completion Status
+- **2025 Pedons:** All current entries exported to Excel and uploaded to Box
+- **2024 Pedons:** Nearly complete with only handful remaining
+  - Yellowy-highlighted rows indicate incomplete entries
+  - Brianna has made excellent progress grinding through remaining entries
+
+### Concept Assignment Progress
+- **Scott County:** Patty completing final 8-10 concept assignments today
+- **2024 Data:** Essentially complete for concept assignment purposes
+- **Progress Report Ready:** Nearly all 2024 data entered and concept-assigned for Randy's review
+
+### Meeting Preparation Strategy
+- **Status Update Format:** Randy typically requests progress updates then provides next step guidance
+- **Trend Analysis Focus:** Need to identify patterns across concepts to develop map units
+- **Tool Discussion:** Exploring R or Python analysis tools vs. manual trend identification
+- **Question Preparation:** Team encouraged to prepare taxonomy or fieldwork-related questions
+
+## Data Management and Technical Issues
+
+### NASIS Compatibility Challenges
+- **Survey123 vs. NASIS Discrepancies:** Multiple incompatibility issues identified
+  - Anthropogenic feature options differ between systems
+  - NASIS updated with new options (anthroscape, anthropogenic landform, anthropogenic microfeature)
+  - Survey123 has not received corresponding updates
+- **Upload Complications:** Recent issues requiring manual removal and re-addition of landscape/landform data
+- **Artifact Data Problems:** Previously identified issues with artifact data uploading
+
+### Technical Questions for Randy
+- **U Suffix Classification:** Whether artifacts (U suffix) automatically require HTM designation
+  - Team consensus: U suffix indicates artifact presence, not necessarily HTM
+  - Keys to Soil Taxonomy definition supports presence of artifacts without HTM requirement
+- **System Updates:** Request for Survey123 updates to match NASIS capabilities
+- **Thaptohumic Subgroup:** Additional example of needed system compatibility improvements
+
+## NASIS Access and Workflow Optimization
+
+### Proposed NASIS Access Expansion
+- **Current Bottleneck:** All NASIS work concentrated with Patty
+- **Proposed Solution:** Obtain sponsored NASIS accounts for additional team members
+- **Priority Candidates:** Adam, Brianna, Nora potentially get NASIS access (discuss tomorrow)
+
+### Workflow Efficiency Improvements
+- **Direct Entry Option:** Bypass Survey123-to-Excel-to-NASIS conversion process
+- **Time Comparison:** Survey123 entry takes 1-1.5 hours per pedon; NASIS likely similar
+- **Hybrid Approach:** Continue Survey123 while training select team members on direct NASIS entry
+- **Training Plan:** Patty to train Brianna on NASIS procedures for comparison and efficiency assessment
+
+### Quality Control Strategy
+- **Consistent Classification:** Single-person approach recommended for taxonomy consistency
+- **Field vs. Office Decisions:** Balance field observations with comprehensive office analysis
+- **Clerical Support:** NASIS access would help with repetitive, mind-numbing data entry tasks
+- **Workload Distribution:** Current volume (185 pedons from 2024, 100+ from 2025) requires multiple people
+
+## Outstanding 2024 Pedon Completions
+
+### Remaining Tasks Allocation
+- **Stuart's Assignments:** Two pedons (Ramsey 112, Dakota 113) to be reassigned
+  - Patty taking Ramsey 112 (already partially completed in NASIS)
+  - Brianna assigned Dakota 113
+- **Nora's Tasks:** One description sheet needing transfer from notebook paper to proper form
+- **Kylie's Issues:** Survey123 progress lost or submission unclear; Brianna to complete
+- **Lorraine Park Entry:** Missing GPS point issue resolved; ready for completion
+
+### Final Push Strategy
+- **Timeline:** Completion planned for Tuesday (tomorrow)
+- **Message to Randy:** 2024 essentially complete minus handful requiring final upload
+- **Upload Process:** Approximately dozen pedons requiring NASIS upload (minimal time investment)
+
+## Field Season Continuation Planning
+
+### Academic Schedule Challenges
+- **Critical Gap Period:** Last week of August through first two weeks of September
+  - Week of August 25: Multiple vacations, MN/WI Joint Cooperative Soil Survey Workshop
+  - Week of September 2: Semester start disruptions
+  - Week of September 8: Continued adjustment period
+- **Personnel Availability:**
+  - Adam: Jury duty starting September 15 (potential field availability uncertain)
+  - Kasia: Returns September 12
+  - Most undergraduates: Limited availability first 2-3 weeks of semester
+
+### NRCS Support Coordination
+- **Proposed Personnel:** Joe Brennan, Stephen Roecker, Patty Burns, Brandon DeFoe
+- **Coordination Challenges:** Previously too complex to schedule around individual NRCS member locations
+- **Site Distribution:** Majority of remaining sites concentrated in city centers
+
+### Parks Permit Strategy
+- **Targeted Approach:** Strategic selection of specific parks rather than blanket permits
+- **Geographic Focus:** Prior Lake area, Minnetonka, other strategic geomorphic locations
+- **Timeline Considerations:** Immediate initiation needed this week for feasible completion
+- **Permit Complexity:** Varies significantly by municipality (South St. Paul very easy, others more complex)
+- **Engineering Requirements:** Some cities require engineer/geologist review
+
+## Strategic Site Selection and Geographic Coverage
+
+### Residential Site Status
+- **Current Availability:** Extensive residential interest form responses remain
+- **Geographic Distribution:** Heavy concentration in city centers
+- **Outer Area Progress:** Gen's focus on outside points largely successful this season
+
+### Geomorphic Surface Analysis
+- **Preparation for Discussion:** Nora to analyze current sampling distribution against geomorphic surfaces map
+- **Target Identification:** Strategic gap analysis for park permit applications
+- **Coordination Meeting:** Nora and Gen planning campus meeting Tuesday afternoon for detailed planning
+
+## Equipment and Supply Management
+
+### Current Equipment Status
+- **Supply Distribution:** Field sheets adequate (100 description, 100 RUSI, 25 artifact sheets)
+- **Equipment Needs:** Gen requiring gutter from campus (planned retrieval today)
+- **Storage Locations:** Basic soils teaching lab or hallway outside (Ava unavailable until Wednesday)
+- **Survey123 Tasks:** Sheep pasture pole entries still needed (Gen to handle with site visit for point location)
+
+### Photo Documentation
+- **Equipment Redistribution:** Photo tapes redistributed after concentration in single vehicle
+- **Availability Confirmation:** Adequate photo tape availability confirmed across teams
+
+## Action Items and Timeline
+
+### Immediate Actions (August 11)
+- **Patty:** Complete Scott County concept assignments for Randy meeting
+- **Gen:** Campus visit for gutter retrieval and Survey123 sheep pasture entries
+- **Patty:** Contact Joe Brennan regarding NRCS support availability
+- **Adam:** Share NASIS sponsored account application instructions with team
+
+### Pre-Randy Meeting (August 12)
+- **Question Compilation:** Team to prepare specific taxonomy/fieldwork questions
+- **Progress Summary:** Final 2024 completion status report
+- **Next Steps Discussion:** Trend analysis and map unit development strategy
+- **NRCS Coordination:** Discuss personnel support for September gap period
+- **Parks Strategy:** Present targeted parks permit approach
+
+### Post-Randy Meeting Week
+- **NASIS Training:** Initiate Brianna training on direct NASIS entry
+- **Parks Permits:** Begin targeted permit applications for strategic locations
+- **2025 Concept Assignment:** Begin systematic concept assignment for current year data
+- **Equipment Coordination:** Finalize equipment distribution for reduced personnel periods
+
+### September Planning
+- **Week of August 25:** Coordinate NRCS personnel coverage with minimal UMN support
+- **First Two Weeks September:** Full NRCS operation coordination
+- **Week of September 15:** Resume integrated operations with returning personnel
+
+## Technical Infrastructure Development
+
+### GIS and Mapping Support
+- **Shapefile Request:** Patty requesting 2025 point shapefile for visual analysis
+- **Current Limitations:** Existing maps show all Nic's projects (Alaska, international points at 0,0 coordinates)
+- **Filtering Challenges:** Survey123 online vs. ArcGIS Online access differences
+- **Alternative Solutions:** NASIS lat-long extraction after pedon upload completion
+
+### Data Visualization Needs
+- **Progress Tracking:** Visual representation of 2025 sampling progress needed
+- **Geomorphic Analysis:** Integration with geomorphic surfaces mapping for strategic planning
+- **Quality Control:** Cross-reference sampling distribution with target concept areas
+
+## Risk Management and Contingencies
+
+### Personnel Coverage Risks
+- **September Gap:** Potential 3-week period with minimal experienced personnel
+- **Training Requirements:** NRCS personnel unfamiliar with procedural documentation
+- **Equipment Management:** Ensuring adequate equipment availability during transitions
+- **Site Coordination:** Maintaining residential site relationship management
+
+### Academic Transition Challenges
+- **Schedule Uncertainty:** Undergraduate availability highly variable early semester
+- **Workload Distribution:** Balancing field work with academic obligations
+- **Communication Continuity:** Maintaining project coordination during disrupted schedules
+
+## Strategic Outcomes and Next Steps
+
+This meeting successfully coordinated multiple critical project elements: completion of 2024 data for expert consultation, identification of technical infrastructure improvements, and strategic planning for field season continuation during challenging academic transitions. The team demonstrated strong problem-solving capabilities in addressing NASIS compatibility issues and developing creative solutions for personnel coverage gaps.
+
+The integration of NRCS support represents a significant strategic advancement, providing continuity during university schedule disruptions while expanding technical expertise available to the project. The targeted parks permit approach offers promising opportunities for strategic geographic coverage expansion.
+
+The meeting's comprehensive approach to both immediate tactical needs (Randy's consultation preparation) and longer-term strategic planning (September field work continuity) reflects the project's operational maturity and adaptive management capabilities.

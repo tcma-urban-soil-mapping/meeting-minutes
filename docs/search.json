@@ -3656,5 +3656,170 @@
       "Small Group Meetings",
       "<span class='chapter-number'>50</span>  <span class='chapter-title'>Group Check In 28JUL2025</span>"
     ]
+  },
+  {
+    "objectID": "minutes-11AUG2025-group.html",
+    "href": "minutes-11AUG2025-group.html",
+    "title": "51  Group Check In 11AUG2025",
+    "section": "",
+    "text": "51.1 Attendees",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>Group Check In 11AUG2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-11AUG2025-group.html#attendees",
+    "href": "minutes-11AUG2025-group.html#attendees",
+    "title": "51  Group Check In 11AUG2025",
+    "section": "",
+    "text": "Nora Pearson\nGenevieve Saldibar\nPatty Burns\nAdam Devlin\nKylie Hughes\nBrianna Hayward",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>Group Check In 11AUG2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-11AUG2025-group.html#executive-summary",
+    "href": "minutes-11AUG2025-group.html#executive-summary",
+    "title": "51  Group Check In 11AUG2025",
+    "section": "51.2 Executive Summary",
+    "text": "51.2 Executive Summary\nThis meeting focused on finalizing preparations for Randy’s consultation, completing 2024 pedon entries, addressing NASIS compatibility issues, and planning field season continuation through late August and September. Key decisions were made regarding NASIS access for team members, completing outstanding data entries, and coordinating NRCS support for field work during academic schedule transitions.",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>Group Check In 11AUG2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-11AUG2025-group.html#field-work-schedule-and-coordination",
+    "href": "minutes-11AUG2025-group.html#field-work-schedule-and-coordination",
+    "title": "51  Group Check In 11AUG2025",
+    "section": "51.3 Field Work Schedule and Coordination",
+    "text": "51.3 Field Work Schedule and Coordination\n\n51.3.1 Current Week Activities (August 11-15)\n\nTuesday: Randy consultation meeting scheduled 10:30-11:30 AM Central (typically extends to noon)\nWednesday: Three sites planned\n\nMorning: Two houses in Crystal (few miles apart)\nTwo groups operating simultaneously in morning (Nora unavailable until afternoon)\nAfternoon: house in Golden Valley (12 minutes from Crystal sites)\n\nThursday: Two sites scheduled\n\nMorning: house in Maple Grove (front yard pre-marked by city work)\nAfternoon: Robbinsdale house\n\nFriday: Shakopee residences",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>Group Check In 11AUG2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-11AUG2025-group.html#randys-expert-consultation-preparation",
+    "href": "minutes-11AUG2025-group.html#randys-expert-consultation-preparation",
+    "title": "51  Group Check In 11AUG2025",
+    "section": "51.4 Randy’s Expert Consultation Preparation",
+    "text": "51.4 Randy’s Expert Consultation Preparation\n\n51.4.1 Data Completion Status\n\n2025 Pedons: All current entries exported to Excel and uploaded to Box\n2024 Pedons: Nearly complete with only handful remaining\n\nYellowy-highlighted rows indicate incomplete entries\nBrianna has made excellent progress grinding through remaining entries\n\n\n\n\n51.4.2 Concept Assignment Progress\n\nScott County: Patty completing final 8-10 concept assignments today\n2024 Data: Essentially complete for concept assignment purposes\nProgress Report Ready: Nearly all 2024 data entered and concept-assigned for Randy’s review\n\n\n\n51.4.3 Meeting Preparation Strategy\n\nStatus Update Format: Randy typically requests progress updates then provides next step guidance\nTrend Analysis Focus: Need to identify patterns across concepts to develop map units\nTool Discussion: Exploring R or Python analysis tools vs. manual trend identification\nQuestion Preparation: Team encouraged to prepare taxonomy or fieldwork-related questions",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>Group Check In 11AUG2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-11AUG2025-group.html#data-management-and-technical-issues",
+    "href": "minutes-11AUG2025-group.html#data-management-and-technical-issues",
+    "title": "51  Group Check In 11AUG2025",
+    "section": "51.5 Data Management and Technical Issues",
+    "text": "51.5 Data Management and Technical Issues\n\n51.5.1 NASIS Compatibility Challenges\n\nSurvey123 vs. NASIS Discrepancies: Multiple incompatibility issues identified\n\nAnthropogenic feature options differ between systems\nNASIS updated with new options (anthroscape, anthropogenic landform, anthropogenic microfeature)\nSurvey123 has not received corresponding updates\n\nUpload Complications: Recent issues requiring manual removal and re-addition of landscape/landform data\nArtifact Data Problems: Previously identified issues with artifact data uploading\n\n\n\n51.5.2 Technical Questions for Randy\n\nU Suffix Classification: Whether artifacts (U suffix) automatically require HTM designation\n\nTeam consensus: U suffix indicates artifact presence, not necessarily HTM\nKeys to Soil Taxonomy definition supports presence of artifacts without HTM requirement\n\nSystem Updates: Request for Survey123 updates to match NASIS capabilities\nThaptohumic Subgroup: Additional example of needed system compatibility improvements",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>Group Check In 11AUG2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-11AUG2025-group.html#nasis-access-and-workflow-optimization",
+    "href": "minutes-11AUG2025-group.html#nasis-access-and-workflow-optimization",
+    "title": "51  Group Check In 11AUG2025",
+    "section": "51.6 NASIS Access and Workflow Optimization",
+    "text": "51.6 NASIS Access and Workflow Optimization\n\n51.6.1 Proposed NASIS Access Expansion\n\nCurrent Bottleneck: All NASIS work concentrated with Patty\nProposed Solution: Obtain sponsored NASIS accounts for additional team members\nPriority Candidates: Adam, Brianna, Nora potentially get NASIS access (discuss tomorrow)\n\n\n\n51.6.2 Workflow Efficiency Improvements\n\nDirect Entry Option: Bypass Survey123-to-Excel-to-NASIS conversion process\nTime Comparison: Survey123 entry takes 1-1.5 hours per pedon; NASIS likely similar\nHybrid Approach: Continue Survey123 while training select team members on direct NASIS entry\nTraining Plan: Patty to train Brianna on NASIS procedures for comparison and efficiency assessment\n\n\n\n51.6.3 Quality Control Strategy\n\nConsistent Classification: Single-person approach recommended for taxonomy consistency\nField vs. Office Decisions: Balance field observations with comprehensive office analysis\nClerical Support: NASIS access would help with repetitive, mind-numbing data entry tasks\nWorkload Distribution: Current volume (185 pedons from 2024, 100+ from 2025) requires multiple people",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>Group Check In 11AUG2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-11AUG2025-group.html#outstanding-2024-pedon-completions",
+    "href": "minutes-11AUG2025-group.html#outstanding-2024-pedon-completions",
+    "title": "51  Group Check In 11AUG2025",
+    "section": "51.7 Outstanding 2024 Pedon Completions",
+    "text": "51.7 Outstanding 2024 Pedon Completions\n\n51.7.1 Remaining Tasks Allocation\n\nStuart’s Assignments: Two pedons (Ramsey 112, Dakota 113) to be reassigned\n\nPatty taking Ramsey 112 (already partially completed in NASIS)\nBrianna assigned Dakota 113\n\nNora’s Tasks: One description sheet needing transfer from notebook paper to proper form\nKylie’s Issues: Survey123 progress lost or submission unclear; Brianna to complete\nLorraine Park Entry: Missing GPS point issue resolved; ready for completion\n\n\n\n51.7.2 Final Push Strategy\n\nTimeline: Completion planned for Tuesday (tomorrow)\nMessage to Randy: 2024 essentially complete minus handful requiring final upload\nUpload Process: Approximately dozen pedons requiring NASIS upload (minimal time investment)",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>Group Check In 11AUG2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-11AUG2025-group.html#field-season-continuation-planning",
+    "href": "minutes-11AUG2025-group.html#field-season-continuation-planning",
+    "title": "51  Group Check In 11AUG2025",
+    "section": "51.8 Field Season Continuation Planning",
+    "text": "51.8 Field Season Continuation Planning\n\n51.8.1 Academic Schedule Challenges\n\nCritical Gap Period: Last week of August through first two weeks of September\n\nWeek of August 25: Multiple vacations, MN/WI Joint Cooperative Soil Survey Workshop\nWeek of September 2: Semester start disruptions\nWeek of September 8: Continued adjustment period\n\nPersonnel Availability:\n\nAdam: Jury duty starting September 15 (potential field availability uncertain)\nKasia: Returns September 12\nMost undergraduates: Limited availability first 2-3 weeks of semester\n\n\n\n\n51.8.2 NRCS Support Coordination\n\nProposed Personnel: Joe Brennan, Stephen Roecker, Patty Burns, Brandon DeFoe\nCoordination Challenges: Previously too complex to schedule around individual NRCS member locations\nSite Distribution: Majority of remaining sites concentrated in city centers\n\n\n\n51.8.3 Parks Permit Strategy\n\nTargeted Approach: Strategic selection of specific parks rather than blanket permits\nGeographic Focus: Prior Lake area, Minnetonka, other strategic geomorphic locations\nTimeline Considerations: Immediate initiation needed this week for feasible completion\nPermit Complexity: Varies significantly by municipality (South St. Paul very easy, others more complex)\nEngineering Requirements: Some cities require engineer/geologist review",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>Group Check In 11AUG2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-11AUG2025-group.html#strategic-site-selection-and-geographic-coverage",
+    "href": "minutes-11AUG2025-group.html#strategic-site-selection-and-geographic-coverage",
+    "title": "51  Group Check In 11AUG2025",
+    "section": "51.9 Strategic Site Selection and Geographic Coverage",
+    "text": "51.9 Strategic Site Selection and Geographic Coverage\n\n51.9.1 Residential Site Status\n\nCurrent Availability: Extensive residential interest form responses remain\nGeographic Distribution: Heavy concentration in city centers\nOuter Area Progress: Gen’s focus on outside points largely successful this season\n\n\n\n51.9.2 Geomorphic Surface Analysis\n\nPreparation for Discussion: Nora to analyze current sampling distribution against geomorphic surfaces map\nTarget Identification: Strategic gap analysis for park permit applications\nCoordination Meeting: Nora and Gen planning campus meeting Tuesday afternoon for detailed planning",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>Group Check In 11AUG2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-11AUG2025-group.html#equipment-and-supply-management",
+    "href": "minutes-11AUG2025-group.html#equipment-and-supply-management",
+    "title": "51  Group Check In 11AUG2025",
+    "section": "51.10 Equipment and Supply Management",
+    "text": "51.10 Equipment and Supply Management\n\n51.10.1 Current Equipment Status\n\nSupply Distribution: Field sheets adequate (100 description, 100 RUSI, 25 artifact sheets)\nEquipment Needs: Gen requiring gutter from campus (planned retrieval today)\nStorage Locations: Basic soils teaching lab or hallway outside (Ava unavailable until Wednesday)\nSurvey123 Tasks: Sheep pasture pole entries still needed (Gen to handle with site visit for point location)\n\n\n\n51.10.2 Photo Documentation\n\nEquipment Redistribution: Photo tapes redistributed after concentration in single vehicle\nAvailability Confirmation: Adequate photo tape availability confirmed across teams",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>Group Check In 11AUG2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-11AUG2025-group.html#action-items-and-timeline",
+    "href": "minutes-11AUG2025-group.html#action-items-and-timeline",
+    "title": "51  Group Check In 11AUG2025",
+    "section": "51.11 Action Items and Timeline",
+    "text": "51.11 Action Items and Timeline\n\n51.11.1 Immediate Actions (August 11)\n\nPatty: Complete Scott County concept assignments for Randy meeting\nGen: Campus visit for gutter retrieval and Survey123 sheep pasture entries\nPatty: Contact Joe Brennan regarding NRCS support availability\nAdam: Share NASIS sponsored account application instructions with team\n\n\n\n51.11.2 Pre-Randy Meeting (August 12)\n\nQuestion Compilation: Team to prepare specific taxonomy/fieldwork questions\nProgress Summary: Final 2024 completion status report\nNext Steps Discussion: Trend analysis and map unit development strategy\nNRCS Coordination: Discuss personnel support for September gap period\nParks Strategy: Present targeted parks permit approach\n\n\n\n51.11.3 Post-Randy Meeting Week\n\nNASIS Training: Initiate Brianna training on direct NASIS entry\nParks Permits: Begin targeted permit applications for strategic locations\n2025 Concept Assignment: Begin systematic concept assignment for current year data\nEquipment Coordination: Finalize equipment distribution for reduced personnel periods\n\n\n\n51.11.4 September Planning\n\nWeek of August 25: Coordinate NRCS personnel coverage with minimal UMN support\nFirst Two Weeks September: Full NRCS operation coordination\nWeek of September 15: Resume integrated operations with returning personnel",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>Group Check In 11AUG2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-11AUG2025-group.html#technical-infrastructure-development",
+    "href": "minutes-11AUG2025-group.html#technical-infrastructure-development",
+    "title": "51  Group Check In 11AUG2025",
+    "section": "51.12 Technical Infrastructure Development",
+    "text": "51.12 Technical Infrastructure Development\n\n51.12.1 GIS and Mapping Support\n\nShapefile Request: Patty requesting 2025 point shapefile for visual analysis\nCurrent Limitations: Existing maps show all Nic’s projects (Alaska, international points at 0,0 coordinates)\nFiltering Challenges: Survey123 online vs. ArcGIS Online access differences\nAlternative Solutions: NASIS lat-long extraction after pedon upload completion\n\n\n\n51.12.2 Data Visualization Needs\n\nProgress Tracking: Visual representation of 2025 sampling progress needed\nGeomorphic Analysis: Integration with geomorphic surfaces mapping for strategic planning\nQuality Control: Cross-reference sampling distribution with target concept areas",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>Group Check In 11AUG2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-11AUG2025-group.html#risk-management-and-contingencies",
+    "href": "minutes-11AUG2025-group.html#risk-management-and-contingencies",
+    "title": "51  Group Check In 11AUG2025",
+    "section": "51.13 Risk Management and Contingencies",
+    "text": "51.13 Risk Management and Contingencies\n\n51.13.1 Personnel Coverage Risks\n\nSeptember Gap: Potential 3-week period with minimal experienced personnel\nTraining Requirements: NRCS personnel unfamiliar with procedural documentation\nEquipment Management: Ensuring adequate equipment availability during transitions\nSite Coordination: Maintaining residential site relationship management\n\n\n\n51.13.2 Academic Transition Challenges\n\nSchedule Uncertainty: Undergraduate availability highly variable early semester\nWorkload Distribution: Balancing field work with academic obligations\nCommunication Continuity: Maintaining project coordination during disrupted schedules",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>Group Check In 11AUG2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-11AUG2025-group.html#strategic-outcomes-and-next-steps",
+    "href": "minutes-11AUG2025-group.html#strategic-outcomes-and-next-steps",
+    "title": "51  Group Check In 11AUG2025",
+    "section": "51.14 Strategic Outcomes and Next Steps",
+    "text": "51.14 Strategic Outcomes and Next Steps\nThis meeting successfully coordinated multiple critical project elements: completion of 2024 data for expert consultation, identification of technical infrastructure improvements, and strategic planning for field season continuation during challenging academic transitions. The team demonstrated strong problem-solving capabilities in addressing NASIS compatibility issues and developing creative solutions for personnel coverage gaps.\nThe integration of NRCS support represents a significant strategic advancement, providing continuity during university schedule disruptions while expanding technical expertise available to the project. The targeted parks permit approach offers promising opportunities for strategic geographic coverage expansion.\nThe meeting’s comprehensive approach to both immediate tactical needs (Randy’s consultation preparation) and longer-term strategic planning (September field work continuity) reflects the project’s operational maturity and adaptive management capabilities.",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>Group Check In 11AUG2025</span>"
+    ]
   }
 ]
