@@ -1,0 +1,158 @@
+# Group Check In 08SEP2025
+
+**Date: September 8, 2025**
+
+## Attendees
+
+- Nora B Pearson
+- Patty Burns
+- Ava McCune
+- Brianna Hayward
+- Nic Jelinski
+
+## Executive Summary
+
+This meeting addressed data entry completion status, concept assignment progress, field work continuation planning for fall semester, and Randy's rescheduled field visit. Key discussions centered on completing outstanding pedon descriptions, HTM particle size analysis findings, and coordinating fall field activities around academic schedules.
+
+## Data Management and Entry Status
+
+### 2024 Pedon Completion
+
+- Concept Assignment: All 2024 pedons have assigned concepts, completed in early August
+- HTM Analysis: Patty added new columns for HTM depth and particle size classification
+  - Pattern Identification: Coarse loamy HTM in outwash and river systems; fine loamy HTM on Des Moines lobe
+  - Local Fill Theory: HTM material appears sourced locally from basement excavation
+  - Classification System: Using taxonomy particle size classes including artifactic, spolik, para-, and dredged categories
+- Final Tasks: Approximately 10 pedons remaining for HTM analysis completion
+
+### 2025 Pedon Progress  
+
+- Entry Status: Brianna completed entries through Site 106 of approximately 131 total sites
+- Concept Assignment: All entered pedons have assigned concepts
+- Outstanding Items: Approximately 25 sites requiring entry (109 onward need description sheets)
+- Export Status: 40+ 2025 pedons ready for NASIS upload
+
+### NASIS Upload Planning
+
+- 2024 Priority: Complete remaining uploads this week
+- 2025 Strategy: Patty to begin uploading next week after troubleshooting potential recurring issues
+- Workflow Improvements: Anticipated faster processing due to resolved glitches and pre-classification
+
+## Specific Site Resolution Issues
+
+### Site 065 (Retirement Community)
+
+- Problem: Only 10 centimeters described before hitting erosion control blanket
+- Decision: Enter as normal pedon despite shallow description
+- Rationale: Following precedent of including all sites as field notes per Joe's guidance
+- Implementation: Brianna to complete entry with notation
+
+### MAPSS Tour Sites (093, 094, 095)
+
+- Status: Incomplete descriptions from Sarita Wetland (1 site) and Frogtown Farm (2 sites)
+- Available Resources: 
+  - Duplicate samples for texture analysis
+  - Bulk density samples
+  - Potential additional description sheets by Kasha
+- Resolution Plan: 
+  - Ava to contact Kasia for complete descriptions
+  - Lab analysis to complete color and texture data
+  - Priority laser diffraction analysis for full textural analysis
+- Timeline: Completion targeted for September
+
+## Fall Field Work Continuation
+
+### Personnel Availability
+- Returning Staff: Kasia (next week), Adam (following week), potentially Kellen
+- Academic Constraints: Nora and Gen limited capacity due to classes
+- Organizational Needs: Adam identified as potential primary coordinator due to 6-month position
+- Lab Support: Ava available for field descriptions 1-2 times weekly
+
+### Coordination Strategy
+- Leadership Transition: Adam potentially handle site organization and homeowner contact
+- Previous Experience: Adam has scheduled sites previously with Kasia
+- Support Structure: Ask Gen to check in with Adam
+- Capacity: Sufficient personnel available for continued fall sampling, both on NRCS and UMN side
+
+### Academic Schedule Considerations
+- Soil Judging Contest: September 29 - October 3 in Omaha
+- Nic's Teaching Load: Wetland soils and intro environmental science courses
+- Semester Transition: Early fall typically busiest academic period
+
+## Randy's Rescheduled Field Visit
+
+### Proposed Dates
+- Field Days: October 28-29, 2025
+- Office Meeting: Morning of October 30
+- Status: Awaiting Nic's schedule confirmation
+- Travel Authorization: Randy will update travel request form after confirmation
+
+### Logistics and Planning
+- Personnel Availability: 4+ lab staff confirmed available
+- Student Participation: School attendees (Nora, Gen, Brianna) can join as schedules permit
+- Site Selection Strategy: Present typical concept examples with predictive capability
+- Concept Focus: River system, outwash, Des Moines lobe based on 2024 patterns
+- Preparation Timeline: 3+ weeks available for site organization after soil judging
+
+### Weather Considerations
+- Alternative Dates: Early November considered but deemed potentially too cold
+- October Preference: Earlier timing preferred for field conditions
+
+## Laboratory Operations and Analysis
+
+### Current Activities
+- Semester Preparation: Ava focused on lab cleaning and organization
+- Teaching Support: Assisting with wetland soils class instruction
+- Sample Processing: Continued progress on existing samples
+- Equipment Status: Laser diffraction available for priority samples
+
+### Sample Handling Coordination
+- Thursday Delivery: Patty to drop off samples from Woodbury/Oakdale field work
+- Location: Borlaug Hall area pickup arranged
+- Sample Preparation: Ziploc storage acceptable; maintain wet samples for wet/dry weight analysis
+- Personnel Coordination: Julia arranged for sample receipt
+
+### Future Lab Engagement
+- Patty's Visit: Planned lab observation session later in fall
+- Timeline: After field season completion and reduced schedule chaos
+- Objectives: Understanding lab procedures and workflow integration
+
+## NASIS Access Development
+
+### Technical Challenges
+- Nic's Experience: Years of unsuccessful attempts to access NASIS from university systems
+- Client Issues: Antiquated external client software (2012 vintage)
+- Network Requirements: VPN access to NRCS networks with firewall complications
+- Precedent Problems: Similar issues encountered by Iowa State researchers
+
+### Potential Solutions
+- NRCS Computer Access: Earth Team volunteer position for Adam with dedicated equipment
+- Timeline: October implementation possible
+- Workflow Benefits: Direct NASIS entry bypassing Survey123 conversion issues
+- Brianna's Interest: Continued enthusiasm for streamlined workflow despite technical challenges
+
+### Implementation Strategy
+- Pilot Approach: Test with Brianna first using current process
+- Adam's Path: Earth Team volunteer status with NRCS computer access
+- Support Structure: Joe Brennan coordination for equipment and access
+- Backup Plan: Continue Survey123 workflow with improved glitch understanding
+
+## Strategic Outcomes and Next Steps
+
+### Immediate Priorities
+- Data Completion: Finish remaining 2024 HTM analysis this week
+- MAPSS Sites: Complete descriptions for August sites through lab analysis
+- Field Coordination: Gen-Adam handoff for fall site organization
+- Randy Confirmation: Await Nic's schedule response for October visit
+
+### Fall Semester Goals
+- Continued Sampling: Maintain field work momentum through November
+- Data Processing: Complete 2025 NASIS uploads
+- Concept Analysis: Develop patterns for Randy's visit
+- System Integration: Advance NASIS access solutions
+
+### Long-term Developments
+- Expert Consultation: Optimize Randy's visit for maximum learning value
+- Workflow Efficiency: Implement direct NASIS entry capabilities
+- Personnel Development: Cross-train multiple team members on all processes
+- Project Completion: Position for successful survey completion
