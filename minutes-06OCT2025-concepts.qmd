@@ -1,0 +1,171 @@
+# Concept Development Plan 06OCT2025
+
+**Date: October 6, 2025**
+
+## Attendees
+
+-   Nora B Pearson
+-   Nic Jelinski
+-   Adam Devlin
+-   Kasia Ulanowski
+-   Ava McCune
+
+## Executive Summary
+
+This intensive concept development meeting focused on establishing a systematic approach to categorizing urban soils using existing data. Nic provided comprehensive framework guidance for creating soil concepts using phases of existing series versus establishing new series. Kasia presented preliminary data analysis showing concept frequency distributions, and the team strategized approaches for geographic visualization, sample organization, and progressive concept refinement.
+
+## Concept Development Framework
+
+### Phases vs. New Series Strategy
+
+Nic's Guiding Principles: 
+
+- Existing Series with HTM Phases: When underlying natural soil can be identified, create phases (e.g., Waukegan with HTM cap phase) 
+- Range Parameters: HTM cap phases could accommodate ranges like 20-30 cm of human-transported material
+- Relevance: Phases particularly applicable for recognizable but disturbed soils 
+- Efficiency: Avoids unnecessary proliferation of new series
+
+### Truncation and Fill Patterns
+
+-   Truncated Soils: Discussion of soils with stripped topsoil (A horizon removal)
+-   Common Pattern: Carat A, carat C over straight C horizons observed in sandy soils
+-   Combined Phasing: Potential for single human-altered/human-transported phase encompassing both fill and truncation
+-   Prevalence Assessment: Need to determine frequency to justify separate phase establishment
+
+### Fully HTM Soils (No Natural Soil Linkage): 
+
+- Particle Size Categories: Loamy fill and sandy fill as primary divisions 
+- Artifact Considerations: High artifact phases or separate high-artifact series 
+- Temperature Regime: May require new series if existing urban surveys don't match regional temperature regime 
+- Source Material: Baltimore and New York urban surveys identified as potential models
+
+### Specialized Categories
+
+Waste/Dump Sites: 
+
+- Landfills: True sealed/capped landfills with hyperthermic characteristics (established series exist) 
+- Dumps: Unsealed garbage dumps (Pig's Eye, Wildflower Levee type) - distinct from landfills and fill soils 
+- Garbifactarts: Artisol classification where matrix is artifacts/garbage 
+- Field Opportunity: Tree tips at Pig's Eye expose profiles for description (150+ cm accessible)
+
+Clay Fill Exception: 
+
+- Generally unexpected but Pig's Eye represents clay cap example 
+- Likely minor component overall in survey area
+
+## Data Analysis Progress
+
+### Concept Frequency Distribution
+
+Kasia's Preliminary Analysis: 
+
+- Compiled concept assignments from 2024 and 2025 tracking spreadsheets 
+- Top Concept: HTM over silty material (28 observations) 
+- All-HTM Category: 48 pedons currently in catch-all category requiring subdivision 
+- Focus Areas: Analysis concentrated on HTM soils per discussion priorities
+
+### Data Organization Needs
+
+-   Geographic Association: Critical need to map concept distributions spatially
+-   Concentration Assessment: Determine if concepts are geographically diverse or hyper-concentrated
+-   Development Pattern Analysis: Identify relationships between construction era and soil alteration patterns
+
+## Implementation Strategy
+
+### Geographic Visualization Priority
+
+Mapping Requirements: 
+
+- ArcGIS Online Shared Layer: Proposed collaborative platform for concept visualization 
+- Coordinate Integration: Add coordinates to pedon tracking data for automatic mapping 
+- Existing Map Overlay: Pull Web Soil Survey map units for AOI to enable crosswalk development 
+- Series Inventory: Comprehensive list of all currently mapped series in AOI needed
+
+### Crosswalk Development
+
+Nic's Recommendation: 
+
+- Map existing series to broader concepts regardless of direct observations 
+- Example: Identify all series fitting "medium to fine texture till soils, level to gently rolling, moderately wet" 
+- Current Progress: Patty's series tab in tracking spreadsheet provides partial crosswalk (6 series per concept) 
+- Completeness Issue: Not comprehensive for all potential series within concepts
+
+### HTM Subdivision Strategy
+
+-   Current Status: All-HTM as temporary catch-all requiring detailed breakdown
+-   Subdivision Criteria: Particle size (loamy vs. sandy), artifact content, geomorphic independence
+-   Geomorphic Relevance: Fully HTM concepts may occur across all surfaces regardless of underlying geology
+-   Threshold Questions: Define high-artifact thresholds using taxonomy or Artisol guidance
+
+## Outer Ring Suburbs Challenge
+
+### Problem Statement
+
+Nic's Concern: 
+
+- Well-mapped areas now developed with certain human modification 
+- Insufficient observation density to remap comprehensively 
+- Current mapping doesn't reflect updated conditions
+
+### Proposed Solutions
+
+-   Human-Altered Phases: Broad phases of natural soils accommodating fill/truncation
+-   Retain Existing Mapping: Preserve delineations while adding altered components
+-   Component Addition: Insert 5-10% human-altered phase components into existing map units
+-   Strategic Observations: Target observations in outer suburbs to validate approach
+
+## Laboratory Operations and Sample Management
+
+### Sample Organization System
+
+- Sorting into bins of 150-200 samples maximum for manageability 
+- Sequential numbering (0-200, 201-400, etc.) 
+- Critical Rule: Never split individual sites across bins
+
+### Future Refinement Options
+
+-   Post-Processing Organization: After drying/sieving, consolidate pedons into larger bags
+-   Priority Bins: Create separate bins for "special samples" requiring immediate analysis
+-   Bulk Retention: Maintain sequential bins for overall collection
+
+### Artifact Documentation
+
+Ava's Findings: 
+
+- Small artifacts (slag, glass fragments) found in samples not marked as fill in field 
+- Observable only during detailed lab processing 
+- Nic's Guidance: Maintain field call unless morphology clearly indicates misinterpretation 
+- Documentation: Maintain separate list for research purposes (potential paper topic)
+
+### Field Opportunity: Pig's Eye Tree Tips
+
+-   Location: Nic to provide coordinates for accessible tree tip profiles
+-   Access Strategy: Informal approach acceptable (don't bring visible equipment)
+-   Entry: Specific entrance information to be provided
+-   Profile Depth: 150+ cm easily accessible in tree tip exposures
+
+## Action Items and Timeline
+
+### Immediate Priorities
+
+-   Adam & Kasia: Create ArcGIS Online shared layer with predefined concept columns
+-   Adam: Add coordinates to concept data for geographic visualization
+-   Adam: Pull comprehensive series list from Web Soil Survey for AOI
+-   Ava & Brianna: Complete sample organization into sequential bins (150-200 per bin)
+-   Ava: Maintain artifact discovery list from lab processing
+
+### Analytical Development
+
+-   Adam: Develop crosswalk between existing series and broader concepts
+-   Team: Subdivide all-HTM category using particle size and artifact criteria
+-   Team: Assess geographic distribution patterns for major concepts
+-   Adam: Identify areas requiring outer ring suburb phase approach
+
+### Decision-Making Authority
+
+Nic's Direction: 
+
+- Team empowered to make concept development decisions independently 
+- Don't wait for Nic, Joe, or Patty approval 
+- Team has best data familiarity and knowledge base 
+- Decisions can be discussed/refined but shouldn't be delayed

@@ -1,0 +1,170 @@
+# Group Check In 06OCT2025
+
+**Date: October 6, 2025**
+
+## Attendees
+
+-   Nora B Pearson
+-   Ava McCune
+-   Adam Devlin
+-   Kasia Ulanowski
+-   Kellen O'Connor
+-   Brianna Hayward
+-   Genevieve Saldibar
+
+## Outreach Initiative: Common Table State Fair Exhibit
+
+### Project Overview
+
+Ava's Announcement: 
+
+- Partnership opportunity with Rosie Russell, Common Table coordinator 
+- Common Table Context: Urban agriculture outreach organization with State Fair exhibit in horticulture building 
+- Previous Collaboration: Ava participated in spring outreach event answering urban farmer questions 
+- Current Need: Revamp soil section of State Fair physical display and website content
+
+### Scope of Work
+
+Website Content Development: 
+
+- Information on lead contamination in urban soils
+- Composting guidance for urban settings - Soil testing resources and locations 
+- Ava's Resources: Lab materials available; will consult Nora on lead contamination materials
+
+Physical Display Renovation: 
+
+- Current Status: Created 2014, focused on large-scale agriculture 
+- Proposed Direction: Shift to urban agriculture focus 
+- Project Advantage: Leverage urban soils data from current mapping project 
+- Team Role: Site visit, idea generation, execution support 
+- Ava's Leadership: Taking lead role with Rosie coordination
+
+Site Visit Details: 
+
+- Date: Tuesday, October 14, 2025 2:00-4:00 PM 
+- Participants: Ava, Adam, Nora; others welcome
+
+## Fall Field Operations Update
+
+### Recent Activities
+
+Adam's Summary: 
+
+- Recent Success: Multiple points collected over past weeks 
+- Current Week: No Wednesday sampling (dropped ball on scheduling) 
+- Friday Plans: Plymouth sampling on west metro (3-4 team members)
+
+### Upcoming Field Schedule
+
+This Week (Week of October 6): Friday, October 10: Plymouth west metro sites. Team includes Kasia, Kellen, Julia (to be confirmed).
+
+Next Week Options: Pig's Eye site visit (Wednesday or Friday potential). Continue park-based sampling where accessible.
+
+### Target Areas and Gaps
+
+Anoka-Hennepin School District Initiative: 
+
+- Adam emailed facilities coordinator Friday (October 3). Submitted list of target schools for access 
+- Rationale: Significant geographic gap in Anoka Sand Plain coverage
+
+South St. Paul Residential: 
+
+- Homeowner outreach in progress 
+- Target Area: Above river terrace, mapped as till plain
+
+### Recent Field Results
+
+Friday, October 3 Sampling: 
+
+- Location: Park straddling Sand Plain/Till Plain boundary. Sandier uplands, mostly organics in wetland
+- Kellen's Team: Wetland at second site, hit till at bottom of first site 
+- Adam's Innovation: Survey123 integrated with map for real-time photo monitoring
+
+## Data Entry Workflow Coordination
+
+### Missing Data Resolution
+
+Transition Period Sites (Late September): 
+
+- Problem Identification: Sites 123-135 missing various documentation components 
+- Key Contributors: Bailey, Patty, Joe, Brandon field crews
+- Kasia's Initiative: Backtracking to identify gaps and responsible parties
+
+Specific Site Issues:
+
+Sites 130-135 (Patty's Team): 
+
+- Status Update (Nora): Patty submitted Survey123 for sites 132, 133, 134, 135 with all photos 
+- Site 131: Julia submitted survey; Patty has photos but cannot edit Julia's submission 
+- Resolution: Photos forwarded to Kasia for Drive upload; Brianna pulls from both sources
+
+Sites 123-129 (Bailey's Team): 
+
+- Challenge: No description sheet photos taken in field 
+- Impact: Cannot match Bailey's photos to specific site numbers 
+- Current Status: Waiting for description sheet scans 
+- Brianna's Workflow: Scanning paused until Survey123 submission (needs coordinates) 
+- Workaround: Brianna to photograph description sheets with phone and send to Kasia 
+- Kasia's Role: Will submit Survey123 entries, then notify Brianna for scanning
+
+Site 118 (Adam): 
+
+- Technical Issue: Survey123 won't allow submission 
+- Coordinate Problem: Degrees/minutes/seconds format instead of decimal degrees 
+- Solution: Adam remaking entire point for resubmission 
+- Temporary Access: DMS coordinates available on sheet for conversion if needed
+
+### Workflow Improvements Acknowledged
+
+-   Adam's Recognition: Pedon entry tracking sheet proving invaluable for concept development work
+-   Brianna's Contribution: Data organization enabling systematic analysis
+-   Dual-Source Approach: Brianna confirmed pulling photos from both Drive and Survey123 for redundancy
+
+## Team Coordination and Planning
+
+### Wednesday, October 8 Plans
+
+-   No Field Work: Scheduling gap this week
+-   Alternative Activity: Adam and Kasia to meet for concept development spreadsheet work
+-   Purpose: Advance analytical framework discussed in earlier concept meeting
+-   Benefit: Productive use of non-field day
+
+## Action Items by Person
+
+### Ava
+
+-   Coordinate Common Table site visit logistics with Rosie Russell
+-   Compile lead contamination resources (consult Nora)
+-   Gather composting and soil testing information for website
+-   Confirm Julia's Friday field availability
+-   Lead Common Table project execution
+
+### Adam
+
+-   Follow up with South St. Paul homeowner responses today
+-   Remake Site 118 Survey123 point with correct coordinates
+-   Monitor Anoka-Hennepin School District response
+-   Meet with Kasia Wednesday for concept spreadsheet development
+-   Continue calendar management for field activities
+
+### Kasia
+
+-   Receive and upload Site 131 photos to Drive (from Nora)
+-   Submit Survey123 for Bailey's sites 123-129 upon receiving description photos
+-   Notify Brianna when submissions complete
+-   Meet with Adam Wednesday for analytical work
+-   Continue backtracking missing data from transition period
+
+### Brianna
+
+-   Photograph description sheets for sites 123-129 and send to Kasia
+-   Continue scanning workflow after Survey123 submissions
+-   Maintain dual-source photo collection approach
+-   Process remaining data entry queue
+
+### Nora
+
+-   Forward Site 131 photos to Kasia's personal email
+-   Provide lead contamination resources to Ava
+-   Post meeting minutes to documentation system
+-   Participate in Common Table site visit October 14
