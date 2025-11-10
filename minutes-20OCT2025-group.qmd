@@ -1,0 +1,247 @@
+# Group Check In 20OCT2025
+
+**Date: October 20, 2025**
+
+## Attendees
+
+-   Nora B Pearson
+-   Adam Devlin
+-   Ava McCune
+-   Kasia Ulanowski
+-   Kellen O'Connor
+-   Brianna Hayward
+-   Julia (brief appearance)
+
+## Executive Summary
+
+This meeting covered fall field operations planning, data entry progress, sample processing workflows, and concept development priorities. The team addressed scheduling for remaining field days, recapped the Common Table State Fair outreach visit, and discussed approaches to organizing and analyzing the growing dataset. Significant discussion focused on determining which pedons should be prioritized for laboratory analysis to support concept development work.
+
+## Fall Field Operations Status
+
+### Recent and Upcoming Schedule
+
+Week of October 13-17: 
+
+- No field work due to Common Table visit and scheduling conflicts 
+- Tuesday October 14: Common Table exhibit site visit completed
+- Wednesday October 22: Field sampling planned 
+- Friday October 24: Field sampling planned 
+- Season extension possible into early November depending on weather
+
+### Target Areas
+
+Anoka-Hennepin School District: 
+
+- No response yet to facilities coordinator email 
+- Represents significant gap in sand plain coverage 
+- May not materialize for fall 2025
+
+South St. Paul Residential: 
+
+- Minimal homeowner responses from initial outreach 
+- Area above river terrace remains undersampled 
+
+Parks Strategy: 
+
+- Continuing focus on public land for simpler access 
+- Proven successful for accumulating points 
+- Default when private property access challenging
+
+## Common Table State Fair Outreach Project
+
+### Site Visit Recap (October 14)
+
+Participants: Ava, Adam, Nora, Kellen met with Rosie Russell at State Fairgrounds. Current display established in 2014 with large-scale agriculture focus. Significant opportunity identified for urban soil content addition.
+
+### Proposed Improvements
+
+Poster Content (Ava leading): 
+
+- Lead contamination in urban soils information 
+- Composting best practices for urban settings 
+- Soil testing resources and laboratory locations 
+- Accessible language for non-technical audiences 
+- Nora providing lead contamination expertise
+
+Physical Display: 
+
+- Shift emphasis toward urban agriculture applications 
+- Incorporate urban soil mapping project findings 
+- Visual materials showing soil diversity in Twin Cities 
+- Interactive elements engaging fair visitors
+
+Timeline: Content development fall/winter 2025-2026, physical display changes before 2026 State Fair (late August).
+
+## Data Entry and Documentation Progress
+
+### Current Status
+
+Brianna's Update: 
+
+- Steady progress, approximately through Site 140s 
+- Coordinate verification and correction ongoing 
+- Photo organization and linking continuing
+
+Resolved Backlogs: 
+
+- Late September transition period sites largely complete 
+- Bailey's sites (123-129) photos matched to site numbers 
+- Patty's sites (130-135) documentation complete 
+- Adam's Site 118 coordinate issue resolved
+
+### Workflow Improvements
+
+-   Decimal degrees format standardized
+-   Dual-source photo approach (Drive and Survey123) working well
+-   Kasia's backtracking effort identified systematic gaps
+-   Regular communication resolving ambiguities quickly
+
+## Sample Processing and Laboratory Operations
+
+### Current Laboratory Status
+
+Ava's Update: 
+
+- Sample organization by sequential numbering (150-200 per bin) proceeding 
+- Only processed samples being organized into numbered bins 
+- Drying oven capacity limiting throughput 
+- Artifact documentation continuing for research purposes
+
+### Priority Sample Selection Discussion
+
+Key Question: Which pedons to analyze first for concept development?
+
+Options Discussed:
+
+Option 1 - Systematic by Concept: 
+
+- Representative pedons from each major concept 
+- Ensure geographic diversity 
+- Comprehensive but large sample numbers
+
+Option 2 - Priority Concepts First: 
+
+- Focus on concepts with most observations 
+- HTM over silty (28 samples) highest priority 
+- All-HTM category (48 samples) needing subdivision 
+- Addresses immediate analytical needs
+
+Option 3 - Geographic Clustering: 
+
+- Target undersampled or uncertain areas 
+- Efficient field validation 
+- May not support statistical analysis
+
+Constraints: - Laboratory capacity (Ava's time, equipment) 
+
+- Analysis costs if outsourcing needed 
+- Timeline pressure for concept development
+
+Decision: Adam and Kasia to meet Wednesday to develop selection criteria. Start with 20-30 pedons across top concepts, expand based on initial results.
+
+## Concept Development Strategy
+
+### Geographic Visualization Priority
+
+Adam's Mapping Initiative: 
+
+- Creating ArcGIS Online shared layer for collaborative access 
+- Importing pedon locations with concept assignments 
+- Overlay with existing Web Soil Survey map units 
+- Visual pattern recognition to guide concept refinement
+
+Expected Outcomes: 
+
+- Reveal spatial patterns invisible in spreadsheets 
+- Identify areas needing additional sampling 
+- Support crosswalk between concepts and existing series
+
+### Crosswalk Development
+
+Existing Series Inventory Needed: 
+
+- Comprehensive list of series currently mapped in AOI 
+- Pull from Web Soil Survey spatial data 
+- Create master series list for seven-county metro area
+
+Mapping Logic: 
+
+- Which existing series fit into each new broader concept? 
+- Patty's partial crosswalk provides starting point (6 series per concept) 
+- Requires expansion for comprehensive coverage
+
+### HTM Concept Subdivision
+
+All-HTM Category (48 pedons) Breakdown:
+
+Particle Size Separation: 
+
+- Loamy fill vs. sandy fill as primary split 
+- Laboratory particle size analysis critical 
+- Field texture estimates need verification
+
+Artifact Content: 
+
+- High artifact vs. low artifact distinction 
+- Threshold definition needed 
+- Reference existing urban survey precedents
+
+Natural Soil Phases Approach: 
+
+- Human-altered phases of existing series (e.g., Waukegan HTM cap phase) 
+- Range of HTM thickness (20-30 cm suggested) 
+- Combined fill/truncation phase as single concept
+
+Component Addition Strategy: 
+
+- Reduce primary component percentage (90% to 80%) 
+- Add 5-10% human-altered phase 
+- Preserve existing boundaries where valid
+
+Outer Ring Suburbs: 
+
+- Well-mapped areas now developed 
+- Phase approach allows update without full remapping 
+- Construction era patterns affect soil alteration type
+
+## Action Items by Person
+
+### Ava
+
+-   Continue sample processing prioritizing concept development needs
+-   Coordinate with Adam and Kasia on pedon analysis priorities
+-   Lead Common Table content development
+-   Compile lead contamination and urban soil resources
+
+### Adam
+
+-   Meet with Kasia Wednesday for concept selection spreadsheet
+-   Continue field scheduling and coordination
+-   Follow up on Anoka-Hennepin School District access
+-   Create ArcGIS Online shared layer with pedon locations
+-   Pull comprehensive series list from Web Soil Survey
+
+### Kasia
+
+-   Meet with Adam Wednesday for analytical framework planning
+-   Continue data quality checking
+-   Support priority pedon selection process
+-   Assist with field sampling as scheduled
+
+### Brianna
+
+-   Continue systematic pedon entry through remaining sites
+-   Coordinate with Kasia on missing documentation
+-   Maintain tracking spreadsheet updates
+
+### Nora
+
+-   Post meeting minutes to project documentation
+-   Provide lead contamination resources to Ava
+-   Support Common Table project as needed
+
+### Team
+
+-   Wednesday October 22: Field sampling (weather permitting)
+-   Friday October 24: Field sampling (weather permitting)
+-   Ongoing: Common Table content development and concept development work
