@@ -4393,5 +4393,82 @@
       "Small Group Meetings",
       "<span class='chapter-number'>57</span>  <span class='chapter-title'>Group Check In 03NOV2025</span>"
     ]
+  },
+  {
+    "objectID": "minutes-17NOV2025-group.html",
+    "href": "minutes-17NOV2025-group.html",
+    "title": "58  Group Check In 17NOV2025",
+    "section": "",
+    "text": "58.1 Attendees",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>58</span>  <span class='chapter-title'>Group Check In 17NOV2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-17NOV2025-group.html#attendees",
+    "href": "minutes-17NOV2025-group.html#attendees",
+    "title": "58  Group Check In 17NOV2025",
+    "section": "",
+    "text": "Adam Devlin\nNora Pearson\nAva McCune\nKasia Ulanowski\nPatty Burns\nJoseph Brennan",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>58</span>  <span class='chapter-title'>Group Check In 17NOV2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-17NOV2025-group.html#project-updates",
+    "href": "minutes-17NOV2025-group.html#project-updates",
+    "title": "58  Group Check In 17NOV2025",
+    "section": "58.2 1. Project Updates",
+    "text": "58.2 1. Project Updates\n\n58.2.1 1.1 Pet-on Sample Review (Adam Devlin)\nAdam provided updates on reviewing 2024 pet-on samples. He identified high-priority samples showing consistent patterns from the 2024 collection, which have been sieved and processed. These priority samples are now ready for lab analysis.\n\n\n58.2.2 1.2 Laboratory Analysis (Ava McCune)\nThe lab has begun analyzing the high-priority pet-on samples selected by Adam from 2024. Progress is being made on various lab analyses for samples showing consistent patterns. Work is proceeding as planned.\n\n\n58.2.3 1.3 Homeowner Reports (Kasia Ulanowski, Nora Pearson)\nA new report template has been developed for providing data to homeowners who participated in the 2024 and 2025 sampling. In exchange for allowing sampling at their properties, homeowners will receive a report containing soil data and brief descriptions of their soil characteristics, including HTM thickness, A horizon details, and lab results.\nKasia is expanding the reports beyond the initial two-page format to include contextual information, particularly regarding soil lead levels, to prevent unnecessary concern. The reports will include short descriptions of geomorphic concepts relevant to each site and all university test results. The goal is to complete these reports by the end of November, with a follow-up to be sent to university personnel once finished.\n\n\n58.2.4 1.4 Covariate Development and DEM Processing (Nora Pearson)\nNora is working on assembling covariates for lead analysis and raster mapping. Current focus is on DEM processing. Most covariates for the lead study and raster mapping have been compiled.\nBree continues work on data entry, though progress has slowed due to increased school commitments this semester. Data entry work is ongoing but at a reduced pace.",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>58</span>  <span class='chapter-title'>Group Check In 17NOV2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-17NOV2025-group.html#data-resources-discussion-parcel-data-and-building-age-information",
+    "href": "minutes-17NOV2025-group.html#data-resources-discussion-parcel-data-and-building-age-information",
+    "title": "58  Group Check In 17NOV2025",
+    "section": "58.3 2. Data Resources Discussion: Parcel Data and Building Age Information",
+    "text": "58.3 2. Data Resources Discussion: Parcel Data and Building Age Information\nAdam discovered a Metropolitan Council dataset containing parcel-by-parcel data for the seven-county area, including information on when improvements or houses were built. This vector-based dataset provides property-level resolution.\nNora currently uses building age data from the American Community Survey (census-based) organized by census blocks at 10-meter resolution, representing mean age per block. She expressed interest in evaluating Adam’s Met Council dataset as it may offer higher resolution.\nThe group discussed that while the Met Council data shows the most recent construction date for each parcel, generalizing this data by neighborhoods or areas would be more useful for soil mapping purposes. Both agreed that generalization to decades would be appropriate for their mapping needs.\nAdam will share the link to the Met Council dataset with Nora for evaluation.",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>58</span>  <span class='chapter-title'>Group Check In 17NOV2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-17NOV2025-group.html#database-and-data-entry-status",
+    "href": "minutes-17NOV2025-group.html#database-and-data-entry-status",
+    "title": "58  Group Check In 17NOV2025",
+    "section": "58.4 3. Database and Data Entry Status",
+    "text": "58.4 3. Database and Data Entry Status\n\n58.4.1 3.1 NASIS Database\nDiscussion covered the NASIS database status. Adam mentioned uncertainty about whether “landform” and “geomorphic component” fields are populated in the database. Patty confirmed these fields are populated, as they are critical for understanding soil-landscape relationships.\nPatty emphasized the importance of populating the “existing vegetation” field in NASIS, as it is required information. While it can be added later if missing, it should be included during initial data entry when possible.\n\n\n58.4.2 3.2 2025 Data Entry Timeline\nThe team discussed timelines for entering 2025 field data into the database. Patty requested that all 2025 pedon data be entered by the end of the year to allow winter analysis and work. This would represent significant improvement over the 2024 timeline.\nCurrently, there are 114 pedon from 2025 available for analysis. Patty noted that some pedons may not yet be entered as fieldwork sessions continued into fall, with a break between summer and fall seasons affecting workflow.\nNora committed to ensuring Bri knows about the year-end goal for 2025 data entry. The team acknowledged that if additional support is needed to meet this deadline, other team members can assist. While the year-end goal is preferred, the team recognized that extending into January would be acceptable if necessary.",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>58</span>  <span class='chapter-title'>Group Check In 17NOV2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-17NOV2025-group.html#upcoming-meetings",
+    "href": "minutes-17NOV2025-group.html#upcoming-meetings",
+    "title": "58  Group Check In 17NOV2025",
+    "section": "58.5 4. Upcoming Meetings",
+    "text": "58.5 4. Upcoming Meetings\n\nNext team check-in: December 1, 2025\nBi-monthly meeting with Randy: December 9, 2025 at 10:30 AM\n\nThe December 1st meeting will allow the team to align before the December 9th meeting with Randy. During the Randy meeting, the team will discuss project progress, scheduling needs, and deliverables, particularly since the planned field review did not occur.",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>58</span>  <span class='chapter-title'>Group Check In 17NOV2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-17NOV2025-group.html#action-items",
+    "href": "minutes-17NOV2025-group.html#action-items",
+    "title": "58  Group Check In 17NOV2025",
+    "section": "58.6 5. Action Items",
+    "text": "58.6 5. Action Items\n\nKasia: Complete homeowner reports by end of November; send follow-up to university personnel when finished\nAdam: Share Met Council parcel/building age dataset link with Nora\nAva: Ensure Bri is informed of year-end deadline for 2025 data entry; provide support if needed to meet deadline\nTeam: Prepare for December 9th meeting with Randy regarding project status and scheduling\nNora: Upload meeting minutes within 1-2 days\n\n\nNotes\n\nThe team acknowledged improved knowledge and preparedness compared to 2024, expressing optimism about meeting timelines despite challenges with coordinating schedules and workloads. Joe noted the team has been off for almost 2 months and is working to get back up to speed.\nNext Meeting: December 1, 2025",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>58</span>  <span class='chapter-title'>Group Check In 17NOV2025</span>"
+    ]
   }
 ]
