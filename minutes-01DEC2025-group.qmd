@@ -1,0 +1,162 @@
+# Group Check In 01DEC2025
+
+**Date: December 1, 2025**
+
+**Attendees:**
+
+-   Nora Pearson
+
+-   Ava McCune
+
+-   Brianna Hayward
+
+-   Nic Jelinski
+
+-   Adam Devlin
+
+-   Genevieve Saldibar
+
+-   Kasia Ulanowski
+
+-   Joe Brennan
+
+## Google Drive Storage Issue
+
+The Google Drive has reached capacity and all files are now view-only. Nic needs to contact the workplace administrator to request additional storage. As a temporary workaround, Ava will create copies of essential documents, particularly the sample progress tracking sheet, in her personal drive and share access with team members including Nic, Kasia, Adam, Katrina, Bri, and Gen.
+
+## World Soil Day Event
+
+Ava is coordinating a World Soil Day event at the Arboretum on Friday. The event will run from approximately 9:00 AM to 3:30 PM and will feature stations describing different soil phenomena. Kasia, Bri, and Kylie have confirmed attendance. Additional volunteers are needed.
+
+Brianna expressed interest in participating. Since she is currently in Florida and returns tomorrow night, Ava offered to send materials documentation and schedule a 15-minute Zoom meeting with her and Kylie to brief them on the activities and ensure everyone is aligned.
+
+## Lab Sample Processing Priorities
+
+Nic has requested that all surface samples from the urban soil survey project be designated as priority for processing. These samples will be shared with the LTER group for their soil data publication and an upcoming paper.
+
+Priority samples include surface horizons (first horizon, usually 0 to ≤ 15 cm) from both parks and houses across both 2024 and 2025 field seasons. These samples will be moved to the front of the processing queue.
+
+Adam agreed to review the tracking spreadsheet and highlight which samples qualify as surface samples to ensure proper prioritization.
+
+## USDA-NRCS Collaborator Meeting Presentation
+
+The team is preparing a slide deck presentation for a meeting with USDA-NRCS collaborator Randy Riddle scheduled for Tuesday, December 9. The presentation will guide conversation during the meeting. Key tasks and decisions include:
+
+Content Development: 
+
+- The presentation will feature a discussion of soil concepts that Adam and Kasia have been developing 
+- Discussion of traditional vector product development alongside Nora's raster product machine learning digital soil mapping work 
+- Team needs to pull relevant data from lab analyses 
+- Focus will be on artifact features in urban soils and different land uses
+
+Action Items for Presentation: 
+
+- Nora will create a shared slide deck for collaborative input 
+- Team members should add content as they see fit, though no pressure if they don't have additions 
+- Deadline pressures were acknowledged given the December 9 timeline
+
+## Pedon Data QC and Classification
+
+Adam provided an update on his quality control and classification work on pedon data:
+
+Current Progress: 
+
+- Reviewing approximately 20 pedons per week from 2024 and 2025 field seasons 
+- Using field knowledge and site visits to inform reassessments 
+- Assigning features and importance ratings to different soil characteristics 
+- Breaking out different concepts for soil mapping purposes
+
+Documentation System: 
+
+- Working in the PEDONQC notes sheet on Box Drive 
+- This was originally developed by Ryder and Randy for QC notes 
+- Sheet was previously on Google Drive but moved to Box due to storage issues 
+- Contains notes on priority pedons and anthropogenic features
+
+Classification Work: 
+
+- Adam is reclassifying 2025 pedons himself 
+- Adding detailed initialized notes for each pedon 
+- Notes will be used by Patty when entering data into NASIS 
+- Patty takes Survey123 data, reviews Adam's notes, makes corrections, then enters into NASIS
+
+Reference Documents: 
+
+- Multiple spreadsheets being used for tracking 
+- Survey123 note sheet contains questions, comments, and change logs from field team 
+- Adam's comments reference and clarify entries from the Survey123 sheet 
+- 2024 sheet includes a key explaining column meanings
+
+Collaboration Opportunity: 
+
+- Adam invited Gen to participate in this review work 
+- Noted that Gen's extensive field experience with the sites would be valuable 
+- Her knowledge of what soils actually look like in the field is crucial for concept development 
+- Having another set of eyes from someone who saw the sites improves quality
+
+## Soil Mapping and Concept Development
+
+Discussion of soil map creation and conceptual framework development:
+
+Map Development: 
+
+- Adam is working on a demo soil map 
+- Process involves integrating field observations with data analysis 
+- Map concepts based on what team members observed and felt in the field
+
+Conceptual Framework: 
+
+- Identifying distinct soil concepts across the urban landscape 
+- Considering anthropogenic features and their distribution patterns 
+- Developing classification criteria that reflect urban soil realities
+
+Team Collaboration: 
+
+- Nic emphasized the value of Gen's field knowledge for concept development 
+- Multiple people seeing the sites helps validate concepts 
+- Context of knowing other soils in the area is important for classification decisions 
+- Adam noted his field visits have been helpful for reassessment work
+
+Gen's Role: 
+
+- Will meet with Adam separately for 5-10 minute in-person session 
+- Adam will walk her through the spreadsheet system and QC process 
+- They'll discuss concept development with map open 
+- Gen's field experience crucial for ensuring map accuracy 
+- Adam noted the map wouldn't be as strong without Gen's input
+
+## Action Items Summary
+
+Ava: 
+
+- Create copy of sample progress sheet and share with team members 
+- Coordinate World Soil Day event volunteers 
+- Send materials documentation to Brianna 
+- Schedule Zoom meeting with Brianna and Kylie for event briefing
+
+Adam: 
+
+- Review sample tracking spreadsheet and highlight surface samples 
+- Continue pedon QC work (20 per week) 
+- Meet with Gen to explain spreadsheet system and concept development 
+- Continue developing demo soil map
+
+Nora: 
+
+- Create shared slide deck for Randy Riddle meeting presentation
+
+Nic: 
+
+- Contact workplace administrator for Google Drive storage expansion 
+- Clarify with Ava about World Soil Day as paid time versus volunteer work
+
+Genevieve: 
+
+- Meet with Adam for briefing on spreadsheet system 
+- Begin participating in pedon QC and concept development work 
+- Provide field observation input for map concepts
+
+Brianna: 
+
+- Review World Soil Day materials when received 
+- Attend Zoom briefing meeting with Ava and Kylie

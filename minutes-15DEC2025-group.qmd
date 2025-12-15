@@ -1,0 +1,48 @@
+# Group Check In 15DEC2025
+
+**December 15, 2025**
+
+## Attendees
+
+Present: Nora B Pearson, Ava McCune, Adam Devlin, Brianna Hayward, Kasia Ulanowski, Genevieve Saldibar
+
+## Lab Updates
+
+Ava McCune - No lab updates; things running smoothly
+
+## Surface Samples & PXRF Analysis
+
+-   Original estimate: March → Revised to May to avoid rushing
+-   pXRF is the last step in the workflow; samples won't be pulled just for XRF
+
+## Data Entry
+
+-   Bri esuming data entry tomorrow
+-   Will add columns to data sheets as discussed in Patty's email
+-   Nora offered assistance over break if needed
+
+## Mapping Progress
+
+Nora B Pearson 
+
+- Working on hydrological modifiers for DEM (encountering challenges)
+- Goal: Complete all covariates by mid-to-late January 
+- Plans to run models with Nic over January break for lead mapping 
+- Same structure will be used for raster mapping
+
+Adam Devlin 
+
+- No updates since bi-monthly meeting 
+- Plans to meet one-on-one with Joe this week
+
+Kasia Ulanowski 
+
+- Continuing lab work 
+- Entered some pedons 
+- Assisting where needed
+
+## Next Meetings
+
+-   December 29: Smaller meeting (many traveling); Nora will be available at 11:30 for Joe, Patty, or Nic
+-   January 12: Regular meeting
+-   January 26: Regular meeting
