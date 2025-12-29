@@ -4553,7 +4553,7 @@
     "href": "minutes-15DEC2025-group.html",
     "title": "60  Group Check In 15DEC2025",
     "section": "",
-    "text": "60.1 Attendees\nDecember 15, 2025\nPresent: Nora B Pearson, Ava McCune, Adam Devlin, Brianna Hayward, Kasia Ulanowski, Genevieve Saldibar",
+    "text": "60.1 Attendees\nDecember 15, 2025",
     "crumbs": [
       "Small Group Meetings",
       "<span class='chapter-number'>60</span>  <span class='chapter-title'>Group Check In 15DEC2025</span>"
@@ -4586,7 +4586,7 @@
     "href": "minutes-15DEC2025-group.html#data-entry",
     "title": "60  Group Check In 15DEC2025",
     "section": "60.4 Data Entry",
-    "text": "60.4 Data Entry\n\nBri esuming data entry tomorrow\nWill add columns to data sheets as discussed in Patty’s email\nNora offered assistance over break if needed",
+    "text": "60.4 Data Entry\n\nBri resuming data entry tomorrow\nWill add columns to data sheets as discussed in Patty’s email\nNora offered assistance over break if needed",
     "crumbs": [
       "Small Group Meetings",
       "<span class='chapter-number'>60</span>  <span class='chapter-title'>Group Check In 15DEC2025</span>"
@@ -4597,7 +4597,7 @@
     "href": "minutes-15DEC2025-group.html#mapping-progress",
     "title": "60  Group Check In 15DEC2025",
     "section": "60.5 Mapping Progress",
-    "text": "60.5 Mapping Progress\nNora B Pearson\n\nWorking on hydrological modifiers for DEM (encountering challenges)\nGoal: Complete all covariates by mid-to-late January\nPlans to run models with Nic over January break for lead mapping\nSame structure will be used for raster mapping\n\nAdam Devlin\n\nNo updates since bi-monthly meeting\nPlans to meet one-on-one with Joe this week\n\nKasia Ulanowski\n\nContinuing lab work\nEntered some pedons\nAssisting where needed",
+    "text": "60.5 Mapping Progress\nNora\n\nWorking on hydrological modifiers for DEM (encountering challenges)\nGoal: Complete all covariates by mid-to-late January\nPlans to run models with Nic over January break for lead mapping\nSame structure will be used for raster mapping\n\nAdam\n\nNo updates since bi-monthly meeting\nPlans to meet one-on-one with Joe this week\n\nKasia\n\nContinuing lab work\nEntered some pedons\nAssisting where needed",
     "crumbs": [
       "Small Group Meetings",
       "<span class='chapter-number'>60</span>  <span class='chapter-title'>Group Check In 15DEC2025</span>"
@@ -4612,6 +4612,83 @@
     "crumbs": [
       "Small Group Meetings",
       "<span class='chapter-number'>60</span>  <span class='chapter-title'>Group Check In 15DEC2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-15DEC2025-group.html#attendees",
+    "href": "minutes-15DEC2025-group.html#attendees",
+    "title": "60  Group Check In 15DEC2025",
+    "section": "",
+    "text": "Nora B Pearson\nAva McCune\nAdam Devlin\nBrianna Hayward\nKasia Ulanowski\nGenevieve Saldibar",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>60</span>  <span class='chapter-title'>Group Check In 15DEC2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-29DEC2025-group.html",
+    "href": "minutes-29DEC2025-group.html",
+    "title": "61  Group Check In 29DEC2025",
+    "section": "",
+    "text": "61.1 Data Entry Updates (Brianna)\nDate: December 29, 2025\nAttendees:\nNote: Lower attendance due to holiday travel\nBrianna reported progress on data entry for Survey123 submissions. Recent scan sheets starting around pedon 143 contain decimal degree coordinates instead of the required DMS format. She can convert these manually using the GIS page, though it is time-consuming. Patty confirmed this conversion can wait while she investigates whether NASIS can handle the conversion automatically during upload.\nMissing Submissions: - Survey123 submissions missing for pedons 163 and 166 - Adam confirmed these are likely from the Pig’s Eye site - Kellen may have the media but submissions may need to be recreated on-site - Brianna will message the Discord channel\nData Entry Progress: - 2025 pedons taking approximately one hour each to enter - Significantly faster than 2024 submissions - Brianna has about 13 more pedons before reaching those with decimal degree coordinates",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>61</span>  <span class='chapter-title'>Group Check In 29DEC2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-29DEC2025-group.html#nasis-upload-progress-patty",
+    "href": "minutes-29DEC2025-group.html#nasis-upload-progress-patty",
+    "title": "61  Group Check In 29DEC2025",
+    "section": "61.2 NASIS Upload Progress (Patty)",
+    "text": "61.2 NASIS Upload Progress (Patty)\nPatty has approximately 30 remaining 2024 pedons to complete data entry, expecting completion within a couple of days. Once data entry is finished, she will begin uploading to NASIS. This process should be faster than last year due to troubleshooting completed in 2024.\nWorkflow Coordination: - Nora needs to export Survey123 entries to .xlsx before NASIS upload - Some pedons still missing from spreadsheet (last 30 not yet entered) - Patty will coordinate with Nora once data entry is complete",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>61</span>  <span class='chapter-title'>Group Check In 29DEC2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-29DEC2025-group.html#raster-mapping-and-covariate-processing-nora",
+    "href": "minutes-29DEC2025-group.html#raster-mapping-and-covariate-processing-nora",
+    "title": "61  Group Check In 29DEC2025",
+    "section": "61.3 Raster Mapping and Covariate Processing (Nora)",
+    "text": "61.3 Raster Mapping and Covariate Processing (Nora)\nNora continues working on covariate processing for raster mapping. Most processing is complete except for Digital Elevation Model (DEM) analysis, which has proven challenging to implement via Python rather than traditional GIS software.\nCurrent Status: - DEM processing in progress (would have been faster in ArcGIS/QGIS but less reproducible) - Traffic data still pending but primarily relevant for lead prediction modeling (master’s thesis), not raster mapping - Overall project in good position for next steps\nModeling Timeline: - Plans to run initial models with Nic in January (early semester) - Lead mapping models will be developed first - Same structure will be applied to raster mapping for the broader project - Significant progress expected over the next couple of months",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>61</span>  <span class='chapter-title'>Group Check In 29DEC2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-29DEC2025-group.html#map-unit-guide-key-development-adam",
+    "href": "minutes-29DEC2025-group.html#map-unit-guide-key-development-adam",
+    "title": "61  Group Check In 29DEC2025",
+    "section": "61.4 Map Unit Guide Key Development (Adam)",
+    "text": "61.4 Map Unit Guide Key Development (Adam)\nAdam is developing a map unit identification key for classifying urban soils. The key uses a decision-tree format where users work through criteria sequentially.\nKey Features: - Works through basic properties to identify landscape segments - If criteria not met, users continue down the key - Similar methodology to traditional soil survey but adapted for urban contexts - Further sub-divisions will define different soil concepts\nNext Steps: - Randy will provide input during the January 12th meeting - Patty reviewed the first 8 pages and confirmed the approach aligns with standard soil survey methodology",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>61</span>  <span class='chapter-title'>Group Check In 29DEC2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-29DEC2025-group.html#upcoming-meetings-and-schedule",
+    "href": "minutes-29DEC2025-group.html#upcoming-meetings-and-schedule",
+    "title": "61  Group Check In 29DEC2025",
+    "section": "61.5 Upcoming Meetings and Schedule",
+    "text": "61.5 Upcoming Meetings and Schedule\nConfirmed Meetings: - January 12th: Bi-weekly meeting (Randy will join to provide input on Adam’s map unit key) - January 26th: Bi-weekly meeting - February 10th: Bi-monthly meeting with Randy\nSpring Semester Coordination: - Spring classes begin Tuesday, January 20th - Current meeting time: Mondays at 11:30 AM Central - Brianna confirmed this time works for her schedule - Team will verify with Gen, Mes, and Kylie at the January 12th meeting or via Discord - If no conflicts, bi-weekly Monday meetings will continue throughout spring semester",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>61</span>  <span class='chapter-title'>Group Check In 29DEC2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-29DEC2025-group.html#action-items",
+    "href": "minutes-29DEC2025-group.html#action-items",
+    "title": "61  Group Check In 29DEC2025",
+    "section": "61.6 Action Items",
+    "text": "61.6 Action Items\nBrianna: - Continue data entry for remaining pedons before #143 - Post message in Discord about missing Survey123 submissions (163, 166) - Tag Kellen in Discord regarding missing Pig’s Eye submissions - Convert decimal degree coordinates to DMS format as needed during entry\nPatty: - Complete final 30 pedons from 2024 (estimated few days) - Investigate NASIS coordinate conversion capabilities - Begin NASIS upload process once data entry complete - Reach out to Randy regarding January 12th meeting availability\nNora: - Complete DEM processing work - Coordinate spreadsheet transfer step with Patty before NASIS upload - Set calendar reminder to check spring semester meeting time conflicts - Continue work on covariate processing\nAdam: - Continue developing map unit guide key - Prepare to present and discuss key with Randy on January 12th",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>61</span>  <span class='chapter-title'>Group Check In 29DEC2025</span>"
     ]
   }
 ]

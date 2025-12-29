@@ -1,0 +1,118 @@
+# Group Check In 29DEC2025
+
+**Date: December 29, 2025**
+
+**Attendees:** 
+
+- Nora B Pearson
+
+- Brianna Hayward
+
+- Patty Burns
+
+- Adam Devlin  
+
+**Note:** Lower attendance due to holiday travel
+
+---
+
+## **Data Entry Updates (Brianna)**
+
+Brianna reported progress on data entry for Survey123 submissions. Recent scan sheets starting around pedon 143 contain decimal degree coordinates instead of the required DMS format. She can convert these manually using the GIS page, though it is time-consuming. Patty confirmed this conversion can wait while she investigates whether NASIS can handle the conversion automatically during upload.
+
+**Missing Submissions:**
+- Survey123 submissions missing for pedons 163 and 166
+- Adam confirmed these are likely from the Pig's Eye site
+- Kellen may have the media but submissions may need to be recreated on-site
+- Brianna will message the Discord channel
+
+**Data Entry Progress:**
+- 2025 pedons taking approximately one hour each to enter
+- Significantly faster than 2024 submissions
+- Brianna has about 13 more pedons before reaching those with decimal degree coordinates
+
+---
+
+## **NASIS Upload Progress (Patty)**
+
+Patty has approximately 30 remaining 2024 pedons to complete data entry, expecting completion within a couple of days. Once data entry is finished, she will begin uploading to NASIS. This process should be faster than last year due to troubleshooting completed in 2024.
+
+**Workflow Coordination:**
+- Nora needs to export Survey123 entries to .xlsx before NASIS upload
+- Some pedons still missing from spreadsheet (last 30 not yet entered)
+- Patty will coordinate with Nora once data entry is complete
+
+---
+
+## **Raster Mapping and Covariate Processing (Nora)**
+
+Nora continues working on covariate processing for raster mapping. Most processing is complete except for Digital Elevation Model (DEM) analysis, which has proven challenging to implement via Python rather than traditional GIS software.
+
+**Current Status:**
+- DEM processing in progress (would have been faster in ArcGIS/QGIS but less reproducible)
+- Traffic data still pending but primarily relevant for lead prediction modeling (master's thesis), not raster mapping
+- Overall project in good position for next steps
+
+**Modeling Timeline:**
+- Plans to run initial models with Nic in January (early semester)
+- Lead mapping models will be developed first
+- Same structure will be applied to raster mapping for the broader project
+- Significant progress expected over the next couple of months
+
+---
+
+## **Map Unit Guide Key Development (Adam)**
+
+Adam is developing a map unit identification key for classifying urban soils. The key uses a decision-tree format where users work through criteria sequentially.
+
+**Key Features:**
+- Works through basic properties to identify landscape segments
+- If criteria not met, users continue down the key
+- Similar methodology to traditional soil survey but adapted for urban contexts
+- Further sub-divisions will define different soil concepts
+
+**Next Steps:**
+- Randy will provide input during the January 12th meeting
+- Patty reviewed the first 8 pages and confirmed the approach aligns with standard soil survey methodology
+
+---
+
+## **Upcoming Meetings and Schedule**
+
+**Confirmed Meetings:**
+- January 12th: Bi-weekly meeting (Randy will join to provide input on Adam's map unit key)
+- January 26th: Bi-weekly meeting
+- February 10th: Bi-monthly meeting with Randy
+
+**Spring Semester Coordination:**
+- Spring classes begin Tuesday, January 20th
+- Current meeting time: Mondays at 11:30 AM Central
+- Brianna confirmed this time works for her schedule
+- Team will verify with Gen, Mes, and Kylie at the January 12th meeting or via Discord
+- If no conflicts, bi-weekly Monday meetings will continue throughout spring semester
+
+---
+
+## **Action Items**
+
+**Brianna:**
+- Continue data entry for remaining pedons before #143
+- Post message in Discord about missing Survey123 submissions (163, 166)
+- Tag Kellen in Discord regarding missing Pig's Eye submissions
+- Convert decimal degree coordinates to DMS format as needed during entry
+
+**Patty:**
+- Complete final 30 pedons from 2024 (estimated few days)
+- Investigate NASIS coordinate conversion capabilities
+- Begin NASIS upload process once data entry complete
+- Reach out to Randy regarding January 12th meeting availability
+
+**Nora:**
+- Complete DEM processing work
+- Coordinate spreadsheet transfer step with Patty before NASIS upload
+- Set calendar reminder to check spring semester meeting time conflicts
+- Continue work on covariate processing
+
+**Adam:**
+- Continue developing map unit guide key
+- Prepare to present and discuss key with Randy on January 12th

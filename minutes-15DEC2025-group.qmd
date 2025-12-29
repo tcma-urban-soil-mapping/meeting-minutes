@@ -4,7 +4,17 @@
 
 ## Attendees
 
-Present: Nora B Pearson, Ava McCune, Adam Devlin, Brianna Hayward, Kasia Ulanowski, Genevieve Saldibar
+- Nora B Pearson
+
+- Ava McCune
+
+- Adam Devlin
+
+- Brianna Hayward
+
+- Kasia Ulanowski
+
+- Genevieve Saldibar
 
 ## Lab Updates
 
@@ -17,29 +27,29 @@ Ava McCune - No lab updates; things running smoothly
 
 ## Data Entry
 
--   Bri esuming data entry tomorrow
+-   Bri resuming data entry tomorrow
 -   Will add columns to data sheets as discussed in Patty's email
 -   Nora offered assistance over break if needed
 
 ## Mapping Progress
 
-Nora B Pearson 
+Nora
 
-- Working on hydrological modifiers for DEM (encountering challenges)
-- Goal: Complete all covariates by mid-to-late January 
-- Plans to run models with Nic over January break for lead mapping 
-- Same structure will be used for raster mapping
+-   Working on hydrological modifiers for DEM (encountering challenges)
+-   Goal: Complete all covariates by mid-to-late January
+-   Plans to run models with Nic over January break for lead mapping
+-   Same structure will be used for raster mapping
 
-Adam Devlin 
+Adam
 
-- No updates since bi-monthly meeting 
-- Plans to meet one-on-one with Joe this week
+-   No updates since bi-monthly meeting
+-   Plans to meet one-on-one with Joe this week
 
-Kasia Ulanowski 
+Kasia
 
-- Continuing lab work 
-- Entered some pedons 
-- Assisting where needed
+-   Continuing lab work
+-   Entered some pedons
+-   Assisting where needed
 
 ## Next Meetings
 
