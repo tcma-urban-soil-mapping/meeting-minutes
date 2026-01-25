@@ -1,52 +1,68 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "TMCA Urban Soil Mapping Meeting Minutes",
+    "objectID": "minutes-12JAN2026-group.html",
+    "href": "minutes-12JAN2026-group.html",
+    "title": "62  Group Check In 12JAN2026",
     "section": "",
-    "text": "Preface\nThis quarto book documents the minutes for meetings within Implementing an Urban Soil Survey Framework in Minnesota - USDA-NRCS Award #NR236322XXXXC008. This is a living, growing document intended to provide rich, accessible, and transparent documentation of project updates. It will be continuously updated through the life of the project and will be assigned a persistent doi at the end of the project to provide long-term archiving and availability.",
+    "text": "62.1 Attendees\nDate: January 12, 2026",
     "crumbs": [
-      "Preface"
+      "Small Group Meetings",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Group Check In 12JAN2026</span>"
     ]
   },
   {
-    "objectID": "index.html#project-description",
-    "href": "index.html#project-description",
-    "title": "TMCA Urban Soil Mapping Meeting Minutes",
-    "section": "Project Description",
-    "text": "Project Description\n[From Project Proposal] The purpose of this agreement, between the U.S. Department of Agriculture, Natural Resources Conservation Service (NRCS) and University of Minnesota (Recipient), is to harness existing collective resources, including non-NRCS research, data, specific expertise, and analytical capacity of soils in urban environments to complete a soil survey update. With much of the US population living in Urbanized Areas (UAs), there is a need for improved understanding of soil suitability’s, and limitations in these environments. Soil characterization information is needed in these areas as the resources are intensively managed, while current legacy soil survey products are largely out-of-date and provide limited use. Additionally, this agreement will promote the understanding the dynamic nature of soil properties in urban environments and expanding the use of new tools in support of urban agriculture.",
+    "objectID": "minutes-12JAN2026-group.html#attendees",
+    "href": "minutes-12JAN2026-group.html#attendees",
+    "title": "62  Group Check In 12JAN2026",
+    "section": "",
+    "text": "Adam Devlin\nPatty Burns\nBrianna Hayward\nGenevieve Saldibar\nAva McCune",
     "crumbs": [
-      "Preface"
+      "Small Group Meetings",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Group Check In 12JAN2026</span>"
     ]
   },
   {
-    "objectID": "index.html#structure",
-    "href": "index.html#structure",
-    "title": "TMCA Urban Soil Mapping Meeting Minutes",
-    "section": "Structure",
-    "text": "Structure\nThis document contains meeting minutes created by Claude.AI using the transcripts from Zoom meetings. It is broken into two parts:\n\nProject Wide Meetings\nSmall Group Meetings\n\nThe meeting minutes from Project Wide Meetings are also posted in the Project Metadata e-book, but will be included here for completeness.",
+    "objectID": "minutes-12JAN2026-group.html#fieldwork-planning-updates-adam-devlin",
+    "href": "minutes-12JAN2026-group.html#fieldwork-planning-updates-adam-devlin",
+    "title": "62  Group Check In 12JAN2026",
+    "section": "62.2 Fieldwork Planning Updates (Adam Devlin)",
+    "text": "62.2 Fieldwork Planning Updates (Adam Devlin)\n\n62.2.1 School District Partnerships\n\nLakeville Area Schools: Overlaps with old till physiographic unit, currently on board\nOrono Schools: Located near Lake Minnetonka with one large campus, has expressed interest in partnership including educational component\nMaplewood/Oakdale/North St. Paul School District: Covers East St. Paul Metro area including Washington County on east side of metro where coverage has been limited. Meeting scheduled to discuss project details. District has undergone recent renovations and rebuilding, providing fresh grounds for soil development perspective\n\n\n\n62.2.2 Summer Fieldwork Preparation\n\nMeeting planned with Nic to discuss fieldwork logistics and availability\nTeam availability confirmation requested for summer fieldwork planning\nBrianna: Interested in participating, will discuss position with Nic, likely focusing on data entry while helping with fieldwork a couple times per week\nGenevieve: Will be around in some capacity but summer schedule uncertain\nAva: Summer plans undetermined\nPatty: NRCS can provide helpers on days when team is short-staffed\nUndergraduate help expected, potentially including returning staff from previous season and Julia\n\n\n\n62.2.3 Pre-Season Training Initiatives\n\nClassroom session planned to review description sheets and ensure consistent methodology across team\nTexture calibration session using samples covering full spectrum (Ava has materials prepared)\nPractice field days to ease into fieldwork, avoiding previous issue where field review days threw new team members into complex situations\nGoal is dedicated practice time in field before intensive work begins\n\n\n\n62.2.4 Bulk Density Sampling\n\nPlan to incorporate more bulk density sampling this season\nMay not be conducted at every site but will gather important data where feasible",
     "crumbs": [
-      "Preface"
+      "Small Group Meetings",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Group Check In 12JAN2026</span>"
     ]
   },
   {
-    "objectID": "index.html#key-personnel",
-    "href": "index.html#key-personnel",
-    "title": "TMCA Urban Soil Mapping Meeting Minutes",
-    "section": "Key Personnel",
-    "text": "Key Personnel\n\nNic Jelinski; Associate Professor, University of Minnesota (PI)\nJoe Brennan; State Soil Scientist, NRCS\nNora Pearson; M.S. Student, University of Minnesota\nDan Wing; Senior Regional Soil Scientist, NRCS\nRandy Riddle; Senior Soil Scientist for Urban Soil Survey, NRCS\nFrancine Lheritier; Natural Resource Soil Scientist, NRCS\nShaunna Repking; Soil Scientist, NRCS\nPatty Burns; Soil Specialist, NRCS Contractor",
+    "objectID": "minutes-12JAN2026-group.html#data-entry-and-analysis-progress",
+    "href": "minutes-12JAN2026-group.html#data-entry-and-analysis-progress",
+    "title": "62  Group Check In 12JAN2026",
+    "section": "62.3 Data Entry and Analysis Progress",
+    "text": "62.3 Data Entry and Analysis Progress\n\n62.3.1 Overview\n\nTeam working through 2024 and 2025 pedons with various classification and analysis tasks\nDiscussion of methodological approaches and need for systematic documentation\n\n\n\n62.3.2 Particle Size Classification (Genevieve)\n\nContinuing work on general particle size class classification for soil taxonomy at family level\nWill maintain current focus on this task\n\n\n\n62.3.3 Particle Size Classification (Brianna)\n\nWorking on particle size classification\nTracking thicknesses used in calculations on Google Sheets\nHas entered previous data and continues updating as work progresses\nMay take on additional HTM (human-transported material) specific particle size analysis after completing 2025 pedons\nWill use weighted averages or weighted texture values systematically\nWill follow up via email to clarify approach, which may vary depending on amount of HTM found\nFor pedons with 150 centimeters of HTM, detailed analysis may not be necessary as it would match family-level particle size class, though comprehensive coverage may still be valuable\n\n\n\n62.3.4 Anthrodensic Criteria (Adam and Patty)\n\nAdam currently reviewing each pedon for anthrodensic indicators, noting 2-3 pieces of evidence in pedon notes\nMaking recommendations for horizon changes (adding D designation where appropriate)\nWill create formal list of criteria used for calling something anthrodensic\nList will be added to Box document where key is located\nPatty reviewed Adam’s notes on 2024 pedons, will address comments and add notes to NASIS as needed\n\n\n\n62.3.5 Aquic Criteria\n\nAdam will develop better justification for wet criteria and evaluate potential changes\n\n\n\n62.3.6 HTM Classification Approach Discussion\n\nCurrent approach: Based on field descriptions and observations\nPatty noted some soils may be HTM in part but not fully meet criteria, raising question of how to classify partial HTM\nDiscussion of challenges around inconsistent documentation in older pedon descriptions where HTM features may not have been noted\nTeam discussed need for more scientific, systematic approach rather than averaging or estimating\nRecognition that some pedons may have been classified as non-HTM when they should have been HTM due to incomplete field observations",
     "crumbs": [
-      "Preface"
+      "Small Group Meetings",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Group Check In 12JAN2026</span>"
     ]
   },
   {
-    "objectID": "index.html#project-website",
-    "href": "index.html#project-website",
-    "title": "TMCA Urban Soil Mapping Meeting Minutes",
-    "section": "Project Website",
-    "text": "Project Website\nhttps://tcma-urban-soil-mapping.github.io/meeting-minutes/",
+    "objectID": "minutes-12JAN2026-group.html#data-entry-tracker-and-organization",
+    "href": "minutes-12JAN2026-group.html#data-entry-tracker-and-organization",
+    "title": "62  Group Check In 12JAN2026",
+    "section": "62.4 Data Entry Tracker and Organization",
+    "text": "62.4 Data Entry Tracker and Organization\n\n62.4.1 NASIS Data Entry Status\n\nGenevieve: Has 20 remaining pedons to enter, currently at 15 of 20\nBrianna: Working through final pedons but facing slow NASIS performance\nAdam: Working on entering and correlating 2024 data\n\n\n\n62.4.2 Correlation and Component Review\n\nAdam reviewing components, correlations, and DMU (delineation map unit) assignments\nChecking consistency and appropriateness of classifications\nWill reach out to individual team members with specific questions as issues arise",
     "crumbs": [
-      "Preface"
+      "Small Group Meetings",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Group Check In 12JAN2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-12JAN2026-group.html#action-items",
+    "href": "minutes-12JAN2026-group.html#action-items",
+    "title": "62  Group Check In 12JAN2026",
+    "section": "62.5 Action Items",
+    "text": "62.5 Action Items\n\nAdam: Schedule regular meeting with Nic regarding fieldwork planning\nAdam: Create formal list of anthrodensic criteria and add to Box document\nAdam: Develop better justification for aquic (wet) criteria\nAdam: Continue reviewing components, correlations, and DMU assignments\nAdam: Reach out to team members individually regarding specific classification questions\nBrianna: Follow up via email to clarify HTM particle size analysis approach\nBrianna: Consider taking on HTM-specific particle size work after completing 2025 pedons\nPatty: Review Adam’s 2024 pedon notes and add necessary notes to NASIS\nPatty: Compile list of NRCS helpers available for fieldwork support\nTeam: Confirm summer fieldwork availability as plans develop\nAll: Prepare for pre-season training sessions including classroom review and field practice days",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>Group Check In 12JAN2026</span>"
     ]
   },
   {
@@ -4560,6 +4576,17 @@
     ]
   },
   {
+    "objectID": "minutes-15DEC2025-group.html#attendees",
+    "href": "minutes-15DEC2025-group.html#attendees",
+    "title": "60  Group Check In 15DEC2025",
+    "section": "",
+    "text": "Nora B Pearson\nAva McCune\nAdam Devlin\nBrianna Hayward\nKasia Ulanowski\nGenevieve Saldibar",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>60</span>  <span class='chapter-title'>Group Check In 15DEC2025</span>"
+    ]
+  },
+  {
     "objectID": "minutes-15DEC2025-group.html#lab-updates",
     "href": "minutes-15DEC2025-group.html#lab-updates",
     "title": "60  Group Check In 15DEC2025",
@@ -4609,17 +4636,6 @@
     "title": "60  Group Check In 15DEC2025",
     "section": "60.6 Next Meetings",
     "text": "60.6 Next Meetings\n\nDecember 29: Smaller meeting (many traveling); Nora will be available at 11:30 for Joe, Patty, or Nic\nJanuary 12: Regular meeting\nJanuary 26: Regular meeting",
-    "crumbs": [
-      "Small Group Meetings",
-      "<span class='chapter-number'>60</span>  <span class='chapter-title'>Group Check In 15DEC2025</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-15DEC2025-group.html#attendees",
-    "href": "minutes-15DEC2025-group.html#attendees",
-    "title": "60  Group Check In 15DEC2025",
-    "section": "",
-    "text": "Nora B Pearson\nAva McCune\nAdam Devlin\nBrianna Hayward\nKasia Ulanowski\nGenevieve Saldibar",
     "crumbs": [
       "Small Group Meetings",
       "<span class='chapter-number'>60</span>  <span class='chapter-title'>Group Check In 15DEC2025</span>"
