@@ -1,0 +1,134 @@
+# Group Check In 26JAN2026
+
+**Date: January 26, 2026**
+
+## Attendees
+
+- Nora Pearson
+- Ava McCune
+- Brianna Hayward
+- Adam Devlin
+- Gen Saldibar
+- Mes Tat-Siaka
+
+## Lab Work Progress
+
+### Sample Sieving Status (Ava)
+- Only 400 samples remaining to sieve total
+- All priority samples have already been saved
+- Thanks to Mez and Kylie for working hard over break
+- Goal: Complete all priority samples by end of March
+
+### 2025 Pedon Data Entry (Brianna)
+- All 2025 pedons have been entered into system
+- Data is ready for export to Patty when needed
+- Nora will export additional pedons for Patty this week, but Patty has sufficient work currently
+
+## Classification and Analysis Work
+
+### Concept Key Editing (Adam)
+- Received feedback from Randy and Patty on current concept key, has not made edits yet
+- Continuing work on classifying 2025 pedons
+- Gen also working on pedon classification
+
+### Anthrodensic Features Analysis (Adam and Gen)
+- Identifying and documenting anthropic artifacts, anthrodensic features, and anthropic truncation in pedons
+- Need to develop better acronym or shorthand for these features
+- Randy provided feedback on mappability of these features
+- Work progressing slowly but steadily
+
+### Randy's Availability
+- Randy out of office until February 9th
+- Cannot be reached directly until next bimonthly meeting
+
+## Raster Mapping and Data Work (Nora)
+- Current work will eventually become the raster map for project
+- Progress ongoing with data processing
+- eBook broke during last update, unable to load previous meeting minutes on eBook platform
+- Reviewed action items from previous meeting via core file
+- No urgent action items identified from previous meeting
+
+## Residential Reports
+
+### Timeline and Resident Communications (Gen)
+- A few residents have sent follow-up emails about sending results
+- Gen managing expectations based on timeline provided during setup; no urgent pressure
+
+### Addresses for 2025 (Gen)
+- Gen ready to add more addresses to 2025 database when needed
+- Currently shifted focus to other tasks and will resume when processing done
+
+### Report Components and Template Development
+
+#### Lab Data Status (Ava)
+- Still working through priority samples, including most residential sites
+- Planning to discuss additional lab tests with Nic
+- Residential sites are prioritized in sample processing
+
+#### Report Structure and Templates (Adam and Team)
+- Report will include multiple components: lab data, soil formation narrative, parent material history, pXRF results for lead and arsenic
+- Lab data flowing in at varying pace
+- Draft residential reports in advance while waiting for complete lab data
+
+#### Template Content (Kasia, completed)
+- Good draft template already created by Kasia
+- Copy-paste paragraphs prepared for different parent materials:
+  - Glacial Till
+  - Outwash
+  - River system
+  - Anoka Sand Plain
+  - Lacustrine
+  - Old Till
+  - HTM (Human-Transported Material)
+- Paragraphs about lead values with conditional inclusion based on concentration ranges
+- Template designed for maximum copy-paste efficiency
+- Individual site customization will be minimal and quick
+- Unique features (such as buried surfaces) can be noted with couple of sentences
+
+#### Workflow Suggestion (Adam)
+- Team members looking for work can begin drafting residential reports now
+- Process can be done incrementally:
+  - Set up initial reports with site data
+  - Write about parent material history and formation
+  - Check pXRF sheets for concerning lead or arsenic values
+  - Add information about contaminants
+  - Store in draft folder
+  - Add lab data as it becomes available
+- Does not need to be completed in single session
+- Can be drafted and refined over time
+
+## pXRF Analysis and Priority Flagging (Adam)
+
+### pXRF Processing
+- Tracking lead and arsenic values from pXRF analysis
+- Created document in lab data folder under "pXRF exports" with Pb results
+- Document highlights sites with high lead and provides context
+
+### Sample Progress Tracking
+- Updated 2025 sample progress sheet with PXRF results
+- Marked samples as analyzed
+- Specified presence of high lead, high arsenic, or both
+
+### Priority Assessment
+- Evaluating concern level based on location context
+- Industrial sites with high values noted but lower priority. Residential sites with high topsoil lead or arsenic flagged as concerning
+- Added priority tags for samples with potentially high lead or arsenic
+- Team members working on residential reports can reference these tags to prioritize which reports to prepare first
+
+## Data Requests and Communications
+
+### Current Data Requests
+- Only requests received so far have been from Nora's friends and contacts
+- Requests are curiosity-based rather than urgent. Not being used to inform land management or gardening decisions for current season
+
+## Action Items
+
+- Adam: Edit concept key based on Randy and Patty feedback
+- Adam: Continue classifying 2025 pedons
+- Adam: Develop better shorthand/acronym for anthrodensic features
+- Gen: Continue pedon classification work
+- Gen: Add addresses to 2025 database when needed (awaiting notification)
+- Nora: Export additional pedons for Patty this week
+- Nora: Continue raster mapping data work
+- Team: Consider starting draft residential reports as capacity allows
+- Team: Reference pXRF priority flags when determining which residential reports to prioritize
