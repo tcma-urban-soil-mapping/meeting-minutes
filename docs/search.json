@@ -5020,5 +5020,192 @@
       "Small Group Meetings",
       "<span class='chapter-number'>65</span>  <span class='chapter-title'>Group Check In 23FEB2026</span>"
     ]
+  },
+  {
+    "objectID": "minutes-09MAR2026-group.html",
+    "href": "minutes-09MAR2026-group.html",
+    "title": "66  Group Check In 09MAR2026",
+    "section": "",
+    "text": "66.1 Attendees\nDate: March 9, 2026",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>66</span>  <span class='chapter-title'>Group Check In 09MAR2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-09MAR2026-group.html#attendees",
+    "href": "minutes-09MAR2026-group.html#attendees",
+    "title": "66  Group Check In 09MAR2026",
+    "section": "",
+    "text": "Nora Pearson\nAdam Devlin\nPatty Burns\nJoe Brennan\nMes Tat-Siaka",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>66</span>  <span class='chapter-title'>Group Check In 09MAR2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-09MAR2026-group.html#landscape-segmentation-and-mapping-approach",
+    "href": "minutes-09MAR2026-group.html#landscape-segmentation-and-mapping-approach",
+    "title": "66  Group Check In 09MAR2026",
+    "section": "66.2 Landscape Segmentation and Mapping Approach",
+    "text": "66.2 Landscape Segmentation and Mapping Approach\n\nNora, Adam, Joe, and Nic met last Tuesday to discuss mapping approach\nNora and Adam working together on this initiative\n\n\n66.2.1 SNIC Segmentation Model (Nora)\n\nFocus this week on running models using SNIC algorithm (Simple Non-Iterative Clustering)\nPurpose: Segment landscape into different polygons/chunks based on covariate similarities\nProcess involves:\n\nTesting which covariates to include in model\nAdjusting weighting of covariates\nExperimenting with parameters\n\nOnce landscape is successfully segmented, Adam will populate soil concepts into the segmented units\n\n\n\n66.2.2 Field Data Integration (Adam)\n\nIncorporating field-collected data into GIS models, not just background LiDAR and derivatives\nEnsuring thickness of HTM (human-transported material) and depth to aquic condition data are aligned with each field-described point",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>66</span>  <span class='chapter-title'>Group Check In 09MAR2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-09MAR2026-group.html#aquic-conditions-criteria",
+    "href": "minutes-09MAR2026-group.html#aquic-conditions-criteria",
+    "title": "66  Group Check In 09MAR2026",
+    "section": "66.3 Aquic Conditions Criteria",
+    "text": "66.3 Aquic Conditions Criteria\n\n66.3.1 Updated Definition\n\nAdam and Patty previously discussed recording depth of aquic conditions at first presence of depletions with chroma 2 or less\nNic and Adam had a conversation about defining aquic conditions as a metric for a seasonal high water table\nNew criteria proposed by Nic:\n\nChroma 2 or less\nWith 2% or more depletions\nOf at least distinct contrast\n\n\n\n\n66.3.2 Patty’s Response\n\nAgrees with new criteria\nThis is typically the model used for initial mapping\nNot certain about distinct contrast requirement specifically, but likes the approach\nPrefers this over profiles with only 1% few faint depletions\nHaving distinct or prominent requirement is beneficial\n\n\n\n66.3.3 Implementation\n\nAdam going back through pedons to record this information\nWill need to review all other pedons and verify they meet this criteria",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>66</span>  <span class='chapter-title'>Group Check In 09MAR2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-09MAR2026-group.html#data-source-for-gis-modeling",
+    "href": "minutes-09MAR2026-group.html#data-source-for-gis-modeling",
+    "title": "66  Group Check In 09MAR2026",
+    "section": "66.4 Data Source for GIS Modeling",
+    "text": "66.4 Data Source for GIS Modeling\n\n66.4.1 Aquic Conditions Data Source\n\nPatty asked where GIS model will pull aquic condition data from\nAdam confirmed data will come from spreadsheet\nWill line up with pedon IDs and coordinates and create CSV file for model input\n\n\n\n66.4.2 NASIS Access and SQL Queries\n\nAdam now has computer from federal government\nHopes to eventually have NASIS access\nWith NASIS access, could perform SQL queries with specific conditions to pull pedons\nWould be more efficient than spreadsheet approach\n\n\n\n66.4.3 NASIS Data Status\n\nCurrent status for 2025 pedons: 107 pedons uploaded to NASIS, 66 pedons remaining to be uploaded\nAll pedons must be in NASIS before SQL queries can be used\nPatty working on QC of uploaded pedons",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>66</span>  <span class='chapter-title'>Group Check In 09MAR2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-09MAR2026-group.html#pedon-upload-and-qc-progress",
+    "href": "minutes-09MAR2026-group.html#pedon-upload-and-qc-progress",
+    "title": "66  Group Check In 09MAR2026",
+    "section": "66.5 Pedon Upload and QC Progress",
+    "text": "66.5 Pedon Upload and QC Progress\n\n66.5.1 Recent Batch Processing\n\nNora provided second batch of approximately 60 pedons\nPatty worked on this batch last week, but ESRI made changes that prevented uploads initially. Scripts had to be rewritten to accommodate pedons\n\n\n\n66.5.2 Current Issues\n\n7 pedons from recent batch of 60 are problematic\nIssues primarily related to missing data in field sheets, like no percent volume recorded for artifacts\nMissing data causes upload to fail\n\n\n\n66.5.3 Patty’s Solutions\n\nEntering 1% for each artifact type to allow upload\nMaking notes in QC pedon notes about added data\nMay need to review pictures to assess actual volumes\n\n\n\n66.5.4 QC Progress\n\nOut of approximately 100 pedons uploaded, Patty has QC’d about 20\nSubstantial QC work still remaining\nOnce all data uploaded, can be used for modeling purposes\nWill verify different parameters look correct before using in models\n66 pedons still need to be exported by Nora (will complete this week)",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>66</span>  <span class='chapter-title'>Group Check In 09MAR2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-09MAR2026-group.html#administrative-items",
+    "href": "minutes-09MAR2026-group.html#administrative-items",
+    "title": "66  Group Check In 09MAR2026",
+    "section": "66.6 Administrative Items",
+    "text": "66.6 Administrative Items\n\nNora will be away March 18-28 for North Carolina Soil Judging National Contest\nDiscussion about making Adam or Patty alternate hosts for meetings; Nora will explore\nPrevious attempt to add Nic as host required completely new Zoom link and calendar invite, which was confusing\n\n\n66.6.1 Upcoming Meetings\n\nMarch 23rd: Next biweekly meeting (ideally with Adam as host)\nApril 14th: Next meeting with Randy\nBy April meeting, team expects to have much more to report about initial mapping work",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>66</span>  <span class='chapter-title'>Group Check In 09MAR2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-09MAR2026-group.html#action-items",
+    "href": "minutes-09MAR2026-group.html#action-items",
+    "title": "66  Group Check In 09MAR2026",
+    "section": "66.7 Action Items",
+    "text": "66.7 Action Items\n\nNora: Export remaining 66 pedons this week (Tuesday, Wednesday, or Thursday)\nNora: Explore Zoom host settings to add Adam and/or Patty as alternate hosts\nNora: Update ebook this week\nAdam: Continue reviewing all pedons to verify aquic conditions criteria\nAdam: Continue aligning HTM thickness and depth to aquic conditions data with field points\nPatty: Troubleshoot remaining 7 problematic pedons from recent batch\nPatty: Continue QC work on uploaded pedons\nPatty: Work through remaining uploads once Nora provides final batch",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>66</span>  <span class='chapter-title'>Group Check In 09MAR2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-23MAR2026-group.html",
+    "href": "minutes-23MAR2026-group.html",
+    "title": "67  Group Check In 23MAR2026",
+    "section": "",
+    "text": "67.1 Attendees\nDate: March 23, 2026",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Group Check In 23MAR2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-23MAR2026-group.html#attendees",
+    "href": "minutes-23MAR2026-group.html#attendees",
+    "title": "67  Group Check In 23MAR2026",
+    "section": "",
+    "text": "Adam Devlin\nBrianna Hayward\nAva McCune\nJoe Brennan\nSteph Hankerson",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Group Check In 23MAR2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-23MAR2026-group.html#field-reference-guide-brianna",
+    "href": "minutes-23MAR2026-group.html#field-reference-guide-brianna",
+    "title": "67  Group Check In 23MAR2026",
+    "section": "67.2 Field Reference Guide (Brianna)",
+    "text": "67.2 Field Reference Guide (Brianna)\n\n67.2.1 Development Progress\n\nWorking on field reference guide with solid rough draft completed\nMet with Adam to review classification details to include\nCovered what qualifies as surface mantle and buried soil\nGoal to have final draft completed by end of this week\nAdam’s feedback: first draft is a good abridged guide. It includes references to page numbers for commonly used information and will be useful for field day practice in May.",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Group Check In 23MAR2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-23MAR2026-group.html#may-field-day-and-summer-field-work-planning",
+    "href": "minutes-23MAR2026-group.html#may-field-day-and-summer-field-work-planning",
+    "title": "67  Group Check In 23MAR2026",
+    "section": "67.3 May Field Day and Summer Field Work Planning",
+    "text": "67.3 May Field Day and Summer Field Work Planning\n\n67.3.1 Timing and Schedule\n\nOriginally planned for May 15th, moved to May 14th due to Nora’s defense on May 15th\nMay shift to May 13th depending on staffing levels\nScheduled after exams end and before fieldwork starts\nTiming considerations: wanted to give students a few days after exams, but may need to start immediately\n\n\n\n67.3.2 Format and Components\n\nMorning session in classroom and afternoon field session\nPlan to visit Long Lake area, located on north side of metro in a park\nMorning activities: reviewing materials and texture calibration\nLearning bulk density sampling methods:\n\nBulk density coring methods\nCompliant cavity methods\n\nUnderstanding bulk density distributions and relationship to soil properties and functions\nGoal to map these properties on landscape\n\n\n\n67.3.3 Participants\n\nOpen to undergrads (new and returning)\nNRCS partners welcome, including: Stuart, Brandon, Kieran, and others! Joe will forward invite to NRCS participants\nSteph Hankerson interested in attending (will help describe work to community sites)\nSteph noted that week has a festival already, will check schedule\n\n\n\n67.3.4 Undergraduate Hiring\n\nNic wants to hire two more undergrads to assist in Urban Soil Survey fieldwork\nHiring timeline will affect field day scheduling\nHoping to have soil judgers available\n\n\n\n67.3.5 Hennepin County Grant Proposal\n\nGrant proposal submitted to Hennepin County for additional staffing\nPurpose: Collect bulk density and carbon samples\nGoal: Carbon stock modeling improvement for county climate models\nRefining data for Hennepin County to assist with meeting climate goals\nUnclear how this will integrate with current project (whether joint work or separate initiatives)",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Group Check In 23MAR2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-23MAR2026-group.html#lab-updates-ava",
+    "href": "minutes-23MAR2026-group.html#lab-updates-ava",
+    "title": "67  Group Check In 23MAR2026",
+    "section": "67.4 Lab Updates (Ava)",
+    "text": "67.4 Lab Updates (Ava)\n\nSample processing progressing well\nOver 600 samples run on pH analysis; similar progress across all other analyses",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Group Check In 23MAR2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-23MAR2026-group.html#community-outreach",
+    "href": "minutes-23MAR2026-group.html#community-outreach",
+    "title": "67  Group Check In 23MAR2026",
+    "section": "67.5 Community Outreach",
+    "text": "67.5 Community Outreach\n\n67.5.1 Steph Hankerson Introduction\n\nWorking with Jelinski Lab on outreach and community efforts\nFocus on St. Paul community, probably Minneapolis as well\nWork plan not yet delineated\nInvited by Nic to attend meetings\n\n\n\n67.5.2 Lab Support for Community Events\n\nAdam encouraged Steph to share information about events needing lab support\nCommunity outreach is big component of project goals\nGoals include getting soils information out to public (urban soils and soils basics)",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Group Check In 23MAR2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-23MAR2026-group.html#ramsey-county-fieldwork",
+    "href": "minutes-23MAR2026-group.html#ramsey-county-fieldwork",
+    "title": "67  Group Check In 23MAR2026",
+    "section": "67.6 Ramsey County Fieldwork",
+    "text": "67.6 Ramsey County Fieldwork\n\n67.6.1 Upcoming Work\n\nFieldwork scheduled for this Wednesday (March 26th)\nMeeting at 8:30 AM and planning to be out all day\nWill be partly a soil harvesting day (mixed activities)\nGood start to field season and opportunity to connect with soil health lab staff\nBrianna offered to help but not on original invitation list (Adam will investigate)",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Group Check In 23MAR2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-23MAR2026-group.html#site-selection-and-sampling-strategy",
+    "href": "minutes-23MAR2026-group.html#site-selection-and-sampling-strategy",
+    "title": "67  Group Check In 23MAR2026",
+    "section": "67.7 Site Selection and Sampling Strategy",
+    "text": "67.7 Site Selection and Sampling Strategy\n\n67.7.1 Focus on Wet Soils\n\nAdam selecting points with desire to find wet soils this year\nInterest in finding good redox features\nLooking for filled-in wetlands in neighborhoods\nTalking to long-time neighborhood residents for local knowledge\nJoe noted wet soils probably undersampled so far, especially in denser areas. Uncertainty whether due to chance, drainage, or other factors",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Group Check In 23MAR2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-23MAR2026-group.html#action-items",
+    "href": "minutes-23MAR2026-group.html#action-items",
+    "title": "67  Group Check In 23MAR2026",
+    "section": "67.8 Action Items",
+    "text": "67.8 Action Items\n\nBrianna: Complete final draft of field reference guide by end of week\nAdam: Send out when-to-meet survey to finalize field day date\nAdam: Investigate why Brianna not on Ramsey County field day invitation\nJoe: Wait for Adam to finalize field day date, then forward invite to NRCS participants\nSteph: Check schedule for potential attendance at May field day\nSteph: Share information about community events needing lab support",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>Group Check In 23MAR2026</span>"
+    ]
   }
 ]

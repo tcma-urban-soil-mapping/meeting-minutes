@@ -1,0 +1,112 @@
+# Group Check In 09MAR2026
+
+**Date: March 9, 2026**
+
+## Attendees
+- Nora Pearson
+- Adam Devlin
+- Patty Burns
+- Joe Brennan
+- Mes Tat-Siaka
+
+## Landscape Segmentation and Mapping Approach
+
+- Nora, Adam, Joe, and Nic met last Tuesday to discuss mapping approach
+- Nora and Adam working together on this initiative
+
+### SNIC Segmentation Model (Nora)
+- Focus this week on running models using SNIC algorithm (Simple Non-Iterative Clustering)
+- Purpose: Segment landscape into different polygons/chunks based on covariate similarities
+- Process involves:
+  - Testing which covariates to include in model
+  - Adjusting weighting of covariates
+  - Experimenting with parameters
+- Once landscape is successfully segmented, Adam will populate soil concepts into the segmented units
+
+### Field Data Integration (Adam)
+- Incorporating field-collected data into GIS models, not just background LiDAR and derivatives
+- Ensuring thickness of HTM (human-transported material) and depth to aquic condition data are aligned with each field-described point
+
+## Aquic Conditions Criteria
+
+### Updated Definition
+- Adam and Patty previously discussed recording depth of aquic conditions at first presence of depletions with chroma 2 or less
+- Nic and Adam had a conversation about defining aquic conditions as a metric for a seasonal high water table
+- New criteria proposed by Nic:
+  - Chroma 2 or less
+  - With 2% or more depletions
+  - Of at least distinct contrast
+
+### Patty's Response
+- Agrees with new criteria
+- This is typically the model used for initial mapping
+- Not certain about distinct contrast requirement specifically, but likes the approach
+- Prefers this over profiles with only 1% few faint depletions
+- Having distinct or prominent requirement is beneficial
+
+### Implementation
+- Adam going back through pedons to record this information
+- Will need to review all other pedons and verify they meet this criteria
+
+## Data Source for GIS Modeling
+
+### Aquic Conditions Data Source
+- Patty asked where GIS model will pull aquic condition data from
+- Adam confirmed data will come from spreadsheet
+- Will line up with pedon IDs and coordinates and create CSV file for model input
+
+### NASIS Access and SQL Queries
+- Adam now has computer from federal government
+- Hopes to eventually have NASIS access
+- With NASIS access, could perform SQL queries with specific conditions to pull pedons
+- Would be more efficient than spreadsheet approach
+
+### NASIS Data Status
+- Current status for 2025 pedons: 107 pedons uploaded to NASIS, 66 pedons remaining to be uploaded
+- All pedons must be in NASIS before SQL queries can be used
+- Patty working on QC of uploaded pedons
+
+## Pedon Upload and QC Progress
+
+### Recent Batch Processing
+- Nora provided second batch of approximately 60 pedons
+- Patty worked on this batch last week, but ESRI made changes that prevented uploads initially. Scripts had to be rewritten to accommodate pedons
+
+### Current Issues
+- 7 pedons from recent batch of 60 are problematic
+- Issues primarily related to missing data in field sheets, like no percent volume recorded for artifacts
+- Missing data causes upload to fail
+
+### Patty's Solutions
+- Entering 1% for each artifact type to allow upload
+- Making notes in QC pedon notes about added data
+- May need to review pictures to assess actual volumes
+
+### QC Progress
+- Out of approximately 100 pedons uploaded, Patty has QC'd about 20
+- Substantial QC work still remaining
+- Once all data uploaded, can be used for modeling purposes
+- Will verify different parameters look correct before using in models
+- 66 pedons still need to be exported by Nora (will complete this week)
+
+## Administrative Items
+
+- Nora will be away March 18-28 for North Carolina Soil Judging National Contest
+- Discussion about making Adam or Patty alternate hosts for meetings; Nora will explore
+- Previous attempt to add Nic as host required completely new Zoom link and calendar invite, which was confusing
+
+### Upcoming Meetings
+- March 23rd: Next biweekly meeting (ideally with Adam as host)
+- April 14th: Next meeting with Randy
+- By April meeting, team expects to have much more to report about initial mapping work
+
+## Action Items
+
+- Nora: Export remaining 66 pedons this week (Tuesday, Wednesday, or Thursday)
+- Nora: Explore Zoom host settings to add Adam and/or Patty as alternate hosts
+- Nora: Update ebook this week
+- Adam: Continue reviewing all pedons to verify aquic conditions criteria
+- Adam: Continue aligning HTM thickness and depth to aquic conditions data with field points
+- Patty: Troubleshoot remaining 7 problematic pedons from recent batch
+- Patty: Continue QC work on uploaded pedons
+- Patty: Work through remaining uploads once Nora provides final batch
