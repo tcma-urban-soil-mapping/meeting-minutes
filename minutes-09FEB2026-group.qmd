@@ -1,0 +1,107 @@
+# Group Check In 09FEB2026
+
+**Date: February 9, 2026**
+
+## Attendees
+- Randy Riddle
+- Nic Jelinski
+- Nora Pearson
+- Patty Burns
+
+## Taxonomy Documentation and Working Group Updates
+
+### Artesol Proposal and Related Documents
+- Currently on Version 47 of Artesol proposal documentation, labeled as "official" on Randy's group Box site
+- Version 36 previously available via Google search, but newer version should be accessed through Artesols Working Group folder (via Box)
+- Documentation is dynamic and currently being assembled, so not posted to UMN Box site or TCMA NRCS Box to avoid version confusion
+- Changes at this stage are refinements rather than major revisions
+
+### Epipedon Work (Separate from Artesol Proposal)
+- Epipedon work is essentially complete
+- Being handled through 14th Edition Working Group led by Andrew. Nic is also member
+- Documentation available on regular taxonomy SharePoint or Box site managed by Andrew's group
+- Will be integrated through the 14th edition group process
+
+### Working Group Structure
+- Two separate Box folders:
+  - Andrew's 14th Keys group (formerly 13th Edition Working Group) for general taxonomy work
+  - Randy's Artesol-specific working group
+- Epipedons handled through regular taxonomy committee, separate from both groups
+- Everything accessible on Box (not SharePoint)
+
+### Timeline and Next Steps
+- Artesol proposal will go to 14th Edition Working Group for comment
+- Funding for current work runs out in June
+- Nic will share documentation with Patty and Adam
+- Team reminded that Artesol documentation subject to change
+- Nic has access to working group folders and will share latest documentation with Patty and Adam
+- Patty does not currently have direct access to Randy's working group folder
+
+## Artifact and Anthropic Classification Criteria
+
+### High Artifacts Definition Discussion
+- Randy asked about artifact cutoff criteria being used for high artifacts determination
+- Team reviewed Adam's documented criteria (from key/documentation)
+- Currently, "Highly artifactual" includes:
+  - Anthropic epipedon
+  - Soils meeting criteria for HAHT (human-altered and transported) material class other than Spolic
+- Spolic material is "clean" material (15% threshold referenced)
+- Coding system: "ART" designation in Adam's code indicates highly artifactual
+
+### Questions About Spolic Classification
+- Discussion about Spolic material definition
+- Clean material classification mentioned
+- 15% threshold discussed but not fully resolved in this meeting
+
+### Particle Size Considerations
+- Randy raised question about particle size family placement when HTM present
+- Particle size typically calculated weighted by thickness for family-level classification
+- Different approaches needed for series-level mapping
+- Question of where to "draw the line" between HTM and natural material
+- Adam has been working on these calculations and documentation
+
+### Anthrodensic Features
+- Randy questioned mappability of anthrodensic features
+- Raised good questions about how these features can be mapped in practice
+- Discussion to continue in next meeting with full team
+
+## GIS and Raster Modeling Work
+
+### Lead Prediction Modeling (Nora)
+- Working on covariates for lead prediction models. This will be supplemental information for soil survey
+- Same covariates and modeling approach will eventually be used for raster soil survey work
+- Progress represents preparatory work for main raster mapping effort
+
+### GIS Collaboration
+- Adam and Joe have been meeting and working together on GIS aspects
+- Suggestion to form GIS subgroup so those not involved don't need to attend technical discussions
+
+### Next Steps for GIS Work
+- Nora will discuss with Joe in tomorrow's meeting
+- May form subgroup for GIS/modeling discussions
+- Joe to bring Nora up to speed on work done with Adam
+- Small group may coordinate on covariate needs and modeling approach
+
+## Key Development Work
+
+### Concept Key Editing (Adam - not present but discussed)
+- Adam working on editing concept key based on Randy and Patty feedback
+- Also working on classifications. Progress on key development ongoing
+
+## Administrative Notes
+
+### Topics for Tomorrow's Full Team Meeting
+- Discuss concept key in detail with full group
+- Address anthrodensic feature mappability questions
+- Follow up on particle size classification approach
+- Discuss GIS/modeling progress if time permits
+- Review any additional questions from Randy's review of documentation
+
+## Action Items
+
+- Nic: Share latest Artesol proposal documentation (Version 47) with Patty and Adam
+- Nora: Discuss GIS covariate work and modeling status with Joe at tomorrow's meeting
+- Nora: Propose GIS subgroup formation for technical discussions
+- Joe: Brief Nora on GIS work completed with Adam
+- Team: Review Randy's questions about artifact criteria, anthrodensic features, and particle size calculations before tomorrow's meeting
+- Team: Prepare to discuss concept key with full group tomorrow
