@@ -1,0 +1,147 @@
+# Group Check In 06APR2026
+
+**Date: April 6, 2026**
+
+## Attendees
+
+-   Nora Pearson
+-   Patty Burns
+-   Joe Brennan
+-   Adam Devlin
+-   Ava McCune
+
+## Field Sheet Updates for 2026 (Patty)
+
+-   Met with Adam at end of March to discuss needed edits
+-   Made changes and saved in Box. Edits saved over 2025 vintage of field sheet
+-   Nora uploaded 2025 field sheet and changed name of current version to "2026"
+-   Added densic contact to list of subsurface features
+-   Added indicator for whether densic contact is anthrodensic (yes or no)
+-   Added bulk density sample number column on lower portion of second page
+-   Column allows tracking of bulk density samples alongside lab samples
+-   Team asked to review updated field sheet
+
+## Concept Key Development
+
+-   Randy made comments on Adam's key; Patty replied to Randy's comments
+-   Need collective discussion on which wetness concepts to identify and build into key
+-   Options: Split out more concepts now and combine later, or combine now
+-   Team needs decision on which wetness groups to recognize as concepts
+
+## 2025 Pedon Data Entry Status (Patty)
+
+### Upload Status
+
+-   Approximately 165 pedons from 2025 now in NASIS
+-   8 random pedons not included for various reasons:
+    -   Some outside AOI (Area of Interest)
+    -   Some with missing field sheets
+    -   Some incomplete due to maps tour
+
+### NASIS Data Work Progress
+
+-   Site tab completely populated
+-   Currently working on pedon tab in NASIS
+-   Most calculations complete
+-   Final step: Getting classifications entered (very slow process)
+-   Adam has classified all pedons and recorded in spreadsheet
+-   Patty using Adam's classifications while QC-ing
+-   QC process slow due to opening multiple documents
+
+## Rescheduling April Meeting with Randy
+
+-   Originally scheduled for Tuesday, April 14th
+-   Randy needs to reschedule to Tuesday, April 21st
+-   Works for Patty, Nora, and Joe
+-   Does not work for Adam Devlin (will be coaching at NACTA soil judging contest that week)
+-   Adam okay with missing meeting and can write notes for someone else to share
+-   Nora confirmed that Nic is available and emailed Randy
+
+## Modeling Updates (Nora)
+
+### General Approach
+
+-   Working on predictive modeling for HTM thickness
+-   Using machine learning random forest algorithm
+-   Training models on field-collected data
+-   Making predictions across landscape using covariates
+
+### Recent Progress
+
+-   Ran multiple models with different covariate combinations
+-   Current approach: "kitchen sink" method using all available covariates
+-   Goal: Determine which covariates are most influential for predictions
+-   Models evaluated using multiple metrics
+-   Current best model showing promising results
+
+### Covariate Testing
+
+-   Before kitchen sink approach: Used 6-8 specific covariates thought to be most influential
+    -   Proportion of impervious surface
+    -   Distance from road
+    -   Building age
+    -   Building perimeter length
+    -   Difference from mean elevation
+-   These performed about as well as kitchen sink approach
+-   Has not yet discussed feature importance findings with Nic since running latest models
+
+### Feature Importance Findings
+
+-   Consistently important features across last 5 models:
+    -   Max daily traffic within 100 meters
+    -   Max daily traffic within 500 meters
+    -   Both DEMs (digital elevation models): lidar-derived and National Elevation Dataset
+    -   Relative topographic position
+-   Nora suspicious of some results, particularly traffic metrics. Believes relative topographic position makes sense (could indicate soil movement)
+-   Plans to discuss with Nic
+
+### Collinearity Concerns (Joe's Feedback)
+
+-   Joe raised concern about having both DEM and LiDAR-derived DEM in single model
+-   Strong collinearity expected between these covariates
+-   Question whether both should be included even in kitchen sink approach
+-   Nora agrees this is concern
+-   Other potential collinearity issues identified:
+    -   Land use and land cover datasets (both one-hot encoded as individual binary rasters)
+    -   Leaf on and leaf off composites for Sentinel-2 imagery
+    -   Road distance and building-related metrics may be too related
+-   Uncertainty about next steps beyond returning to choosing most relevant covariates
+
+### Building-Related Covariates
+
+-   Currently has building perimeter length covariate
+-   Based on 2008-2012 LiDAR-based DEM building footprints
+-   Available at 10-meter scale with:
+    -   Building count per cell
+    -   Building area per cell
+    -   Total building perimeter length per cell
+-   Joe suggested distance weighting from building perimeter
+-   Could weight larger buildings higher than smaller buildings (or vice versa)
+-   Mentioned using cost distancing in other projects
+-   Same approach could apply to roads with unique weighting
+    -   Example: Four-lane highway versus residential street
+-   Nora has created distance from road layer with weighting
+-   Based on functional class road data (likely from Met Council)
+-   Includes approximately 8 different road classes (highways, local roads, etc.)
+-   In kitchen sink models, hasn't been used widely
+-   Nora considers it very relevant and will apply similar approach to buildings
+
+### Next Steps
+
+-   Will discuss feature importance with Nic
+-   Will explore new distance-weighted building covariates
+-   Will work on refining kitchen sink approach to address collinearity
+-   Nora will update Joe on findings with new covariates
+
+## Action Items
+
+-   Patty: Continue work on pedon tab classifications in NASIS
+-   Team: Review updated 2026 field sheet and provide feedback
+-   Team: Schedule discussion about wetness concepts for key
+-   Nora: Check with Nic about April 21st meeting availability
+-   Nora: Reply to Randy confirming rescheduled meeting works for everyone except Adam
+-   Nora: Discuss feature importance findings with Nic
+-   Nora: Create distance-weighted building covariates
+-   Nora: Refine covariate selection to address collinearity issues
+-   Nora: Update Joe on findings with new covariates
+-   Adam: Prepare notes for April 21st meeting for someone else to share
