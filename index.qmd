@@ -10,20 +10,20 @@ This quarto book documents the minutes for meetings within Implementing an Urban
 
 This document contains meeting minutes created by [Claude.AI](https://claude.ai/) using the transcripts from Zoom meetings. It is broken into two parts:
 
--   Project Wide Meetings
--   Small Group Meetings
+- Project Wide Meetings
+- Small Group Meetings
 
 The meeting minutes from Project Wide Meetings are also posted in the [Project Metadata](https://tcma-urban-soil-mapping.github.io/project-metadata/) e-book, but will be included here for completeness.
 
 ## Key Personnel
 
--   Nic Jelinski; Associate Professor, University of Minnesota (PI)
--   Joe Brennan; State Soil Scientist, NRCS
--   Nora Pearson; M.S. Student, University of Minnesota
--   Randy Riddle; Senior Soil Scientist for Urban Soil Survey, NRCS
--   Francine Lheritier; Natural Resource Soil Scientist, NRCS
--   Shaunna Repking; Soil Scientist, NRCS
--   Patty Burns; Soil Specialist, NRCS Contractor
+- Nic Jelinski; Associate Professor, University of Minnesota (PI)
+- Joe Brennan; State Soil Scientist, NRCS
+- Nora Pearson; M.S. Student, University of Minnesota
+- Randy Riddle; Senior Soil Scientist for Urban Soil Survey, NRCS
+- Francine Lheritier; Natural Resource Soil Scientist, NRCS
+- Shaunna Repking; Soil Scientist, NRCS
+- Patty Burns; Soil Specialist, NRCS Contractor
 
 ## Project Website
 

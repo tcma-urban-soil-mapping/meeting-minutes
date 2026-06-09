@@ -5295,5 +5295,379 @@
       "Small Group Meetings",
       "<span class='chapter-number'>68</span>  <span class='chapter-title'>Group Check In 06APR2026</span>"
     ]
+  },
+  {
+    "objectID": "minutes-20APR2026-group.html",
+    "href": "minutes-20APR2026-group.html",
+    "title": "69  Group Check In 20APR2026",
+    "section": "",
+    "text": "69.1 Attendees\nDate: April 20, 2026",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>69</span>  <span class='chapter-title'>Group Check In 20APR2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-20APR2026-group.html#attendees",
+    "href": "minutes-20APR2026-group.html#attendees",
+    "title": "69  Group Check In 20APR2026",
+    "section": "",
+    "text": "Nora Pearson\nPatty Burns\nNic Jelinski\nAva McCune\nBrianna Hayward\nGenevieve Saldibar",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>69</span>  <span class='chapter-title'>Group Check In 20APR2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-20APR2026-group.html#green-spirit-community-garden-lead-sampling-ava-nic",
+    "href": "minutes-20APR2026-group.html#green-spirit-community-garden-lead-sampling-ava-nic",
+    "title": "69  Group Check In 20APR2026",
+    "section": "69.2 Green Spirit Community Garden — Lead Sampling (Ava, Nic)",
+    "text": "69.2 Green Spirit Community Garden — Lead Sampling (Ava, Nic)\n\npXRF Green Spirit Community Garden in St. Paul returned lead readings of 4,000–7,000 ppm in a horizon where an old metal plant hanger was removed; the site was formerly a neighborhood and rail yard\nThe high-lead samples came from a non-food-producing area of the garden and were not at the surface\nAva and Kasia have a personal plot at Green Spirit and are connected with the site; Ava has been in contact with Erin, who appears to coordinate garden activities\nNic agreed the group should invest time in additional screening of actively managed, food-producing areas to give a more comprehensive and representative assessment to the garden\nAva plans to collect samples from a few depths within her plot on Wednesday and attend a group garden event Saturday at 9:30 to speak with community members\nAva will also follow up with Adam regarding the original sampling contact\nFor follow-up communications with the garden, Nic suggested framing it as wanting to screen food-producing areas to be more comprehensive in reporting\nFocus will be on lead only; pH, organic matter, and other measurements will not be a concern for this follow-up",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>69</span>  <span class='chapter-title'>Group Check In 20APR2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-20APR2026-group.html#tomorrows-meeting-with-randy-wetness-criteria-discussion-patty-nora-nic",
+    "href": "minutes-20APR2026-group.html#tomorrows-meeting-with-randy-wetness-criteria-discussion-patty-nora-nic",
+    "title": "69  Group Check In 20APR2026",
+    "section": "69.3 Tomorrow’s Meeting with Randy — Wetness Criteria Discussion (Patty, Nora, Nic)",
+    "text": "69.3 Tomorrow’s Meeting with Randy — Wetness Criteria Discussion (Patty, Nora, Nic)\n\nA meeting with Randy is scheduled for tomorrow at 10:30\nPatty received an email from Randy last week regarding questions on Adam’s key, specifically around how to categorize wetness criteria\nThe open question is whether to use all standard drainage classes (very poorly drained through well-drained) or to lump some categories — e.g., poorly drained and somewhat poorly drained — into a single concept\nA specific sticking point is where to place “oxyaquic” — whether it aligns more with moderately well-drained or well-drained\nThe group agreed to discuss this collectively tomorrow; Joe will be present, and Nic confirmed he will also attend\nAdam asked that the group discuss and bring him into the loop after he returns",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>69</span>  <span class='chapter-title'>Group Check In 20APR2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-20APR2026-group.html#nasis-qc-update-patty",
+    "href": "minutes-20APR2026-group.html#nasis-qc-update-patty",
+    "title": "69  Group Check In 20APR2026",
+    "section": "69.4 NASIS QC Update (Patty)",
+    "text": "69.4 NASIS QC Update (Patty)\n\nAll 2025 pedon data has been entered into NASIS; the site tab is fully complete\nPatty is working through the pedon tab, with the primary workload being classifications\nShe is cross-referencing Adam’s spreadsheet and QC notes from Adam and Gen for classifications\nApproximately 50 of ~160 pedons are done, with roughly 100 remaining",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>69</span>  <span class='chapter-title'>Group Check In 20APR2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-20APR2026-group.html#thesis-work-update-nora",
+    "href": "minutes-20APR2026-group.html#thesis-work-update-nora",
+    "title": "69  Group Check In 20APR2026",
+    "section": "69.5 Thesis Work Update (Nora)",
+    "text": "69.5 Thesis Work Update (Nora)\n\nNora has completed random forest regression modeling to predict whether more than 50 cm of HTM is present across the area of interest\nThat output has been fed into a clustering algorithm, which is also now complete\nCurrent work is focused on writing everything up for her thesis\nNora is targeting a thesis defense on May 15th; if that happens, she will help with fieldwork, likely a couple of days per week",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>69</span>  <span class='chapter-title'>Group Check In 20APR2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-20APR2026-group.html#lab-update-ava",
+    "href": "minutes-20APR2026-group.html#lab-update-ava",
+    "title": "69  Group Check In 20APR2026",
+    "section": "69.6 Lab Update (Ava)",
+    "text": "69.6 Lab Update (Ava)\n\nLab work is progressing well; samples continue to be processed\nAll samples flagged for carbon analysis have been pulled; approximately 80% are expected to be sent out by mid-May (some are still wet and may take longer)\nAiden will use those samples to generate carbon models via MIR\nResults from last year’s urban garden samples are being compiled and are expected to go out by end of the week, pending nutrient testing results from AgVise\nAva’s full-time position ends mid-May; after that she will work for Nic as a temp, focused on compiling and sending data out to homeowners in order of urgency — those who have actively requested data will be prioritized\nGen mentioned that Gudrun Locke (neighbor to Shoreham Yards railroad area) had inquired about her soil sample results; Gen will locate the relevant sample IDs in the tracking sheet, highlight them, and tag Ava with a comment in Google Drive so they can be prioritized if not already flagged",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>69</span>  <span class='chapter-title'>Group Check In 20APR2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-20APR2026-group.html#sample-processing-over-summer",
+    "href": "minutes-20APR2026-group.html#sample-processing-over-summer",
+    "title": "69  Group Check In 20APR2026",
+    "section": "69.7 Sample Processing Over Summer",
+    "text": "69.7 Sample Processing Over Summer\n\nSince lab staffing will be limited over summer, Ava suggested that one field crew member per week do wet-weighing of samples and put drying samples into the bin to be sieved\nGoal is to keep processing moving and avoid a large backlog for whoever handles lab work the following year",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>69</span>  <span class='chapter-title'>Group Check In 20APR2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-20APR2026-group.html#summer-field-staffing-patty-nora-ava-brianna-gen",
+    "href": "minutes-20APR2026-group.html#summer-field-staffing-patty-nora-ava-brianna-gen",
+    "title": "69  Group Check In 20APR2026",
+    "section": "69.8 Summer Field Staffing (Patty, Nora, Ava, Brianna, Gen)",
+    "text": "69.8 Summer Field Staffing (Patty, Nora, Ava, Brianna, Gen)\n\nNora: will be in the field at least a couple days a week if she defends in May; exact schedule to be worked out with Nic\nBrianna: likely a mix of data entry and field work, similar to last year; details TBD pending position confirmation\nGen: also likely a mix of field and other work; details still being worked out following confirmation of a grant award\nAiden: expected to be in the field one to two days per week\nAdam will be in the field\nNic is looking to hire another undergrad\nKasia: may have other field commitments this summer, so field availability is uncertain\nPatty: plans to step back for most of the summer due to personal commitments but is available for a day here and there if needed; will attend the field training session Adam is planning for new crew members",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>69</span>  <span class='chapter-title'>Group Check In 20APR2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-20APR2026-group.html#reference-field-guide-brianna-patty",
+    "href": "minutes-20APR2026-group.html#reference-field-guide-brianna-patty",
+    "title": "69  Group Check In 20APR2026",
+    "section": "69.9 Reference Field Guide (Brianna, Patty)",
+    "text": "69.9 Reference Field Guide (Brianna, Patty)\n\nBrianna uploaded the reference field guide to Box and to the lab folder\nPatty reviewed it and said it looks good; noted it covers course fragments and other items she has had to look up in the Red Book\nPatty plans to put together a couple of slides on drainage classes and field identification (based on aquic conditions) for the upcoming field training, and may incorporate that content into Brianna’s guide",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>69</span>  <span class='chapter-title'>Group Check In 20APR2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-04MAY2026-group.html",
+    "href": "minutes-04MAY2026-group.html",
+    "title": "70  Group Check In 04MAY2026",
+    "section": "",
+    "text": "70.1 Attendees\nDate: Monday, May 4, 2026",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>70</span>  <span class='chapter-title'>Group Check In 04MAY2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-04MAY2026-group.html#attendees",
+    "href": "minutes-04MAY2026-group.html#attendees",
+    "title": "70  Group Check In 04MAY2026",
+    "section": "",
+    "text": "Randy Riddle (NRCS)\nAdam Devlin\nNora Pearson\nJoseph Brennan\nBrianna Hayward",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>70</span>  <span class='chapter-title'>Group Check In 04MAY2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-04MAY2026-group.html#context",
+    "href": "minutes-04MAY2026-group.html#context",
+    "title": "70  Group Check In 04MAY2026",
+    "section": "70.2 Context",
+    "text": "70.2 Context\n\nThe group is currently working on Concept Key Version 2 (V2), with recent edits made by Adam\nThe agenda document referenced throughout was “Concept Key Questions to Address from April 30th”\nAdam and Patty had already spent one to two hours the previous week going over questions together ahead of this session\nRandy noted he had been in and out of the project for about a month due to fieldwork, and that his and Patty’s comments overlapped significantly",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>70</span>  <span class='chapter-title'>Group Check In 04MAY2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-04MAY2026-group.html#how-the-concept-key-will-be-used-randy-adam-joe",
+    "href": "minutes-04MAY2026-group.html#how-the-concept-key-will-be-used-randy-adam-joe",
+    "title": "70  Group Check In 04MAY2026",
+    "section": "70.3 How the Concept Key Will Be Used (Randy, Adam, Joe)",
+    "text": "70.3 How the Concept Key Will Be Used (Randy, Adam, Joe)\n\nRandy’s opening question was how the group intends to use the concept groupings once soils are assigned to classes\nAdam explained the plan is to filter existing descriptions through the key once it is in a more finalized state, then use the resulting groupings to identify which soil types are most representative across the landscape\nThe key emphasizes wetness state, level of human disturbance (anthropogenicness), and particle size/parent materials at the lowest levels\nJoe clarified that these groupings are intended as initial sketches of local phase concepts for the soil survey area, with the expectation that further levels of correlation and collapsing will follow\nJoe noted the group is not planning to use the key as a direct covariate in a raster modeling workflow; it is more to support concept-building\nRandy confirmed this answered his concern — he had worried that feeding combined classes directly into a raster model would create noise in the dataset, but that is not the plan",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>70</span>  <span class='chapter-title'>Group Check In 04MAY2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-04MAY2026-group.html#wetness-classes-and-drainage-classes-randy-adam",
+    "href": "minutes-04MAY2026-group.html#wetness-classes-and-drainage-classes-randy-adam",
+    "title": "70  Group Check In 04MAY2026",
+    "section": "70.4 Wetness Classes and Drainage Classes (Randy, Adam)",
+    "text": "70.4 Wetness Classes and Drainage Classes (Randy, Adam)\n\nQuestions were raised about how wetness classes should align with standard NRCS drainage classes\nRandy noted that using different class names can cause confusion down the road and encouraged alignment with Minnesota drainage classes\nAdam confirmed that in Concept Key V2, he has already converted “very wet” to poorly drained and “wet” to somewhat poorly drained\nFlooding frequency was discussed as a separate, high-level cut — Randy said flooded soils should be broken out early in any key because they represent a distinct mapping situation\nThis was also Patty’s position from the previous week’s call; the group agreed to include a flooding group in the next update",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>70</span>  <span class='chapter-title'>Group Check In 04MAY2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-04MAY2026-group.html#htm-thickness-and-buried-soil-terminology-randy-adam",
+    "href": "minutes-04MAY2026-group.html#htm-thickness-and-buried-soil-terminology-randy-adam",
+    "title": "70  Group Check In 04MAY2026",
+    "section": "70.5 HTM Thickness and Buried Soil Terminology (Randy, Adam)",
+    "text": "70.5 HTM Thickness and Buried Soil Terminology (Randy, Adam)\n\nThe key’s first branch question is whether there is 50 cm or more of human-transported material (HTM) — Randy agreed this is an appropriate high-level cut\nAdam noted that in older residential areas of St. Paul, sampled points showed HTM at around 40–50 cm, with buried A horizons describing the original surface beneath\nRandy explained that soils within 50 cm of HTM will generally be classified based on the underlying material, and that the surface mantle criteria can complicate taxonomic groupings — concepts should be set up based on surface properties of the HTM as well as what lies beneath\nRandy recommended grouping soils that straddle the 50 cm threshold together, based on similarity and interpretive value, rather than separating them into entirely different branches\nRandy noted the buried soil terminology in the key should be reviewed to ensure it follows standard language",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>70</span>  <span class='chapter-title'>Group Check In 04MAY2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-04MAY2026-group.html#subsurface-diagnostic-horizons-and-key-complexity-randy-adam-joe",
+    "href": "minutes-04MAY2026-group.html#subsurface-diagnostic-horizons-and-key-complexity-randy-adam-joe",
+    "title": "70  Group Check In 04MAY2026",
+    "section": "70.6 Subsurface Diagnostic Horizons and Key Complexity (Randy, Adam, Joe)",
+    "text": "70.6 Subsurface Diagnostic Horizons and Key Complexity (Randy, Adam, Joe)\n\nThe current key separates subsurface features into mollic/mollic-like versus all others (argillic, cambic, etc.)\nRandy noted that adding particle size classes explicitly higher in the key would make the document very large very fast, since they would need to appear on every branching path\nJoe suggested the focus at this stage should be on what features the key is meant to emphasize, rather than how the key is constructed; Randy agreed the key captures the important interpretive sequences\nRandy walked through the flowchart and confirmed it addresses: HTM presence and thickness, whether genetic horizons underlie the HTM, organic matter enrichment, drainage class, contrasting particle size classes, and anthrodensic features\nThe group agreed that some particle size classes will be combined initially, and that is acceptable given the iterative nature of correlation",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>70</span>  <span class='chapter-title'>Group Check In 04MAY2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-04MAY2026-group.html#root-limiting-layers-in-the-project-area-randy-joe-adam",
+    "href": "minutes-04MAY2026-group.html#root-limiting-layers-in-the-project-area-randy-joe-adam",
+    "title": "70  Group Check In 04MAY2026",
+    "section": "70.7 Root-Limiting Layers in the Project Area (Randy, Joe, Adam)",
+    "text": "70.7 Root-Limiting Layers in the Project Area (Randy, Joe, Adam)\n\nRandy asked whether there are common root-limiting layers in the area\nJoe confirmed there is some dense till, primarily in a firm till area in the far southern part of the project; the Superior Lobe till in the far east metro may also be dense\nAdam noted he and Gen had described dense till on the east side once, on a slope with significant water perching\nJoe noted soft bedrock (dolomite and sandstone) is present in the project area, particularly around rivers, and that strongly contrasting layers are also present\nAnthrodensic horizons were discussed as present and expected; Randy said they will be tough to identify but are definitely out there\nAdam confirmed the team is now training to collect bulk density data and plans to evaluate potential returns to sites previously characterized as possibly anthrodensic",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>70</span>  <span class='chapter-title'>Group Check In 04MAY2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-04MAY2026-group.html#calcic-horizons-and-carbonate-equivalency-randy-adam-joe-nora",
+    "href": "minutes-04MAY2026-group.html#calcic-horizons-and-carbonate-equivalency-randy-adam-joe-nora",
+    "title": "70  Group Check In 04MAY2026",
+    "section": "70.8 Calcic Horizons and Carbonate Equivalency (Randy, Adam, Joe, Nora)",
+    "text": "70.8 Calcic Horizons and Carbonate Equivalency (Randy, Adam, Joe, Nora)\n\nDuring Friday fieldwork, Adam described fine loamy Des Moines Lobe till with approximately 20–40% visible secondary carbonates, recorded as calcic based on visible carbonates\nRandy asked whether calcium carbonate equivalency (CCE) is being measured in the lab — Adam confirmed it is not currently\nRandy described a quick calcimeter test (dried soil, 1 normal HCl, measure CO2 generated) as a straightforward way to confirm whether calcic criteria are met\nJoe noted that strong or violent effervescence with visible carbonates is typically considered sufficient to indicate greater than 15% CCE in this part of the state\nNora said CCE testing could likely be sent out for a subset of samples, and that she would discuss it with Nic\nJoe and Randy agreed having that data, even on a subset, would be valuable",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>70</span>  <span class='chapter-title'>Group Check In 04MAY2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-04MAY2026-group.html#artifactual-soils-and-grouping-approach-randy-adam",
+    "href": "minutes-04MAY2026-group.html#artifactual-soils-and-grouping-approach-randy-adam",
+    "title": "70  Group Check In 04MAY2026",
+    "section": "70.9 Artifactual Soils and Grouping Approach (Randy, Adam)",
+    "text": "70.9 Artifactual Soils and Grouping Approach (Randy, Adam)\n\nAdam raised the question of how other urban surveys have handled artifactual soils — specifically whether to keep soils with similar artifact types grouped broadly or break them into multiple classes\nThe team currently flags a horizon as artifactual if it contains greater than 10% artifacts\nRandy confirmed that artifacts are highly significant in HTM and should be grouped accordingly; further separations can be decided based on how frequently and extensively they appear\nRandy recommended keeping soils with asphalt/bitumen separate from more innocuous construction debris (e.g., bricks), given the hydrocarbon content\nAsphalt has been a significant and recurring artifact type, especially in older neighborhoods and some parks\nRandy noted that highly artifactual HTM concepts may end up being somewhat broader, with artifacts as the primary distinguishing feature; wetness and other properties can be layered in as additional detail",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>70</span>  <span class='chapter-title'>Group Check In 04MAY2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-04MAY2026-group.html#field-review-travel-approval-update-randy",
+    "href": "minutes-04MAY2026-group.html#field-review-travel-approval-update-randy",
+    "title": "70  Group Check In 04MAY2026",
+    "section": "70.10 Field Review — Travel Approval Update (Randy)",
+    "text": "70.10 Field Review — Travel Approval Update (Randy)\n\nRandy provided a heads up that travel approval for the planned in-person field review is coming through slowly and may not be formally approved for a few weeks, possibly into July\nThe group agreed to carve out time at the next bi-monthly meeting on June 9th to discuss field review plans and logistics in more detail",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>70</span>  <span class='chapter-title'>Group Check In 04MAY2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-04MAY2026-group.html#staffing-and-field-work-update-randy-nora-adam",
+    "href": "minutes-04MAY2026-group.html#staffing-and-field-work-update-randy-nora-adam",
+    "title": "70  Group Check In 04MAY2026",
+    "section": "70.11 Staffing and Field Work Update (Randy, Nora, Adam)",
+    "text": "70.11 Staffing and Field Work Update (Randy, Nora, Adam)\n\nRandy confirmed Adam is leading the field effort; Adam noted the team has been working in parks this spring and finding the geomorphic boundaries and landform transitions relatively straightforward\nAdam mentioned the summer plan includes visiting school district sites and identifying strong representative sites to visit as a group during the August field review\nNora confirmed she will transition to a staff researcher role working for Nic after her thesis defense, ideally through the end of the project",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>70</span>  <span class='chapter-title'>Group Check In 04MAY2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-01JUN2026-group.html",
+    "href": "minutes-01JUN2026-group.html",
+    "title": "71  Group Check In 01JUN2026",
+    "section": "",
+    "text": "71.1 Attendees\nDate: Monday, June 1, 2026",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>71</span>  <span class='chapter-title'>Group Check In 01JUN2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-01JUN2026-group.html#attendees",
+    "href": "minutes-01JUN2026-group.html#attendees",
+    "title": "71  Group Check In 01JUN2026",
+    "section": "",
+    "text": "Nic Jelinski\nNora Pearson\nAdam Devlin\nGen Saldibar\nBrianna Hayward\nStephanie Hankerson\nJoe Brennan",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>71</span>  <span class='chapter-title'>Group Check In 01JUN2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-01JUN2026-group.html#cpr-first-aid-training-nic",
+    "href": "minutes-01JUN2026-group.html#cpr-first-aid-training-nic",
+    "title": "71  Group Check In 01JUN2026",
+    "section": "71.2 CPR / First Aid Training (Nic)",
+    "text": "71.2 CPR / First Aid Training (Nic)\n\nUniversity-sanctioned CPR/first aid training opportunity available for $20 (chart string available), including a Zoom and in person component\nSeveral team members completed a training last year through a separate provider (Minnesota WFA), which is valid for two years, so most are still covered\nSteph was identified as potentially eligible and not yet certified; Nora forwarded the training email to her",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>71</span>  <span class='chapter-title'>Group Check In 01JUN2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-01JUN2026-group.html#upcoming-community-events-nic-gen-steph-nora",
+    "href": "minutes-01JUN2026-group.html#upcoming-community-events-nic-gen-steph-nora",
+    "title": "71  Group Check In 01JUN2026",
+    "section": "71.3 Upcoming Community Events (Nic, Gen, Steph, Nora)",
+    "text": "71.3 Upcoming Community Events (Nic, Gen, Steph, Nora)\n\nOpen Streets (June 7th, Sunday): Gen has secured a booth spot; she is still looking for people to sign up for shifts and needs to finalize materials\nPeace Celebration (June 20th, 2–6 PM): UFGA is confirmed to participate; Steph noted it is a 3-hour event, less demanding than Open Streets; Nora will add it to the shared calendar; help with the UFGA programming would be welcomed\nGen looked into other local park and festival events but found that most summer registrations (through September) were already closed; some September/October opportunities may exist\nSelby Avenue Jazz Fest and VFest were mentioned as events the group has attended in past years, but no confirmation on participation this year",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>71</span>  <span class='chapter-title'>Group Check In 01JUN2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-01JUN2026-group.html#open-streets-materials-and-logistics-nora-gen-adam-nic-brianna",
+    "href": "minutes-01JUN2026-group.html#open-streets-materials-and-logistics-nora-gen-adam-nic-brianna",
+    "title": "71  Group Check In 01JUN2026",
+    "section": "71.4 Open Streets Materials and Logistics (Nora, Gen, Adam, Nic, Brianna)",
+    "text": "71.4 Open Streets Materials and Logistics (Nora, Gen, Adam, Nic, Brianna)\n\nNora is creating a mini-Jeopardy trivia board for the Open Streets booth — approximately 4–5 categories with 4–5 questions each, with answers flipped underneath; she will also write brief talking points per question if time allows\nGen offered to draft some trivia questions and send them over; Steph also offered to review\nGen plans to bring candy from Costco as prizes\nBrianna suggested checking whether materials from the World Soils Day event at the Arboretum (December) are still available, including info cards on microorganisms and soil biota; she will follow up with Ava by text\nPlanned display materials include: the Frogtown monolith, the trivia/Jeopardy board, a double-sided 8.5x11 handout about urban gardens, and QR codes for resources\nGen will try printing the handout on campus; Nora can print it if needed\nFor the monolith stand, Nic suggested two easel-mounted monoliths donated by Monica Holler (originally made for a museum exhibit) that fold up and are easy to transport; the group agreed these could work\nGen plans to have more than one table at the booth; Nora will bring a table from home\nGen will send an updated email to the group today with booth location and logistics",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>71</span>  <span class='chapter-title'>Group Check In 01JUN2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-01JUN2026-group.html#soil-topsoil-drop-offs-nic-nora-steph",
+    "href": "minutes-01JUN2026-group.html#soil-topsoil-drop-offs-nic-nora-steph",
+    "title": "71  Group Check In 01JUN2026",
+    "section": "71.5 Soil Topsoil Drop-Offs (Nic, Nora, Steph)",
+    "text": "71.5 Soil Topsoil Drop-Offs (Nic, Nora, Steph)\n\nNora and Gen completed a recent round of drop-offs (3 sites in approximately 4 hours, using a smaller truck limited to 1 yard per load)\nShari at Victoria Garden could take more topsoil if budget allows; Nate at Pilgrim had enough from the previous drop-off\nSteph noted that Midway neighborhood gardeners would like a topsoil drop-off (estimated 2–3 yards); no drop-off location has been identified yet, but Steph will work on finding one with community members\nNic and Nora will connect before the end of the week to see if a combined drop-off at Victoria and Midway can be scheduled for the following week; using a larger fleet truck would allow 2 yards per load and save time",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>71</span>  <span class='chapter-title'>Group Check In 01JUN2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-01JUN2026-group.html#july-18th-soil-short-course-green-spirit-garden-steph-nic",
+    "href": "minutes-01JUN2026-group.html#july-18th-soil-short-course-green-spirit-garden-steph-nic",
+    "title": "71  Group Check In 01JUN2026",
+    "section": "71.6 July 18th Soil Short Course — Green Spirit Garden (Steph, Nic)",
+    "text": "71.6 July 18th Soil Short Course — Green Spirit Garden (Steph, Nic)\n\nSteph and Ava have planned a soil short course for Saturday, July 18th at Green Spirit Community Garden and the Midway naturalized planting area (a Bee Line site along Pierce Butler Route)\nThe event coincides with the Lawns to Legumes statewide garden tour, with 9 sites open in Como, Frogtown, and Midway\nGardeners have been receptive to the idea that compost alone may not address all fertility needs; recent high lead readings from the urban soil survey have prompted questions\nPlanned topics include soils information, cover crops, fertilizer inputs and application rates, and hands-on activities; Steph and Ava still need to finalize details\nNic said the group will wait to hear more from Steph and Ava on what support would be helpful",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>71</span>  <span class='chapter-title'>Group Check In 01JUN2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-01JUN2026-group.html#fieldwork-update-golf-course-gen-nora-brianna-nic-adam",
+    "href": "minutes-01JUN2026-group.html#fieldwork-update-golf-course-gen-nora-brianna-nic-adam",
+    "title": "71  Group Check In 01JUN2026",
+    "section": "71.7 Fieldwork Update — Golf Course (Gen, Nora, Brianna, Nic, Adam)",
+    "text": "71.7 Fieldwork Update — Golf Course (Gen, Nora, Brianna, Nic, Adam)\n\nThe team has completed 9 holes/sites at the golf course so far; approximately 17 remain, though not all need to be completed\nSite types covered include tee boxes, bunkers, a peatland area, and a crusting site; greens have not yet been sampled\nNotable observations:\n\nDensic (little D) features found in the top 1–2 layers; in natural soils, these are interpreted as Superior Lobe till; in HTM on mechanically compacted tee boxes, they are also being called Densic\nA crusting site near hole 7 shows blue-gray surface cracking/crusting on a dried-out area adjacent to a pond; the surface crust was described as all at the surface with blue and white coloration; Nic noted it looks evaporative, possibly related to upward wicking from subsurface moisture, and is interested to run electrical conductivity on the samples\nThat pond-adjacent area was confirmed as a formerly filled-in wetland (per golf course staff member Brent); cattails are attempting to grow but failing\nWater table at the crusting site was over 1 meter depth\n\nNic plans to come out to the golf course this week; Friday morning is tentatively planned for peat auger coring at the deep peat site using extensions to determine depth; Nic will also arrange another day to sample a green\nAdam will connect with Gen by phone after the meeting to go over completed sites and plan the rest of the week; the goal is approximately 5–6 sites tomorrow using the Giddings probe\nGen will update the calendar invite with the planned 6 sites for tomorrow and will pick up gutters and field sheets from campus in the morning\nNora to print 100 RUSI field sheets; Nic to leave them outside the Basic Soils Lab for Gen to pick up",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>71</span>  <span class='chapter-title'>Group Check In 01JUN2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-01JUN2026-group.html#bulk-density-sampling-update-nora-brianna-nic-adam",
+    "href": "minutes-01JUN2026-group.html#bulk-density-sampling-update-nora-brianna-nic-adam",
+    "title": "71  Group Check In 01JUN2026",
+    "section": "71.8 Bulk Density Sampling Update (Nora, Brianna, Nic, Adam)",
+    "text": "71.8 Bulk Density Sampling Update (Nora, Brianna, Nic, Adam)\n\nBulk density has been collected using rings; the compliant cavity method has not yet been needed\nIt has been done successfully across a variety of site types including bunkers and greens, though it is time-consuming — typically done when there are 3 or more people at a site\nBrianna raised a question about horizons that are thinner than the ring: Nic advised recording that the sample spans multiple horizons, or using the compliant cavity method for very thin horizons; Adam noted that if two horizons seem similar in density, using the ring across both is acceptable",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>71</span>  <span class='chapter-title'>Group Check In 01JUN2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-01JUN2026-group.html#fieldwork-scheduling-and-school-district-sites-adam",
+    "href": "minutes-01JUN2026-group.html#fieldwork-scheduling-and-school-district-sites-adam",
+    "title": "71  Group Check In 01JUN2026",
+    "section": "71.9 Fieldwork Scheduling and School District Sites (Adam)",
+    "text": "71.9 Fieldwork Scheduling and School District Sites (Adam)\n\nAdam met this morning with the grounds/facilities contact for the Apple Valley–Rosemount–Eagan School District; sites were approximately 99% approved; the district has significant construction activity but sampling will proceed\nDakota County has been a coverage gap in the survey data; these schools will help fill it\nThose sites are tentatively scheduled for the end of June into early July, with approximately 7 days budgeted\nAdam will be out of town June 15–19; Lakeville-area school sites are planned for that week with approximately 3 field days; maps and flagging will be prepared in advance for the crew to work independently",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>71</span>  <span class='chapter-title'>Group Check In 01JUN2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-01JUN2026-group.html#meeting-cadence-and-data-check-ins-nora-adam-gen",
+    "href": "minutes-01JUN2026-group.html#meeting-cadence-and-data-check-ins-nora-adam-gen",
+    "title": "71  Group Check In 01JUN2026",
+    "section": "71.10 Meeting Cadence and Data Check-Ins (Nora, Adam, Gen)",
+    "text": "71.10 Meeting Cadence and Data Check-Ins (Nora, Adam, Gen)\n\nNora asked whether the Tuesday/Thursday data processing check-ins should continue or be folded into Monday meetings\nAdam said the current Monday meeting structure is sufficient given the pace of fieldwork, and that he won’t have many data processing updates to share during the field season\nAdam suggested potentially moving to weekly Monday meetings (rather than bi-weekly) as Randy’s August visit approaches, to improve coordination",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>71</span>  <span class='chapter-title'>Group Check In 01JUN2026</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-01JUN2026-group.html#bi-monthly-meeting-with-randy-june-9th",
+    "href": "minutes-01JUN2026-group.html#bi-monthly-meeting-with-randy-june-9th",
+    "title": "71  Group Check In 01JUN2026",
+    "section": "71.11 Bi-Monthly Meeting with Randy (June 9th)",
+    "text": "71.11 Bi-Monthly Meeting with Randy (June 9th)\n\nThe bi-monthly meeting with Randy is scheduled for Tuesday, June 9th\nAdam has not worked on concepts since the last Randy meeting and is unsure of what to prepare\nBrianna noted she has started scanning 2026 description sheets and has uploaded some to Box for data entry on off-field days",
+    "crumbs": [
+      "Small Group Meetings",
+      "<span class='chapter-number'>71</span>  <span class='chapter-title'>Group Check In 01JUN2026</span>"
+    ]
   }
 ]

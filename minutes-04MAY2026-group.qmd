@@ -1,0 +1,89 @@
+# Group Check In 04MAY2026
+
+**Date: Monday, May 4, 2026**
+
+## Attendees
+
+- Randy Riddle (NRCS)
+- Adam Devlin
+- Nora Pearson
+- Joseph Brennan
+- Brianna Hayward
+
+## Context
+
+- The group is currently working on Concept Key Version 2 (V2), with recent edits made by Adam
+- The agenda document referenced throughout was "Concept Key Questions to Address from April 30th"
+- Adam and Patty had already spent one to two hours the previous week going over questions together ahead of this session
+- Randy noted he had been in and out of the project for about a month due to fieldwork, and that his and Patty's comments overlapped significantly
+
+## How the Concept Key Will Be Used (Randy, Adam, Joe)
+
+- Randy's opening question was how the group intends to use the concept groupings once soils are assigned to classes
+- Adam explained the plan is to filter existing descriptions through the key once it is in a more finalized state, then use the resulting groupings to identify which soil types are most representative across the landscape
+- The key emphasizes wetness state, level of human disturbance (anthropogenicness), and particle size/parent materials at the lowest levels
+- Joe clarified that these groupings are intended as initial sketches of local phase concepts for the soil survey area, with the expectation that further levels of correlation and collapsing will follow
+- Joe noted the group is not planning to use the key as a direct covariate in a raster modeling workflow; it is more to support concept-building
+- Randy confirmed this answered his concern — he had worried that feeding combined classes directly into a raster model would create noise in the dataset, but that is not the plan
+
+## Wetness Classes and Drainage Classes (Randy, Adam)
+
+- Questions were raised about how wetness classes should align with standard NRCS drainage classes
+- Randy noted that using different class names can cause confusion down the road and encouraged alignment with Minnesota drainage classes
+- Adam confirmed that in Concept Key V2, he has already converted "very wet" to poorly drained and "wet" to somewhat poorly drained
+- Flooding frequency was discussed as a separate, high-level cut — Randy said flooded soils should be broken out early in any key because they represent a distinct mapping situation
+- This was also Patty's position from the previous week's call; the group agreed to include a flooding group in the next update
+
+## HTM Thickness and Buried Soil Terminology (Randy, Adam)
+
+- The key's first branch question is whether there is 50 cm or more of human-transported material (HTM) — Randy agreed this is an appropriate high-level cut
+- Adam noted that in older residential areas of St. Paul, sampled points showed HTM at around 40–50 cm, with buried A horizons describing the original surface beneath
+- Randy explained that soils within 50 cm of HTM will generally be classified based on the underlying material, and that the surface mantle criteria can complicate taxonomic groupings — concepts should be set up based on surface properties of the HTM as well as what lies beneath
+- Randy recommended grouping soils that straddle the 50 cm threshold together, based on similarity and interpretive value, rather than separating them into entirely different branches
+- Randy noted the buried soil terminology in the key should be reviewed to ensure it follows standard language
+
+## Subsurface Diagnostic Horizons and Key Complexity (Randy, Adam, Joe)
+
+- The current key separates subsurface features into mollic/mollic-like versus all others (argillic, cambic, etc.)
+- Randy noted that adding particle size classes explicitly higher in the key would make the document very large very fast, since they would need to appear on every branching path
+- Joe suggested the focus at this stage should be on **what features the key is meant to emphasize**, rather than how the key is constructed; Randy agreed the key captures the important interpretive sequences
+- Randy walked through the flowchart and confirmed it addresses: HTM presence and thickness, whether genetic horizons underlie the HTM, organic matter enrichment, drainage class, contrasting particle size classes, and anthrodensic features
+- The group agreed that some particle size classes will be combined initially, and that is acceptable given the iterative nature of correlation
+
+## Root-Limiting Layers in the Project Area (Randy, Joe, Adam)
+
+- Randy asked whether there are common root-limiting layers in the area
+- Joe confirmed there is some dense till, primarily in a firm till area in the far southern part of the project; the Superior Lobe till in the far east metro may also be dense
+- Adam noted he and Gen had described dense till on the east side once, on a slope with significant water perching
+- Joe noted soft bedrock (dolomite and sandstone) is present in the project area, particularly around rivers, and that strongly contrasting layers are also present
+- Anthrodensic horizons were discussed as present and expected; Randy said they will be tough to identify but are definitely out there
+- Adam confirmed the team is now training to collect bulk density data and plans to evaluate potential returns to sites previously characterized as possibly anthrodensic
+
+## Calcic Horizons and Carbonate Equivalency (Randy, Adam, Joe, Nora)
+
+- During Friday fieldwork, Adam described fine loamy Des Moines Lobe till with approximately 20–40% visible secondary carbonates, recorded as calcic based on visible carbonates
+- Randy asked whether calcium carbonate equivalency (CCE) is being measured in the lab — Adam confirmed it is not currently
+- Randy described a quick calcimeter test (dried soil, 1 normal HCl, measure CO2 generated) as a straightforward way to confirm whether calcic criteria are met
+- Joe noted that strong or violent effervescence with visible carbonates is typically considered sufficient to indicate greater than 15% CCE in this part of the state
+- Nora said CCE testing could likely be sent out for a subset of samples, and that she would discuss it with Nic
+- Joe and Randy agreed having that data, even on a subset, would be valuable
+
+## Artifactual Soils and Grouping Approach (Randy, Adam)
+
+- Adam raised the question of how other urban surveys have handled artifactual soils — specifically whether to keep soils with similar artifact types grouped broadly or break them into multiple classes
+- The team currently flags a horizon as artifactual if it contains greater than 10% artifacts
+- Randy confirmed that artifacts are highly significant in HTM and should be grouped accordingly; further separations can be decided based on how frequently and extensively they appear
+- Randy recommended keeping soils with asphalt/bitumen separate from more innocuous construction debris (e.g., bricks), given the hydrocarbon content
+- Asphalt has been a significant and recurring artifact type, especially in older neighborhoods and some parks
+- Randy noted that highly artifactual HTM concepts may end up being somewhat broader, with artifacts as the primary distinguishing feature; wetness and other properties can be layered in as additional detail
+
+## Field Review — Travel Approval Update (Randy)
+
+- Randy provided a heads up that travel approval for the planned in-person field review is coming through slowly and may not be formally approved for a few weeks, possibly into July
+- The group agreed to carve out time at the next bi-monthly meeting on June 9th to discuss field review plans and logistics in more detail
+
+## Staffing and Field Work Update (Randy, Nora, Adam)
+
+- Randy confirmed Adam is leading the field effort; Adam noted the team has been working in parks this spring and finding the geomorphic boundaries and landform transitions relatively straightforward
+- Adam mentioned the summer plan includes visiting school district sites and identifying strong representative sites to visit as a group during the August field review
+- Nora confirmed she will transition to a staff researcher role working for Nic after her thesis defense, ideally through the end of the project

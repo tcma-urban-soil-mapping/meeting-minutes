@@ -1,0 +1,94 @@
+# Group Check In 01JUN2026
+
+**Date: Monday, June 1, 2026**
+
+## Attendees
+
+- Nic Jelinski
+- Nora Pearson
+- Adam Devlin
+- Gen Saldibar
+- Brianna Hayward
+- Stephanie Hankerson
+- Joe Brennan
+
+## CPR / First Aid Training (Nic)
+
+- University-sanctioned CPR/first aid training opportunity available for $20 (chart string available), including a Zoom and in person component
+- Several team members completed a training last year through a separate provider (Minnesota WFA), which is valid for two years, so most are still covered
+- Steph was identified as potentially eligible and not yet certified; Nora forwarded the training email to her
+
+## Upcoming Community Events (Nic, Gen, Steph, Nora)
+
+- Open Streets (June 7th, Sunday): Gen has secured a booth spot; she is still looking for people to sign up for shifts and needs to finalize materials
+- Peace Celebration (June 20th, 2–6 PM): UFGA is confirmed to participate; Steph noted it is a 3-hour event, less demanding than Open Streets; Nora will add it to the shared calendar; help with the UFGA programming would be welcomed
+- Gen looked into other local park and festival events but found that most summer registrations (through September) were already closed; some September/October opportunities may exist
+- Selby Avenue Jazz Fest and VFest were mentioned as events the group has attended in past years, but no confirmation on participation this year
+
+---
+
+## Open Streets Materials and Logistics (Nora, Gen, Adam, Nic, Brianna)
+
+- Nora is creating a mini-Jeopardy trivia board for the Open Streets booth — approximately 4–5 categories with 4–5 questions each, with answers flipped underneath; she will also write brief talking points per question if time allows
+- Gen offered to draft some trivia questions and send them over; Steph also offered to review
+- Gen plans to bring candy from Costco as prizes
+- Brianna suggested checking whether materials from the World Soils Day event at the Arboretum (December) are still available, including info cards on microorganisms and soil biota; she will follow up with Ava by text
+- Planned display materials include: the Frogtown monolith, the trivia/Jeopardy board, a double-sided 8.5x11 handout about urban gardens, and QR codes for resources
+- Gen will try printing the handout on campus; Nora can print it if needed
+- For the monolith stand, Nic suggested two easel-mounted monoliths donated by Monica Holler (originally made for a museum exhibit) that fold up and are easy to transport; the group agreed these could work
+- Gen plans to have more than one table at the booth; Nora will bring a table from home
+- Gen will send an updated email to the group today with booth location and logistics
+
+## Soil Topsoil Drop-Offs (Nic, Nora, Steph)
+
+- Nora and Gen completed a recent round of drop-offs (3 sites in approximately 4 hours, using a smaller truck limited to 1 yard per load)
+- Shari at Victoria Garden could take more topsoil if budget allows; Nate at Pilgrim had enough from the previous drop-off
+- Steph noted that Midway neighborhood gardeners would like a topsoil drop-off (estimated 2–3 yards); no drop-off location has been identified yet, but Steph will work on finding one with community members
+- Nic and Nora will connect before the end of the week to see if a combined drop-off at Victoria and Midway can be scheduled for the following week; using a larger fleet truck would allow 2 yards per load and save time
+
+## July 18th Soil Short Course — Green Spirit Garden (Steph, Nic)
+
+- Steph and Ava have planned a soil short course for Saturday, July 18th at Green Spirit Community Garden and the Midway naturalized planting area (a Bee Line site along Pierce Butler Route)
+- The event coincides with the Lawns to Legumes statewide garden tour, with 9 sites open in Como, Frogtown, and Midway
+- Gardeners have been receptive to the idea that compost alone may not address all fertility needs; recent high lead readings from the urban soil survey have prompted questions
+- Planned topics include soils information, cover crops, fertilizer inputs and application rates, and hands-on activities; Steph and Ava still need to finalize details
+- Nic said the group will wait to hear more from Steph and Ava on what support would be helpful
+
+## Fieldwork Update — Golf Course (Gen, Nora, Brianna, Nic, Adam)
+
+- The team has completed 9 holes/sites at the golf course so far; approximately 17 remain, though not all need to be completed
+- Site types covered include tee boxes, bunkers, a peatland area, and a crusting site; greens have not yet been sampled
+- Notable observations:
+    - Densic (little D) features found in the top 1–2 layers; in natural soils, these are interpreted as Superior Lobe till; in HTM on mechanically compacted tee boxes, they are also being called Densic
+    - A crusting site near hole 7 shows blue-gray surface cracking/crusting on a dried-out area adjacent to a pond; the surface crust was described as all at the surface with blue and white coloration; Nic noted it looks evaporative, possibly related to upward wicking from subsurface moisture, and is interested to run electrical conductivity on the samples
+    - That pond-adjacent area was confirmed as a formerly filled-in wetland (per golf course staff member Brent); cattails are attempting to grow but failing
+    - Water table at the crusting site was over 1 meter depth
+- Nic plans to come out to the golf course this week; Friday morning is tentatively planned for peat auger coring at the deep peat site using extensions to determine depth; Nic will also arrange another day to sample a green
+- Adam will connect with Gen by phone after the meeting to go over completed sites and plan the rest of the week; the goal is approximately 5–6 sites tomorrow using the Giddings probe
+- Gen will update the calendar invite with the planned 6 sites for tomorrow and will pick up gutters and field sheets from campus in the morning
+- Nora to print 100 RUSI field sheets; Nic to leave them outside the Basic Soils Lab for Gen to pick up
+
+## Bulk Density Sampling Update (Nora, Brianna, Nic, Adam)
+
+- Bulk density has been collected using rings; the compliant cavity method has not yet been needed
+- It has been done successfully across a variety of site types including bunkers and greens, though it is time-consuming — typically done when there are 3 or more people at a site
+- Brianna raised a question about horizons that are thinner than the ring: Nic advised recording that the sample spans multiple horizons, or using the compliant cavity method for very thin horizons; Adam noted that if two horizons seem similar in density, using the ring across both is acceptable
+
+## Fieldwork Scheduling and School District Sites (Adam)
+
+- Adam met this morning with the grounds/facilities contact for the Apple Valley–Rosemount–Eagan School District; sites were approximately 99% approved; the district has significant construction activity but sampling will proceed
+- Dakota County has been a coverage gap in the survey data; these schools will help fill it
+- Those sites are tentatively scheduled for the end of June into early July, with approximately 7 days budgeted
+- Adam will be out of town June 15–19; Lakeville-area school sites are planned for that week with approximately 3 field days; maps and flagging will be prepared in advance for the crew to work independently
+
+## Meeting Cadence and Data Check-Ins (Nora, Adam, Gen)
+
+- Nora asked whether the Tuesday/Thursday data processing check-ins should continue or be folded into Monday meetings
+- Adam said the current Monday meeting structure is sufficient given the pace of fieldwork, and that he won't have many data processing updates to share during the field season
+- Adam suggested potentially moving to weekly Monday meetings (rather than bi-weekly) as Randy's August visit approaches, to improve coordination
+
+## Bi-Monthly Meeting with Randy (June 9th)
+
+- The bi-monthly meeting with Randy is scheduled for Tuesday, June 9th
+- Adam has not worked on concepts since the last Randy meeting and is unsure of what to prepare
+- Brianna noted she has started scanning 2026 description sheets and has uploaded some to Box for data entry on off-field days

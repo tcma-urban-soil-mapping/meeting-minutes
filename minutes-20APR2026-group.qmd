@@ -1,0 +1,78 @@
+# Group Check In 20APR2026
+
+**Date: April 20, 2026**
+
+## Attendees
+
+- Nora Pearson
+- Patty Burns
+- Nic Jelinski
+- Ava McCune
+- Brianna Hayward
+- Genevieve Saldibar
+
+## Green Spirit Community Garden — Lead Sampling (Ava, Nic)
+
+- pXRF Green Spirit Community Garden in St. Paul returned lead readings of 4,000–7,000 ppm in a horizon where an old metal plant hanger was removed; the site was formerly a neighborhood and rail yard
+- The high-lead samples came from a non-food-producing area of the garden and were not at the surface
+- Ava and Kasia have a personal plot at Green Spirit and are connected with the site; Ava has been in contact with Erin, who appears to coordinate garden activities
+- Nic agreed the group should invest time in additional screening of actively managed, food-producing areas to give a more comprehensive and representative assessment to the garden
+- Ava plans to collect samples from a few depths within her plot on Wednesday and attend a group garden event Saturday at 9:30 to speak with community members
+- Ava will also follow up with Adam regarding the original sampling contact
+- For follow-up communications with the garden, Nic suggested framing it as wanting to screen food-producing areas to be more comprehensive in reporting
+- Focus will be on lead only; pH, organic matter, and other measurements will not be a concern for this follow-up
+
+## Tomorrow's Meeting with Randy — Wetness Criteria Discussion (Patty, Nora, Nic)
+
+- A meeting with Randy is scheduled for tomorrow at 10:30
+- Patty received an email from Randy last week regarding questions on Adam's key, specifically around how to categorize wetness criteria
+- The open question is whether to use all standard drainage classes (very poorly drained through well-drained) or to lump some categories — e.g., poorly drained and somewhat poorly drained — into a single concept
+- A specific sticking point is where to place "oxyaquic" — whether it aligns more with moderately well-drained or well-drained
+- The group agreed to discuss this collectively tomorrow; Joe will be present, and Nic confirmed he will also attend
+- Adam asked that the group discuss and bring him into the loop after he returns
+
+
+## NASIS QC Update (Patty)
+
+- All 2025 pedon data has been entered into NASIS; the site tab is fully complete
+- Patty is working through the pedon tab, with the primary workload being classifications
+- She is cross-referencing Adam's spreadsheet and QC notes from Adam and Gen for classifications
+- Approximately 50 of ~160 pedons are done, with roughly 100 remaining
+
+## Thesis Work Update (Nora)
+
+- Nora has completed random forest regression modeling to predict whether more than 50 cm of HTM is present across the area of interest
+- That output has been fed into a clustering algorithm, which is also now complete
+- Current work is focused on writing everything up for her thesis
+- Nora is targeting a thesis defense on May 15th; if that happens, she will help with fieldwork, likely a couple of days per week
+
+## Lab Update (Ava)
+
+- Lab work is progressing well; samples continue to be processed
+- All samples flagged for carbon analysis have been pulled; approximately 80% are expected to be sent out by mid-May (some are still wet and may take longer)
+- Aiden will use those samples to generate carbon models via MIR
+- Results from last year's urban garden samples are being compiled and are expected to go out by end of the week, pending nutrient testing results from AgVise
+- Ava's full-time position ends mid-May; after that she will work for Nic as a temp, focused on compiling and sending data out to homeowners in order of urgency — those who have actively requested data will be prioritized
+- Gen mentioned that Gudrun Locke (neighbor to Shoreham Yards railroad area) had inquired about her soil sample results; Gen will locate the relevant sample IDs in the tracking sheet, highlight them, and tag Ava with a comment in Google Drive so they can be prioritized if not already flagged
+
+## Sample Processing Over Summer
+
+- Since lab staffing will be limited over summer, Ava suggested that one field crew member per week do wet-weighing of samples and put drying samples into the bin to be sieved
+- Goal is to keep processing moving and avoid a large backlog for whoever handles lab work the following year
+
+## Summer Field Staffing (Patty, Nora, Ava, Brianna, Gen)
+
+- Nora: will be in the field at least a couple days a week if she defends in May; exact schedule to be worked out with Nic
+- Brianna: likely a mix of data entry and field work, similar to last year; details TBD pending position confirmation
+- Gen: also likely a mix of field and other work; details still being worked out following confirmation of a grant award
+- Aiden: expected to be in the field one to two days per week
+- Adam will be in the field
+- Nic is looking to hire another undergrad
+- Kasia: may have other field commitments this summer, so field availability is uncertain
+- Patty: plans to step back for most of the summer due to personal commitments but is available for a day here and there if needed; will attend the field training session Adam is planning for new crew members
+
+## Reference Field Guide (Brianna, Patty)
+
+- Brianna uploaded the reference field guide to Box and to the lab folder
+- Patty reviewed it and said it looks good; noted it covers course fragments and other items she has had to look up in the Red Book
+- Patty plans to put together a couple of slides on drainage classes and field identification (based on aquic conditions) for the upcoming field training, and may incorporate that content into Brianna's guide
