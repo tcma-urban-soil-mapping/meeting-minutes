@@ -1,0 +1,72 @@
+# Group Check In 15JUN2026
+
+**Date: June 15, 2026**
+
+## Attendees
+
+-   Nora Pearson
+-   Nic Jelinski
+-   Clayton Johnson
+-   Genevieve Saldibar
+-   Brianna Hayward
+
+## Personnel and Role Updates
+
+-   Nora will remain as a graduate student through the end of the summer and plans to transition to a research staff position in September.
+-   Nora will finish edits on her thesis by the end of June and send a chapter to co-authors for journal publication comments.
+-   Starting in July, Nora will spend significantly more time in the lab, taking over sample processing and lab analysis pipelines previously set up by Ava.
+-   Aiden will conduct field work with the team on Tuesdays and work on MIR tasks on non-field days.
+-   Nora will join field work on Wednesdays and Thursdays.
+-   Bailey will join field work whenever available.
+-   Gen and Bri will focus primarily on field work, homeowner reports, and data management.
+
+## Taxonomy and NASIS Data Entry
+
+-   Clayton Johnson joined the call to discuss working on taxonomy in NASIS and reviewing approximately 14 pedons. He is awaiting feedback from Randy regarding the pedon taxonomy classifications to confirm accuracy.
+-   The preliminary taxonomy in NASIS includes subgroup-level details.
+-   Bri and Adam are the primary contacts for granular questions regarding Survey123 data entry, pedons, and taxonomy.
+-   The team previously updated classifications based on buried horizon rules discussed in the fall.
+-   The team will locate and send internal classification keys and NRCS reference documents to Clayton to assist with NASIS entries.
+
+## Field Work Schedule and Protocols
+
+-   Field work is scheduled for Tuesdays, Wednesdays, and Thursdays, leaving Mondays and Fridays for non-field data tasks unless weather requires schedule shifts.
+-   The team completed field sampling at school sites in Lakeville, encountering extremely dense, highly compacted soils and high percentages of coarse fragments.
+-   Compaction at the Lakeville elementary school site was attributed to human activity and human-transported material (HTM) near building foundations, rather than natural till.
+-   One Lakeville site was flagged for a potential field review day due to digging difficulty.
+-   The team collected bulk density samples at the Lakeville sites despite high resistance and coarse fragments.
+-   Foot traffic during excavation can compact the top 10 centimeters of soil; deeper soil layers remain largely unaffected by walking.
+-   Field protocol update: The team will use flags to mark two sides of a pit face to prevent soil compaction where top-horizon bulk density samples will be taken.
+-   The team needs to acquire bread knives for cutting volumetric cubes in organic or surface horizons.
+
+## Data Entry and Homeowner Reports
+
+-   Bri and Gen will prioritize completing homeowner garden reports during non-field days before resuming pedon data entry in NASIS.
+-   Gen reviewed the homeowner report template and will begin working through requested reports.
+-   Gen will meet with Adam to determine which GSOC touchpoints and data entries she can take over.
+-   Gen will create a Spanish version of the homeowner Google Form for residents in the Southport neighborhood in St. Paul.
+-   The Spanish Google Form will be created as a separate form and stored in the shared lab drive so all team members have access to the responses.
+-   Nic will reconnect with Southport community contacts once the Spanish form link is available.
+
+## Laboratory Operations
+
+-   Samples from recent golf course sites are currently stored in the lab with wet weights recorded, but sample processing has not started.
+-   All other 2026 samples collected to date are currently stored in the lab awaiting processing.
+-   Priority samples requiring carbon analysis for homeowner reports have been pulled and submitted for testing.
+-   Nora will verify with Kasia whether additional priority samples remain from the target list of approximately 492 to 600 samples.
+
+## Community Outreach and Events
+
+-   The team discussed participation in the upcoming peace celebration event scheduled for Saturday.
+-   Gen will work a shift from 2:00 PM to 6:00 PM assisting with teardown.
+-   The team reported high attendance and positive community engagement at the recent Open Streets event.
+
+## Action Items
+
+1.  Bri and Gen: Focus non-field work time on completing backlogged homeowner garden reports.
+2.  Gen: Create a Spanish version of the homeowner Google Form and place it in the shared drive.
+3.  Nic: Contact Southport community organizers once the Spanish Google Form is active.
+4.  Gen: Coordinate with Adam on Monday to take over assigned GSOC entries.
+5.  Nora: Check with Kasia regarding total counts and status of priority carbon samples.
+6.  Nora and Bree: Locate internal taxonomy keys in Box and email them to Clayton.
+7.  Field Crew: Implement flagging protocol on two sides of soil pits to preserve uncompacted surface soil for bulk density sampling.

@@ -1,0 +1,59 @@
+# Group Check In 27JUL2026
+
+**Date: July 27, 2026**
+
+## Attendees
+
+- Adam Devlin
+- Nora Pearson
+- Genevieve Saldibar
+- Brianna Hayward
+- Joseph Brennan
+- Nic Jelinski
+- Randy Riddle
+
+## Laboratory Operations and Data Management
+
+- Nora is prepping a set of priority samples requested by Adam for laser particle size analysis (LPSA) and plans to run them tomorrow.
+- The team agreed to keep the laser data in its own standalone spreadsheet and place it in the designated field review folder rather than immediately integrating it into the master Google Sheet.
+- Adam completed pH and electrical conductivity (EC) testing for all field review sites and plans to finish PXRF analysis.
+- Nora will complete pXRF analysis on the field review samples.
+- Nora will store completed LPSA priority samples in the cardboard bin and leave remaining samples in the priority H1 bin.
+
+## Field Work Schedule and Field Review Prep
+
+- Field sampling is scheduled for Tuesday and Wednesday, with Thursday and Friday dedicated to field review site excavation and prep.
+- The Thursday field review crew includes Adam, Gen, Bri, Nora, Kellen, Aiden, and Tara.
+- The Friday field review crew includes Adam, Gen, Bri, Aiden, and potentially Julia or Nora after 11:30 AM.
+- Nora purchased five new 6x8 foot heavy-duty brown tarps from Home Depot to hold spoil piles at field review sites. She will deliver them to campus by 9:00 AM for Adam to distribute across field teams.
+- Adam will verify stock of plastic cling wrap rolls to cover soil gutters during site prep.
+- The team will use metal stake flags wrapped with forestry flagging tape to enclose pit areas where necessary.
+- Field crews will dig re-excavation pits adjacent (approximately 5 feet) to original site locations to assess soil profiles and evaluate within-site variability.
+
+## Field Review Materials and Packet Setup
+
+- Nic and Adam are collaborating to compile a printed field guide packet and accompanying PDF for the upcoming review.
+- The field review packet will include site concepts, geomorphic surface descriptions, hillshade maps, elevation context, previous soil profile descriptions, map unit info, and lab data.
+- Gen is finalizing and cleaning up written descriptions for existing soil profile sheets.
+- Nic will print approximately 10 spiral-bound copies of the field guide packet for review participants, including Randy, Clayton, Joe, Nic, Patty, Adam, Gen, Nora, Bri, and Betsy.
+- Nora will send Nic an email containing exact file paths and Tier 2 server locations for her spatial modeling scripts and data.
+- Nic will attempt to pull live scripts from Tier 2 to run updated machine learning models and generate predicted soil property ranges for the field guide if time permits.
+
+## Office Review and Project Coordination
+
+- The field review schedule includes full field days on Monday and Tuesday, a Wednesday morning stop at the Sarita Wetlands site on campus, and an afternoon office review session.
+- Nora reserved Borlaug rooms 375 and 415 for the Wednesday review sessions.
+- Randy Riddle confirmed the Wednesday office review will focus on reviewing dataset progress, discussing soil classifications, addressing procedural items, and establishing future project timelines.
+- Formal written reports are not required for the Wednesday office session, but organized lists, inventories, and data summaries should be available for documentation.
+
+## Action Items
+
+1. Nora: Prep and run priority LPSA samples on Tuesday, export cleaned data, and send to Adam and Ava.
+2. Nora: Pick up five new tarps on Tuesday morning and drop them off on campus by 9:00 AM.
+3. Nora: Perform one hour of pXRF testing on Tuesday morning.
+4. Nora: Email Nic the exact Tier 2 file paths for machine learning scripts and project data.
+5. Adam: Check cling wrap rolls and forestry flagging tape supply in lab room 212.
+6. Adam and Nic: Meet at 3:00 PM to finalize content for the field review packet.
+7. Gen: Complete edits and clean up previous soil profile description sheets for the packet.
+8. Nic: Print and spiral-bind 10 copies of the field review packet.
+9. Joe: Contact Clayton Johnson regarding field review attendance and touch base with Randy on the Wednesday agenda.

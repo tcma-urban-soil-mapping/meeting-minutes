@@ -1,0 +1,53 @@
+# Group Check In 21SEP2026
+
+**Date: September 21, 2026**
+
+## Attendees
+
+- Nora Pearson
+- Adam Devlin
+- Joseph Brennan
+- Clayton Johnson
+- Steph Hankerson
+
+## Project Websites and Spatial Data Management
+
+- Nora, Nic, and Adam met to discuss data organization, including university-side storage for lab, field, and spatial covariate data.
+- Nora will update the front-facing project e-book and website to reflect the project's current progress, adding updated deliverables, photos, and context.
+- Nora and Nic will coordinate on spatial data analysis and next steps to re-engage GIS modeling.
+
+## Site Classification and Data Correlation
+
+- Adam and Gen completed assigning project classification concepts across all pedons from 2024 and deep pedons (greater than 100 cm depth) from 2025.
+- Approximately 20 shallow pedons from 2025 remain unclassified due to limited depth profile data.
+- Adam will identify representative central concept pedons and evaluate which samples require additional laboratory analysis to establish efficient lab testing workflows.
+- For pedons with missing laboratory particle size or soil texture data (predominantly from early 2024), Adam will assign field estimate classes based on geomorphic location, soil survey descriptions, and neighboring pedon trends rather than leaving fields blank, following Joe's suggestion.
+- Laser particle size analysis (LPSA) conducted in the lab provides relative profile differentiation and clustering data rather than absolute hydrometer-equivalent texture classes.
+- Primary geomorphic breaks for till were split into medium/fine-textured till and medium/coarse-textured till based on observed soil properties.
+- Joseph recommended refining the project's overall geomorphic surface map at a 1:12,000 scale over the next month or two, incorporating point-level field findings and existing soil survey data before feeding the updated boundaries into spatial modeling pipelines.
+
+## Personnel, Data Entry, and NASIS Operations
+
+- Adam will be on leave from October 2 to October 30 as he transitions into a Researcher 2 position within the lab.
+- Three new undergraduate students have joined the laboratory team to assist with sample processing and data management pipelines.
+- Gen transitioned to a 14-hour-a-week role and is entering pedon data into the NRCS Survey123 system.
+- The team completed sampling at 89 total sites for the 2026 season, including golf course locations, with 26 pedon entries submitted to Survey123 so far.
+- Adam will assist with Survey123 pedon entries to maintain workflow momentum during data processing.
+- Clayton processed approximately 20 uploaded pedons in NASIS for 2026 and will continue NASIS updates as Gen and Adam upload additional Survey123 records.
+- Nora will notify Clayton via email when new batch exports are ready for NASIS processing.
+
+## Community Outreach and Events
+
+- Community members in the Powderhorn neighborhood requested the team's participation in a soil testing and conservation event targeted for Saturday, October 17.
+- Adam is coordinating details regarding event expectations (e.g., heavy metal/lead screening using XRF vs. general soil health education).
+- Steph noted limited availability during October due to seasonal planting and seed collection schedules but remains open to short commitments depending on event scope.
+- Adam will explore alternate staffing options or flexible scheduling with community contacts, Bailey, or other lab members.
+
+## Action Items
+
+1. Nora: Update the public-facing project ebook and website with current progress, photos, and refreshed deliverable information.
+2. Adam: Finalize concept classification for remaining pedons and identify target samples requiring additional lab analysis before October leave.
+3. Gen and Adam: Continue entering remaining 2026 pedon records into Survey123.
+4. Nora: Export completed Survey123 data and notify Clayton when new pedon records are ready for NASIS entry.
+5. Joseph and Nora: Coordinate adjustments to the 1:12,000 geomorphic surface map based on updated point-level correlations.
+6. Adam: Follow up with Powderhorn event organizers to clarify requested activities for the October 17 event.

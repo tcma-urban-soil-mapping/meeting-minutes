@@ -1,0 +1,73 @@
+# Group Check In 29JUN2026
+
+**Date: June 29, 2026**
+
+## Attendees
+
+- Adam Devlin
+- Brianna (Bri) Hayward
+- Joseph (Joe) Brennan
+- Nic Jelinski
+- Nora Pearson
+- Randy Riddle
+
+## Agenda Items & Discussion
+
+### Internal & Database Updates
+
+- Clayton is continuing quality control (QC) in NASIS, validating Survey123 uploads against database records following Patty’s recent work.
+- Randy noted that internal, back-end alignment between Survey123 data and NASIS remains an ongoing priority.
+
+### Field Updates
+
+- Golf Course Sampling:
+  - Recent field efforts included sampling at the UMN golf course.
+  - Preliminary HTM models (previously run by Nora) had indicated low HTM probabilities for golf courses. However, fieldwork confirmed significant HTM thickness (>50 cm) across almost all points, providing critical data to retrain and refine the HTM probability surface models.
+
+- School District Focus (South Metro)
+  - Spent two weeks sampling school grounds on the south side of the metro area.
+  - Focused on the old till geomorphic surface and transition boundaries between fine loamy till (west) and glaciofluvial deposits.
+  - Field observations validated the accuracy of the current geomorphic surface map.
+  - Collected approximately 19 pedon descriptions from large open lawn and athletic field settings:
+    - Lawns: Dense HTM overlying natural parent material.
+    - Glaciofluvial Areas: Sands capped by coarse loamy HTM.
+    - Old Till Areas: Till capped by loess/silty material; HTM generally corresponded to local parent materials.
+  - Bulk density samples were collected to capture variability ranging from highly compacted to uncompacted zones. These school properties serve as useful analogs for large-scale commercial developments involving cutting, filling, and smoothing.
+
+- Data Entry & Survey123 Feedback:
+  - Out of approximately 60 profiles described so far in 2026, Bri has completed data entry for 10.
+  - Decimal Input Issue: Survey123 currently prevents decimal inputs for roots and pores (only integers are accepted). Bri is documenting exact decimal values in horizon/miscellaneous notes. Randy will notify Elena to address this glitch.
+  - Particle Size Control Section & Cohesive Artifacts: Bri noted that 2025 profile calculations omitted non-penetrable, persistent cohesive artifacts from rock fragment percentage estimates. All 2026 profiles now properly combine artifacts and rock fragments for particle size control section calculations and texture modifiers. Randy clarified taxonomy application: particle size control sections and texture modifiers require combined volume calculations of rock fragments and artifacts. However, HAHT material classes in Chapter 17 (e.g., Artifactic) strictly evaluate the artifact fraction alone at any depth within the HTM layer.
+  - Taxonomic Subgroup Glitch: Survey123 is currently blocking subgroup entries specifically for Argiaquolls. Bri is entering these in the overall pedon text notes.
+
+### Lab Updates
+
+- Personnel: Ava has transitioned from full-time to part-time (14 hours/week). Nora is stepping into primary lab sample workflow management.
+- Sample Processing: Steady progress is being made on high-priority carbon samples, and Aiden continues running samples via MIR. Over 2,000 physical samples are currently logged, with ~700 flagged as high priority for central concept testing, carbon analysis, and stakeholder reports.
+
+### TCMA Soil Concepts & Decision Tree Development
+
+- Adam presented Version 3 of the TCMA Concept Decision Tree:
+  - Streamlined endpoints and assigned color-coded attributions matching major geomorphic surfaces (river systems, lacustrine, old till, glaciofluvial, coarse-loamy till, etc.).
+  - Reordered decision steps so major interpretive factors (flooding, organic layers, shallow wetness) occur higher in the workflow.
+  - Removed redundant splits differentiating organic-enriched vs. non-organic-enriched buried horizons, consolidating native genetic horizons beneath HTM.
+  - Integrated root-limiting layers (e.g., M horizons for manufactured layers, CD horizons for dense till beyond 60 cm depth).
+- Dense Till Observations: Dense till (e.g., Twin Cities member) was identified during golf course probing/coring. Joe and Randy noted that while dense till can be found in the East and West Metro, team members should distinguish localized occurrences from widespread map unit concepts.
+- Drainage Class Alignment: The team agreed to align wetness terminology in the key directly with standard NRCS drainage classes (e.g., poorly drained, well drained) to maintain consistency with NASIS database fields.
+
+### August Field Review Planning
+
+- Timing: Targeted for the week of August 3, pending final administrative approval.
+- Format & Site Selection Target: Target 4 to 5 sites per day. Focus on landscape-level geomorphic surfaces and major repeating HTM concepts rather than single-point anomalies or repeating previously reviewed sites. 
+- Excavation depths should ideally reach ~1 meter to expose the primary control section (unless a root-limiting layer or dense material is encountered earlier). A dedicated advance digging team may be used to prepare and backfill pits safely.
+- Target Concepts for Review: revisit higher-priority repeating concepts across different parent materials, particularly till concepts (West Metro fine loamy till, North Metro/Anoka Sand Plain transitions).
+- Evaluate HTM with thick, dark epipedons (A vs. C horizon nomenclature).
+
+### Taxonomic & Dark HTM Discussion
+
+- Dark Horizon Classification (A vs. C): The team discussed the challenge of classifying thick, dark HTM layers. Taxonomy says that in order to qualify as an A horizon, the layer must represent active in-situ organic matter accumulation post-deposition. Inherently dark HTM fill placed during construction/grading should generally be designated as C (or A if appropriate under specific conditions), with true A horizons usually restricted to thin surface layers (e.g., top 10 cm forming under turf grass).
+- Property data (e.g., carbon content) will be preserved in NASIS database records regardless of formal horizon nomenclature.
+
+## Action Items
+
+- Adam & UMN Field Team: Finalize proposed list of 4–5 candidate field review sites per day for the August 3 week, prioritizing major geomorphic surfaces and key HTM concepts.
