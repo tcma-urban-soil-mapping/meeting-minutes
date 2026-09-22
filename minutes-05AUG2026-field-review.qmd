@@ -1,0 +1,115 @@
+# Field Review Meeting Minutes — August 5, 2026  
+
+**Date: August 5, 2026**  
+
+**First third captured here, remaining added by 25SEP**
+
+## Attendees  
+- Nic Jelinski  
+- Randy Riddle
+- Joseph Brennan
+- Clayton Johnson
+- Betsy Schug
+- Patty Burns
+- Adam Devlin
+- Gen Saldibar
+- Brianna Hayward
+- Nora Pearson
+- Additional team members referenced during discussion
+
+## Section 1–3 Minutes (First ~3000 lines of transcript)
+
+## Overview  
+The group conducted a detailed review of field sites visited earlier in the week and worked collaboratively to refine the HTM (Human‑Transported Material) soil concept key. The discussion centered on simplifying classification, clarifying diagnostic criteria, and establishing consistent parent‑material categories.
+
+## McGuire Middle School Site Key Observations  
+- Mapped as 90% Urban Land / 10% Waukegan  
+- Located on glacial fluvial surface, farthest south of the week’s sites.  
+- Thick HTM present; underlying material is sandy to sandy‑skeletal outwash.  
+- No periodic flooding, no organic horizons within 25 cm, and no wetness criteria met within 25–50 cm.  
+- No root‑limiting layer (R, M, CD) present beyond 60 cm.
+
+### Decisions  
+- Densic layers will not be assigned unless clear root restriction is observed.  
+- Taxonomy remains unchanged after removing d layers.  
+- Site fits into the developing decision tree as: Thick, loamy HTM → over glacial fluvial → well‑drained  
+- Carbonates noted but not considered significant for concept grouping.
+
+## Decision‑Tree Structure for HTM Concepts
+
+The group debated how to simplify and reorganize the HTM concept key. Several important shifts emerged:
+
+### 1. Parent Material First, HTM Second  
+- Instead of beginning with HTM thickness, the group agreed the key should start with native parent material categories, because HTM obscures but does not replace geomorphic context.  
+- Parent material categories proposed:  
+  - Sandy alluvium / glacial lacustrine  
+  - Fine loamy till  
+  - Medium–coarse textured till  
+  - Fine textured lacustrine (silty clay)  
+  - Dense till (Santiago / Cromwell)  
+  - Organic / buried histosols  
+- These categories will serve as the first cut in the decision tree.
+
+### 2. HTM Particle Size Classes  
+- HTM will be grouped broadly as:  
+  - Sandy  
+  - Coarse loamy  
+  - Fine loamy  
+  - Silty  
+  - Fine (rare; included for completeness)  
+- Not all HTM textures will appear in all parent‑material categories; unused boxes will be removed later.
+
+### 3. Flooding / Wetness as a Major Split  
+- Flooding may need to occur before parent material in the key to avoid splitting river‑system soils across multiple categories.  
+- “River system” may be replaced with floodplain, since mapped river systems include terraces not subject to flooding.  
+- Wetness classes will include:  
+  - Very poorly drained  
+  - Poorly drained  
+  - Somewhat poorly drained (redox within 25–50 cm)  
+  - Well drained  
+- Episaturation at houses or low spots will be grouped under somewhat poorly drained unless tied to a mapped wetland.
+
+### 4. High Artifact Soils 
+- High‑artifact soils (e.g., Pig’s Eye, Wildflower Levee, Urban Roots Farm, Swede Hollow) may require their own grouping.  
+- Threshold discussed: >10% artifacts in the control section.  
+- These may override parent‑material categories due to interpretive significance.
+
+### 5. Buried Horizons  
+- Buried A/B horizons will not be used as a major split.  
+- Only native parent material needs to be identified beneath HTM.
+
+## Densic Layers and Root Restriction
+
+### Key Points  
+- Densic suffix (“d”) should only be used when physical root restriction is present.  
+- Fine and very fine roots observed in many “dense” layers indicate they are not densic.  
+  - Quote: “Fine and very fine roots… shouldn’t be strong enough to get through that.”  
+- The group will continue recording “d” in field descriptions when material feels compact, but will only classify densic layers when root restriction is confirmed.  
+- This allows later correlation with bulk density data.
+
+### Decisions  
+- Keep using “d” in field notes, but do not classify densic unless roots are absent within ~10 cm spacing.  
+- Anthrodensic layers will be rare and mostly associated with construction zones (schools, building footprints).  
+- No densic split will be added to the HTM concept key at this time.
+
+## Site Classification Summary (Sections 1–3 Only)
+
+### McGuire Middle School  
+- Geomorphic Surface: Glaciofluvial  
+- HTM Thickness: Thick (>50 cm)  
+- HTM Texture: Loamy (fine loamy)  
+- Underlying Material: Sandy / sandy‑skeletal outwash  
+- Wetness: Well drained  
+- Densic: No  
+- Organic Influence: None  
+- Provisional Concept: Thick loamy HTM over glacial fluvial, well‑drained
+
+## Action Items (Sections 1–3 Only)
+
+- Continue refining parent‑material categories for the first cut of the decision tree.  
+- Update wetness criteria in Adam’s key (ensure somewhat poorly drained = redox within 25–50 cm).  
+- Maintain “d” suffix in field descriptions but classify densic only with confirmed root restriction.  
+- Begin drafting HTM particle‑size categories for each parent‑material group.  
+- Prepare to incorporate high‑artifact soils as a separate grouping.  
+- Revisit carbonates later once more data is available.  
+- Hold off on buried‑horizon distinctions; focus on native parent material instead.
